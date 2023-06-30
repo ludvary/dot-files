@@ -26,7 +26,10 @@ require("astronvim.utils").conditional_func(astronvim.user_opts("polish", nil, f
 vim.cmd([[highlight Comment guifg=#677475]])
 
 -- relative line number
-vim.o.relativenumber=true
+-- vim.o.relativenumber=true
+-- i no longer want or need line numbers, i think without line numbers is cleaner
+vim.cmd("set number!")
+vim.cmd("set norelativenumber")
 
 -- true colors
 vim.o.termguicolors=true
