@@ -11,13 +11,19 @@ echo ==================================
 echo
 
 # go to nvim/themes and get the names
-cd ~/.config/nvim/themes/ && fd --max-depth 1 > /media/fomalhaut/HOME/hause/significant\ things/dot_files/theme_names.txt && echo nvim themes were copied successfully
+cd ~/.config/nvim/themes/ && fd --max-depth 1 >/media/fomalhaut/HOME/hause/significant\ things/dot_files/theme_names.txt && echo nvim themes were copied successfully
 
 echo ==================================
 echo
 
 # copy init.lua
 cp ~/.config/nvim/init.lua /media/fomalhaut/HOME/hause/significant\ things/dot_files/ && echo init.lua was copied successfully!
+
+echo ==================================
+echo
+
+# copy init.lua
+cp ~/.config/nvim/lua/plugins/plugins.lua /media/fomalhaut/HOME/hause/significant\ things/dot_files/ && echo plugins.lua was copied successfully!
 
 echo ==================================
 echo
