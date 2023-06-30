@@ -107,7 +107,7 @@ alias sig_things="cd /media/fomalhaut/HOME/hause/significant\ things/"
 alias Geet="cd /media/fomalhaut/HOME/hause/significant\ things/Git\ Projects"
 alias Julia="cd /media/fomalhaut/HOME/hause/significant\ things/code/Julia"
 alias Python="cd /media/fomalhaut/HOME/hause/significant\ things/code/mostly_py"
-alias elitist_choice="work && vim"
+alias elitist_choice="sig_things && vim"
 alias update="sudo apt update && sudo apt upgrade -y && exit"
 alias hollow_knight="wine ~/.wine/drive_c/Program\ Files\ \(x86\)/DODI-Repacks/Hollow\ Knight/hollow_knight.exe && exit"
 alias push_dots="rsync -av --exclude='.git' --exclude='*/.git' --exclude='.github' --exclude='*/.github' ~/.config/nvim/ /media/fomalhaut/HOME/hause/significant\ things/dot_files/nvim/ && rsync -av -exclude='*/.git' --exclude='*/.github' ~/.oh-my-zsh/ /media/fomalhaut/HOME/hause/significant\ things/dot_files/.oh-my-zsh && rsync ~/.zshrc /media/fomalhaut/HOME/hause/significant\ things/dot_files && sig_things && cd dot_files/ && git add . && git commit -m"add files" && git push"
@@ -127,6 +127,7 @@ precmd() {
 
 # for julia to use all 4 threads while multi-threading
 export JULIA_NUM_THREADS=4
+
 # ZSH_THEME="~/.config/kitty/themes/dist/rose-pine.conf"
 
 # >>> juliaup initialize >>>
