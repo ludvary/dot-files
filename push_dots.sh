@@ -28,5 +28,8 @@ cp ~/push_dots.sh /media/fomalhaut/HOME/hause/significant\ things/dot_files/ && 
 echo ==================================
 echo
 
+# go to dir
+cd /media/fomalhaut/HOME/hause/significant\ things/dot_files/
+
 # do git stuff
 git add . && git commit -m"added stuff" && git push
