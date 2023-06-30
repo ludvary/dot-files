@@ -79,8 +79,8 @@ end
 --
 vim.cmd("set runtimepath+=~/.config/nvim/themes/gruvbox_material.nvim")
 vim.cmd("let g:gruvbox_material_background = 'hard'")
-vim.cmd("colorscheme gruvbox-material")
---
+-- vim.cmd("colorscheme gruvbox-material")
+vim.cmd("colorscheme rose-pine-main")
 -- vim.cmd("set runtimepath+=~/.config/nvim/themes/gitthemes.nvim")
 --
 -- vim.cmd("set runtimepath+=~/.config/nvim/themes/gruvboxed.nvim")
