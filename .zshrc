@@ -9,10 +9,11 @@ export ZSH="$HOME/.oh-my-zsh"
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 
-# ZSH_THEME="agnoster"
+ZSH_THEME="agnoster"
+# ZSH_THEME="gnzh"
 # ZSH_THEME="lambda"
 # ZSH_THEME="nicoulaj"
-ZSH_THEME="norm"  # this is suprisiingly good!
+# ZSH_THEME="norm"  # this is suprisiingly good!
 
 
 # Set list of themes to pick from when loading at random
@@ -122,7 +123,7 @@ set -o vi
 
 nerdfetch
 
-to add a newline after each propmt
+#to add a newline after each propmt
 precmd() {
     precmd() {
         echo
