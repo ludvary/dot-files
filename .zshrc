@@ -107,6 +107,7 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
 alias minecraft="java -jar ~/Downloads/minecraft/TLauncher-2.885.jar && exit"
 alias vim=nvim
 alias sig_things="cd /media/fomalhaut/HOME/hause/significant\ things/"
@@ -121,6 +122,7 @@ alias push_dots="bash ~/push_dots.sh"
 # to enable some vim goodness in terminal
 set -o vi
 
+# nerdfetch
 nerdfetch
 
 #to add a newline after each propmt
@@ -133,6 +135,7 @@ precmd() {
 # for julia to use all 4 threads while multi-threading
 export JULIA_NUM_THREADS=4
 
+# not using kitty right now
 # ZSH_THEME="~/.config/kitty/themes/dist/rose-pine.conf"
 
 # >>> juliaup initialize >>>
