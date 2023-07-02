@@ -28,6 +28,12 @@ cp ~/.config/nvim/lua/plugins/plugins.lua /media/fomalhaut/HOME/hause/significan
 echo ==================================
 echo
 
+# copy keymaps.lua
+cp ~/.config/nvim/lua/config/keymaps.lua /media/fomalhaut/HOME/hause/significant\ things/dot_files/ && echo keymaps.lua was copied successfully!
+
+echo ==================================
+echo
+
 # copy yourself
 cp ~/push_dots.sh /media/fomalhaut/HOME/hause/significant\ things/dot_files/ && echo push_dots.sh was copied successfully!
 
