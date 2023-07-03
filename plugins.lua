@@ -1,5 +1,5 @@
 return {
-  { "ellisonleao/gruvbox.nvim", priority = 1000 },
+  -- { "ellisonleao/gruvbox.nvim", priority = 1000, palette_overriders = { dark0_hard = "#1d2021" } },
   { "rebelot/kanagawa.nvim" },
   { "shatur/neovim-ayu" },
   { "tanvirtin/monokai.nvim" },
@@ -17,4 +17,5 @@ return {
   { "kadekillary/skull-vim" },
   { "chriskempson/base16-vim" },
   { "kvrohit/rasmus.nvim" },
+  { "morhetz/gruvbox" },
 }
