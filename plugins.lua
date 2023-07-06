@@ -18,4 +18,6 @@ return {
   { "chriskempson/base16-vim" },
   { "kvrohit/rasmus.nvim" },
   { "morhetz/gruvbox" },
+  { "NLKNguyen/papercolor-theme" },
+  { "bignimbus/pop-punk.vim" },
 }
