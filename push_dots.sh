@@ -17,7 +17,7 @@ echo ==================================
 echo
 
 # copy kitty conf
-cp ~/.config/kitty/kitty.conf /media/fomalhaut/HOME/hause/significant things/dot_files/ && echo kitty.conf was copied successfully
+cp ~/.config/kitty/kitty.conf /media/fomalhaut/HOME/hause/significant\ things/dot_files/ && echo kitty.conf was copied successfully
 
 echo ==================================
 echo
