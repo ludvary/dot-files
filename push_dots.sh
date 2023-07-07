@@ -34,6 +34,12 @@ cp ~/.config/nvim/lua/config/keymaps.lua /media/fomalhaut/HOME/hause/significant
 echo ==================================
 echo
 
+# get i3 config
+rsync -av ~/.config/i3 /media/fomalhaut/HOME/hause/significant\ things/dot_files
+
+echo ==================================
+echo
+
 # copy yourself
 cp ~/push_dots.sh /media/fomalhaut/HOME/hause/significant\ things/dot_files/ && echo push_dots.sh was copied successfully!
 
