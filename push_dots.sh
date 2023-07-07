@@ -16,6 +16,12 @@ cd ~/.config/nvim/themes/ && fd --max-depth 1 >/media/fomalhaut/HOME/hause/signi
 echo ==================================
 echo
 
+# copy kitty conf
+cp ~/.config/kitty/kitty.conf /media/fomalhaut/HOME/hause/significant things/dot_files/ && echo kitty.conf was copied successfully
+
+echo ==================================
+echo
+
 # copy init.lua
 cp ~/.config/nvim/init.lua /media/fomalhaut/HOME/hause/significant\ things/dot_files/ && echo init.lua was copied successfully!
 
