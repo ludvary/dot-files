@@ -1,0 +1,22 @@
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=false
+
+[MainWindow]
+1920x1080 screen: Height=1016
+1920x1080 screen: Width=1882
+1920x1080 screen: XPosition=19
+1920x1080 screen: YPosition=45
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAQAAAAAAAADIAAAD4PwCAAAAAfsAAAAcAG8AawB1AGwAYQByAF8AcwBpAGQAZQBiAGEAcgAAAAAWAAAD4AAAAO8A///+AAAHWAAAA/YAAAAEAAAABAAAAAgAAAAI/AAAAAMAAAABAAAAAQAAACwAcQB1AGkAYwBrAEEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgIAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/docs/Mr. Krishna Das Nair.pdf
+File2[$e]=$HOME/Downloads/docs/antiragging_form.pdf
+Name1[$e]=Mr. Krishna Das Nair.pdf
+Name2[$e]=antiragging_form.pdf

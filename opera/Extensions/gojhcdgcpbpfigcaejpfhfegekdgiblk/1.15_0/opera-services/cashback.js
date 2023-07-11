@@ -1,0 +1,1 @@
+"use strict";window.chrome.runtime.onMessage.addListener((e=>{const a=new Map([["wallet:activationRejected","You have rejected wallet onboarding"],["wallet:activationCompleted","You have successfully onboarded to Opera Wallet!"],["wallet:sidebarHidden","Wallet is not available - the browser sidebar is hidden"]]),t=a.get(e);t&&window.postMessage(t)}));

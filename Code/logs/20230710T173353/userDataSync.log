@@ -1,0 +1,21 @@
+2023-07-10 17:33:55.427 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2023-07-10 17:33:55.427 [info] Auto Sync is enabled.
+2023-07-10 17:33:55.427 [info] Auto Sync: Suspended until auth token is available.
+2023-07-10 17:33:56.107 [info] Deleting non existing profile from backup /home/ludvary-Fomalhaut/.config/Code/User/sync/extensions
+2023-07-10 17:33:56.113 [info] Deleting non existing profile from backup /home/ludvary-Fomalhaut/.config/Code/User/sync/globalState
+2023-07-10 17:33:56.115 [info] Deleting non existing profile from backup /home/ludvary-Fomalhaut/.config/Code/User/sync/keybindings
+2023-07-10 17:33:56.117 [info] Deleting non existing profile from backup /home/ludvary-Fomalhaut/.config/Code/User/sync/profiles
+2023-07-10 17:33:56.119 [info] Deleting non existing profile from backup /home/ludvary-Fomalhaut/.config/Code/User/sync/settings
+2023-07-10 17:33:56.122 [info] Deleting non existing profile from backup /home/ludvary-Fomalhaut/.config/Code/User/sync/snippets
+2023-07-10 17:33:56.125 [info] Deleting non existing profile from backup /home/ludvary-Fomalhaut/.config/Code/User/sync/tasks
+2023-07-10 17:33:56.722 [info] Auto Sync: Triggered by Interval
+2023-07-10 17:33:56.722 [info] Sync started.
+2023-07-10 17:33:57.389 [info] Settings: Last sync resource does not exist locally.
+2023-07-10 17:33:57.732 [info] Settings: No changes found during synchronizing settings.
+2023-07-10 17:33:57.749 [info] Keybindings: Last sync resource does not exist locally.
+2023-07-10 17:33:58.268 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-07-10 17:33:58.273 [info] Snippets: Last sync resource does not exist locally.
+2023-07-10 17:33:58.552 [info] Snippets: No changes found during synchronizing snippets.
+2023-07-10 17:33:58.555 [info] Tasks: Last sync resource does not exist locally.
+2023-07-10 17:33:58.713 [info] Tasks: No changes found during synchronizing tasks.
+2023-07-10 17:33:58.720 [info] GlobalState: Last sync resource does not exist locally.

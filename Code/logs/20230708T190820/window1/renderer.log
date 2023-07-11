@@ -1,0 +1,2 @@
+2023-07-08 19:08:24.510 [info] [perf] Render performance baseline is 65ms
+2023-07-08 19:11:02.191 [warning] [ms-toolsai.vscode-jupyter-cell-tags]: View container 'jupyter-variables' does not exist and all views registered to it will be added to 'Explorer'.

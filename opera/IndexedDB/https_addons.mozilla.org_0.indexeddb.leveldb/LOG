@@ -1,0 +1,6 @@
+2023/07/09-14:50:54.229 67d Creating DB /home/ludvary-Fomalhaut/.config/opera/IndexedDB/https_addons.mozilla.org_0.indexeddb.leveldb since it was missing.
+2023/07/09-14:50:54.235 67d Reusing MANIFEST /home/ludvary-Fomalhaut/.config/opera/IndexedDB/https_addons.mozilla.org_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/09-14:51:10.018 67e Level-0 table #5: started
+2023/07/09-14:51:10.020 67e Level-0 table #5: 1293 bytes OK
+2023/07/09-14:51:10.023 67e Delete type=0 #3
+2023/07/09-14:51:10.023 67e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

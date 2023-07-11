@@ -1,0 +1,48 @@
+  119  7/8/2023 17:09  sudo dnf install neofetch
+  145  7/8/2023 17:21  sudo dnf install scot
+  151  7/8/2023 17:22  sudo dnf install flameshot
+  156  7/8/2023 17:28  sudo dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$\(rpm -E %fedora).noarch.rpm\n
+  159  7/8/2023 17:30  sudo dnf install make
+  167  7/8/2023 17:34  sudo dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$\(rpm -E %fedora).noarch.rpm\n
+  168  7/8/2023 17:34  sudo dnf install "https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm"\n
+  169  7/8/2023 17:35  sudo dnf install telegram-desktop
+  175  7/8/2023 17:40  sudo dnf install gcc
+  202  7/8/2023 18:24  sudo dnf install openjdkclear
+  207  7/8/2023 18:26  sudo dnf install java-latest-openjdk
+  263  7/8/2023 18:38  sudo dnf install libreoffice
+  337  7/8/2023 19:03  sudo dnf install liberation-fonts
+  355  7/8/2023 19:27  sudo dnf install lxappearance
+  412  7/8/2023 20:18  sudo dnf install xbacklight
+  427  7/8/2023 21:58  sudo dnf install gh
+  440  7/8/2023 22:14  sudo dnf install gvfs-mtp
+  502  7/8/2023 22:44  sudo dnf install ripgrep
+  511  7/8/2023 22:47  sudo dnf install xev
+  526  7/9/2023 07:13  sudo dnf install polybar
+  554  7/9/2023 08:09  sudo dnf install gpick
+  700  7/9/2023 12:21  sudo dnf install zathura
+  724  7/9/2023 12:24  sudo dnf install zathura-pdf-poppler-0.3.1-2.fc38.x86_64
+  759  7/9/2023 12:35  sudo dnf install picom
+  765  7/9/2023 12:37  sudo dnf install xkill
+  775  7/9/2023 15:49  sudo dnf install picom
+  779  7/9/2023 15:52  sudo dnf install dbus-devel gcc git libconfig-devel libdrm-devel libev-devel libX11-devel libX11-xcb libXext-devel libxcb-devel libGL-devel libEGL-devel meson pcre2-devel pixman-devel uthash-devel xcb-util-image-devel xcb-util-renderutil-devel xorg-x11-proto-devel
+  780  7/9/2023 15:53  sudo dnf install meson
+  781  7/9/2023 15:53  sudo dnf install asciidoc
+  788  7/9/2023 15:58  sudo dnf install xcb-util
+  791  7/9/2023 15:59  sudo dnf install pkgconfig
+  793  7/9/2023 15:59  sudo dnf install cmake
+  795  7/9/2023 16:01  sudo dnf install libev
+  796  7/9/2023 16:01  sudo dnf install xcb-util
+  804  7/9/2023 16:05  suod dnf install xcb-util-devel
+  894  7/9/2023 16:34  sudo dnf install picom
+ 1263  7/9/2023 21:27  sudo dnf install gtk-recordmydesktop
+ 1313  7/9/2023 21:58  sudo dnf install gimp
+ 1328  7/9/2023 22:28  sudo dnf install vlc
+ 1364  7/10/2023 10:49  sudo dnf install bat
+ 1400  7/10/2023 11:34  sudo dnf install lm_sensors
+ 1406  7/10/2023 11:54  sudo dnf install okular
+ 1430  7/10/2023 12:58  sudo dnf install inxi
+ 1607  7/10/2023 14:17  sudo dnf install xset
+ 1659  7/10/2023 15:51  sudo dnf install xautolock
+ 1669  7/10/2023 16:08  sudo dnf install obs-studio
+ 1703  7/10/2023 17:25  sudo dnf install java-17-openjdk-devel\n
+ 1756  7/10/2023 22:56  sudo dnf install xclip

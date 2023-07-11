@@ -5,55 +5,28 @@
 # the dream is to have this check the system time and then once in a week do the above
 
 # copy .zshrc
-cp ~/.zshrc /media/fomalhaut/HOME/hause/significant\ things/dot_files/ && echo .zshrc was copied successfully!
-
-echo ==================================
-echo
-
-# go to nvim/themes and get the names
-cd ~/.config/nvim/themes/ && fd --max-depth 1 >/media/fomalhaut/HOME/hause/significant\ things/dot_files/theme_names.txt && echo nvim themes were copied successfully
-
-echo ==================================
-echo
-
-# copy kitty conf
-cp ~/.config/kitty/kitty.conf /media/fomalhaut/HOME/hause/significant\ things/dot_files/ && echo kitty.conf was copied successfully
-
-echo ==================================
-echo
-
-# copy init.lua
-cp ~/.config/nvim/init.lua /media/fomalhaut/HOME/hause/significant\ things/dot_files/ && echo init.lua was copied successfully!
-
-echo ==================================
-echo
-
-# copy init.lua
-cp ~/.config/nvim/lua/plugins/plugins.lua /media/fomalhaut/HOME/hause/significant\ things/dot_files/ && echo plugins.lua was copied successfully!
-
-echo ==================================
-echo
-
-# copy keymaps.lua
-cp ~/.config/nvim/lua/config/keymaps.lua /media/fomalhaut/HOME/hause/significant\ things/dot_files/ && echo keymaps.lua was copied successfully!
-
-echo ==================================
-echo
+cp ~/.zshrc /media/HOME/hause/significant\ things/dot_files/ && echo .zshrc was copied successfully!
 
 # get i3 config
-rsync -av ~/.config/i3 /media/fomalhaut/HOME/hause/significant\ things/dot_files
+rsync -av ~/.config/ /media/HOME/hause/significant\ things/dot_files
+
+echo ==================================
+echo
+
+# get scripts
+rsync -av ~/scripts/ /media/HOME/hause/significant\ things/dot_files
 
 echo ==================================
 echo
 
 # copy yourself
-cp ~/push_dots.sh /media/fomalhaut/HOME/hause/significant\ things/dot_files/ && echo push_dots.sh was copied successfully!
+cp ~/push_dots.sh /media/HOME/hause/significant\ things/dot_files/ && echo push_dots.sh was copied successfully!
 
 echo ==================================
 echo
 
 # go to dir
-cd /media/fomalhaut/HOME/hause/significant\ things/dot_files/
+cd /media/HOME/hause/significant\ things/dot_files/
 
 # do git stuff
 git add . && git commit -m"added stuff" && git push

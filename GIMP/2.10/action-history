@@ -1,0 +1,10 @@
+# GIMP action-history
+
+(history-item "file-quit" 1)
+(history-item "file-save" 1)
+(history-item "file-open" 0)
+(history-item "dialogs-preferences" 0)
+(history-item "filters-invert-perceptual" 0)
+(history-item "file-export-as" 1)
+
+# end of action-history

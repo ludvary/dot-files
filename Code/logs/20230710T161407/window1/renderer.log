@@ -1,0 +1,6 @@
+2023-07-10 16:14:12.276 [info] [perf] Render performance baseline is 62ms
+2023-07-10 16:14:13.459 [warning] [ms-toolsai.vscode-jupyter-cell-tags]: View container 'jupyter-variables' does not exist and all views registered to it will be added to 'Explorer'.
+2023-07-10 16:14:20.984 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/ludvary-Fomalhaut/.config/Code/User/sync/globalState/preview' failed: No such file or directory (EUNKNOWN) (path: /home/ludvary-Fomalhaut)
+2023-07-10 16:14:20.986 [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '/home/ludvary-Fomalhaut/.config/Code/User/sync/globalState/preview' failed: No such file or directory
+2023-07-10 16:14:21.004 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2023-07-10 16:14:21.005 [error] [File Watcher (universal)] restarting watcher after error: terminated by itself unexpectedly with code 15, signal: unknown

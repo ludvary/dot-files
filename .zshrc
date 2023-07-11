@@ -9,11 +9,18 @@ export ZSH="$HOME/.oh-my-zsh"
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 
-ZSH_THEME="agnoster"
+#ZSH_THEME="agnoster"
 # ZSH_THEME="gnzh"
 # ZSH_THEME="lambda"
 # ZSH_THEME="nicoulaj"
-# ZSH_THEME="norm"  # this is suprisiingly good!
+#ZSH_THEME="norm"  # this is suprisiingly good!
+ZSH_THEME="robbyrussell"
+
+# set neovim as the manpager
+# export MANPAGER="nvim -c 'set ft=nam' -"
+
+# set bat as manpager
+# export MANPAGER="sh -c 'col -bx | bat -l man -p'"
 
 
 # Set list of themes to pick from when loading at random
@@ -53,7 +60,7 @@ ZSH_THEME="agnoster"
 # You can also set it to another string to have that shown instead of the default red dots.
 # e.g. COMPLETION_WAITING_DOTS="%F{yellow}waiting...%f"
 # Caution: this setting can cause issues with multiline prompts in zsh < 5.7.1 (see #5765)
-# COMPLETION_WAITING_DOTS="true"
+COMPLETION_WAITING_DOTS="true"
 
 # Uncomment the following line if you want to disable marking untracked files
 # under VCS as dirty. This makes repository status check for large repositories
@@ -66,7 +73,7 @@ ZSH_THEME="agnoster"
 # "mm/dd/yyyy"|"dd.mm.yyyy"|"yyyy-mm-dd"
 # or set a custom format using the strftime function format specifications,
 # see 'man strftime' for details.
-# HIST_STAMPS="mm/dd/yyyy"
+HIST_STAMPS="mm/dd/yyyy"
 
 # Would you like to use another custom folder than $ZSH/custom?
 # ZSH_CUSTOM=/path/to/new-custom-folder
@@ -108,16 +115,17 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-alias minecraft="java -jar ~/Downloads/minecraft/TLauncher-2.885.jar && exit"
+alias minecraft="java -jar ~/Downloads/mine/TLauncher-2.885.jar && exit"
 alias vim=nvim
-alias sig_things="cd /media/fomalhaut/HOME/hause/significant\ things/"
-alias Geet="cd /media/fomalhaut/HOME/hause/significant\ things/Git\ Projects"
-alias Julia="cd /media/fomalhaut/HOME/hause/significant\ things/code/Julia"
-alias Python="cd /media/fomalhaut/HOME/hause/significant\ things/code/mostly_py"
+alias sig_things="cd /media/HOME/hause/significant\ things/"
+alias Geet="cd /media/HOME/hause/significant\ things/Git\ Projects"
+alias Julia="cd /media/HOME/hause/significant\ things/code/Julia"
+alias Python="cd /media/HOME/hause/significant\ things/code/mostly_py"
 alias elitist_choice="sig_things && vim"
 alias update="sudo apt update && sudo apt upgrade -y && exit"
 alias hollow_knight="wine ~/.wine/drive_c/Program\ Files\ \(x86\)/DODI-Repacks/Hollow\ Knight/hollow_knight.exe && exit"
-alias push_dots="bash ~/push_dots.sh"
+alias push_dots="bash ~/scripts/push_dots.sh"
+alias nofetch="nofetch --flex red"
 
 # to enable some vim goodness in terminal
 set -o vi
@@ -126,27 +134,25 @@ set -o vi
 nerdfetch
 
 #to add a newline after each propmt
-precmd() {
-    precmd() {
-        echo
-    }
-}
+# precmd() {
+#     precmd() {
+#         echo
+#     }
+# }
+
+# PATHS
+export PATH="$HOME/scripts:$PATH"
 
 # for julia to use all 4 threads while multi-threading
 export JULIA_NUM_THREADS=4
 
-# not using kitty right now
-# ZSH_THEME="~/.config/kitty/themes/dist/rose-pine.conf"
 
 # >>> juliaup initialize >>>
 
 # !! Contents within this block are managed by juliaup !!
 
-path=('/home/fomalhaut/.juliaup/bin' $path)
+path=('/home/ludvary-Fomalhaut/.juliaup/bin' $path)
 export PATH
 
 # <<< juliaup initialize <<<
 
-
-source /home/fomalhaut/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-source /home/fomalhaut/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh

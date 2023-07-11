@@ -1,0 +1,477 @@
+2023-07-08 19:08:22.166 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2023-07-08 19:08:22.166 [info] Auto Sync is enabled.
+2023-07-08 19:08:22.166 [info] Auto Sync: Suspended until auth token is available.
+2023-07-08 19:08:23.150 [info] Auto Sync: Triggered by Interval
+2023-07-08 19:08:23.150 [info] Sync started.
+2023-07-08 19:08:23.488 [info] Deleting non existing profile from backup /home/ludvary-Fomalhaut/.config/Code/User/sync/extensions
+2023-07-08 19:08:23.503 [info] Deleting non existing profile from backup /home/ludvary-Fomalhaut/.config/Code/User/sync/globalState
+2023-07-08 19:08:23.505 [info] Deleting non existing profile from backup /home/ludvary-Fomalhaut/.config/Code/User/sync/keybindings
+2023-07-08 19:08:23.508 [info] Deleting non existing profile from backup /home/ludvary-Fomalhaut/.config/Code/User/sync/profiles
+2023-07-08 19:08:23.511 [info] Deleting non existing profile from backup /home/ludvary-Fomalhaut/.config/Code/User/sync/settings
+2023-07-08 19:08:23.521 [info] Deleting non existing profile from backup /home/ludvary-Fomalhaut/.config/Code/User/sync/snippets
+2023-07-08 19:08:23.522 [info] Deleting non existing profile from backup /home/ludvary-Fomalhaut/.config/Code/User/sync/tasks
+2023-07-08 19:08:24.500 [info] Settings: Last sync resource does not exist locally.
+2023-07-08 19:08:24.903 [info] Settings: No changes found during synchronizing settings.
+2023-07-08 19:08:24.917 [info] Keybindings: Last sync resource does not exist locally.
+2023-07-08 19:08:25.425 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-07-08 19:08:25.436 [info] Snippets: Last sync resource does not exist locally.
+2023-07-08 19:08:25.751 [info] Snippets: No changes found during synchronizing snippets.
+2023-07-08 19:08:25.756 [info] Tasks: Last sync resource does not exist locally.
+2023-07-08 19:08:25.998 [info] Tasks: No changes found during synchronizing tasks.
+2023-07-08 19:08:26.004 [info] GlobalState: Last sync resource does not exist locally.
+2023-07-08 19:08:27.634 [info] GlobalState: Updated remote ui state. Updated: workbench.statusbar.hidden,cpp.1.lastSessionDate,cpp.1.sessionCount,java.2.lastSessionDate,java.2.sessionCount,javascript.1.lastSessionDate,javascript.1.sessionCount,typescript.1.lastSessionDate,typescript.1.sessionCount,colorThemeData,csharp.1.lastSessionDate,csharp.1.sessionCount.
+2023-07-08 19:08:27.642 [info] GlobalState: Updated last synchronized ui state
+2023-07-08 19:08:27.650 [info] Extensions: Migrating last sync user data. Resource does not exist.
+2023-07-08 19:08:27.650 [info] Extensions: Last sync data state does not exist.
+2023-07-08 19:11:01.667 [info] Extensions: Installed extension. ctf0.vscode-terminal-themes 0.1.2
+2023-07-08 19:11:01.670 [info] Extensions: Installed extension. dracula-theme.theme-dracula 2.24.2
+2023-07-08 19:11:01.670 [info] Extensions: Installed extension. gimly81.fortran 0.2.0
+2023-07-08 19:11:01.670 [info] Extensions: Installed extension. evgeniypetukhov.dark-low-contrast 0.6.0
+2023-07-08 19:11:01.670 [info] Extensions: Installed extension. reloadedextensions.reloaded-themes 0.2.5
+2023-07-08 19:11:01.670 [info] Extensions: Installed extension. tomphilbin.gruvbox-themes 1.0.0
+2023-07-08 19:11:01.670 [info] Extensions: Installed extension. builders-club.onlythemes 1.1.0
+2023-07-08 19:11:01.670 [info] Extensions: Installed extension. lakshits11.best-themes-redefined 0.2.0
+2023-07-08 19:11:01.671 [info] Extensions: Installed extension. sldobri.dayle-rees-contrast 1.1.5
+2023-07-08 19:11:01.671 [info] Extensions: Installed extension. sallar.vscode-duotone-dark 0.3.3
+2023-07-08 19:11:01.671 [info] Extensions: Installed extension. ms-vscode-remote.remote-wsl 0.80.2
+2023-07-08 19:11:01.671 [info] Extensions: Installed extension. ms-toolsai.vscode-jupyter-cell-tags 0.1.8
+2023-07-08 19:11:01.671 [info] Extensions: Installed extension. sdras.night-owl 2.0.1
+2023-07-08 19:11:01.671 [info] Extensions: Installed extension. ms-toolsai.vscode-jupyter-slideshow 0.1.5
+2023-07-08 19:11:01.672 [info] Extensions: Installed extension. ms-toolsai.jupyter-keymap 1.1.2
+2023-07-08 19:11:01.673 [info] Extensions: Skipped synchronizing extension VSC-Essentials-Themes
+2023-07-08 19:11:01.673 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.673 [info] Extensions: Skipped synchronizing extension Cobalt2 Theme Official
+2023-07-08 19:11:01.674 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-07-08 19:11:01.674 [info] Extensions: Skipped synchronizing extension Vaporizer Dark & Light Themes
+2023-07-08 19:11:01.674 [error] Download: net::ERR_NAME_NOT_RESOLVED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.674 [info] Extensions: Skipped synchronizing extension Pylance
+2023-07-08 19:11:01.674 [error] Download: net::ERR_NAME_NOT_RESOLVED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.675 [info] Extensions: Skipped synchronizing extension Python
+2023-07-08 19:11:01.675 [error] Download: net::ERR_NAME_NOT_RESOLVED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.675 [info] Extensions: Skipped synchronizing extension Jupyter
+2023-07-08 19:11:01.675 [error] Download: net::ERR_NAME_NOT_RESOLVED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.675 [info] Extensions: Skipped synchronizing extension Dobri Next - Themes and Icons
+2023-07-08 19:11:01.675 [error] Download: net::ERR_NAME_NOT_RESOLVED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.675 [info] Extensions: Skipped synchronizing extension Julia Color Themes
+2023-07-08 19:11:01.675 [error] Download: net::ERR_NAME_NOT_RESOLVED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.675 [info] Extensions: Skipped synchronizing extension Panda Theme
+2023-07-08 19:11:01.676 [error] Download: net::ERR_NAME_NOT_RESOLVED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.676 [info] Extensions: Skipped synchronizing extension Pride VSCode themes 🏳️‍🌈
+2023-07-08 19:11:01.676 [error] Download: net::ERR_NAME_NOT_RESOLVED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.676 [info] Extensions: Skipped synchronizing extension Better Comments
+2023-07-08 19:11:01.676 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.676 [info] Extensions: Skipped synchronizing extension CodeSnap
+2023-07-08 19:11:01.676 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.676 [info] Extensions: Skipped synchronizing extension Atom One Dark Theme
+2023-07-08 19:11:01.676 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.677 [info] Extensions: Skipped synchronizing extension Delphi Themes
+2023-07-08 19:11:01.677 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.677 [info] Extensions: Skipped synchronizing extension Amethyst Themes
+2023-07-08 19:11:01.677 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.677 [info] Extensions: Skipped synchronizing extension FireFly Pro
+2023-07-08 19:11:01.677 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.677 [info] Extensions: Skipped synchronizing extension Nord
+2023-07-08 19:11:01.677 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.678 [info] Extensions: Skipped synchronizing extension Chalice Color Themes
+2023-07-08 19:11:01.678 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.678 [info] Extensions: Skipped synchronizing extension Slate
+2023-07-08 19:11:01.678 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.678 [info] Extensions: Skipped synchronizing extension Lunaria Dark
+2023-07-08 19:11:01.678 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.678 [info] Extensions: Skipped synchronizing extension One Monokai Theme
+2023-07-08 19:11:01.678 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.678 [info] Extensions: Skipped synchronizing extension oxocarbon-port
+2023-07-08 19:11:01.679 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.679 [info] Extensions: Skipped synchronizing extension Firefox Quantum Themes
+2023-07-08 19:11:01.679 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.679 [info] Extensions: Skipped synchronizing extension Polychrome themes
+2023-07-08 19:11:01.679 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.679 [info] Extensions: Skipped synchronizing extension Prismatic
+2023-07-08 19:11:01.679 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.679 [info] Extensions: Skipped synchronizing extension Markdown Julia
+2023-07-08 19:11:01.679 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.680 [info] Extensions: Skipped synchronizing extension slate-theme
+2023-07-08 19:11:01.680 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.680 [info] Extensions: Skipped synchronizing extension dPico Dark Themes Pack
+2023-07-08 19:11:01.680 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.680 [info] Extensions: Skipped synchronizing extension dPlanets Dark Themes Pack
+2023-07-08 19:11:01.680 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.680 [info] Extensions: Skipped synchronizing extension Minimalist Product Icon Theme
+2023-07-08 19:11:01.683 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.683 [info] Extensions: Skipped synchronizing extension Andromeda
+2023-07-08 19:11:01.684 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.684 [info] Extensions: Skipped synchronizing extension Prettier - Code formatter
+2023-07-08 19:11:01.684 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.684 [info] Extensions: Skipped synchronizing extension Owokai Themes
+2023-07-08 19:11:01.686 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.691 [info] Extensions: Skipped synchronizing extension Linter
+2023-07-08 19:11:01.691 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.691 [info] Extensions: Skipped synchronizing extension slate Theme
+2023-07-08 19:11:01.691 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.691 [info] Extensions: Skipped synchronizing extension Brilliance_Black Theme
+2023-07-08 19:11:01.691 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.691 [info] Extensions: Skipped synchronizing extension Output Colorizer
+2023-07-08 19:11:01.692 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-07-08 19:11:01.692 [info] Extensions: Skipped synchronizing extension Blackdot
+2023-07-08 19:11:01.692 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-07-08 19:11:01.692 [info] Extensions: Skipped synchronizing extension Dank Themes
+2023-07-08 19:11:01.692 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.692 [info] Extensions: Skipped synchronizing extension Iqra themes
+2023-07-08 19:11:01.692 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-07-08 19:11:01.692 [info] Extensions: Skipped synchronizing extension LaTeX Workshop
+2023-07-08 19:11:01.692 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.692 [info] Extensions: Skipped synchronizing extension Jorgy Themes
+2023-07-08 19:11:01.693 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.693 [info] Extensions: Skipped synchronizing extension JuliaHub
+2023-07-08 19:11:01.693 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.693 [info] Extensions: Skipped synchronizing extension Julia
+2023-07-08 19:11:01.693 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.693 [info] Extensions: Skipped synchronizing extension Mint Theme
+2023-07-08 19:11:01.693 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.693 [info] Extensions: Skipped synchronizing extension LaTeX
+2023-07-08 19:11:01.693 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.693 [info] Extensions: Skipped synchronizing extension Tokyo Dark Themes
+2023-07-08 19:11:01.694 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.694 [info] Extensions: Skipped synchronizing extension Greyboard
+2023-07-08 19:11:01.694 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.694 [info] Extensions: Skipped synchronizing extension Go Themes (playground & src)
+2023-07-08 19:11:01.694 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.694 [info] Extensions: Skipped synchronizing extension Jupyter Notebook Renderers
+2023-07-08 19:11:01.694 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.694 [info] Extensions: Skipped synchronizing extension Fedora GNOME light & dark themes
+2023-07-08 19:11:01.694 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.694 [info] Extensions: Skipped synchronizing extension Workbench Themes
+2023-07-08 19:11:01.695 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-07-08 19:11:01.695 [info] Extensions: Skipped synchronizing extension Material Icon Theme
+2023-07-08 19:11:01.695 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.695 [info] Extensions: Skipped synchronizing extension Black on White
+2023-07-08 19:11:01.696 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-07-08 19:11:01.696 [info] Extensions: Skipped synchronizing extension Remedy
+2023-07-08 19:11:01.696 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.696 [info] Extensions: Skipped synchronizing extension Darcula Theme
+2023-07-08 19:11:01.696 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.696 [info] Extensions: Skipped synchronizing extension Material Dark
+2023-07-08 19:11:01.696 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.696 [info] Extensions: Skipped synchronizing extension FiraCode font - Professional Font for Developers
+2023-07-08 19:11:01.696 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.696 [info] Extensions: Skipped synchronizing extension Dark Side Theme
+2023-07-08 19:11:01.696 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.696 [info] Extensions: Skipped synchronizing extension BiancoNero
+2023-07-08 19:11:01.696 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.696 [info] Extensions: Skipped synchronizing extension tangming Themes
+2023-07-08 19:11:01.697 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.697 [info] Extensions: Skipped synchronizing extension Best Dark Themes Pack
+2023-07-08 19:11:01.697 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.697 [info] Extensions: Skipped synchronizing extension Dark
+2023-07-08 19:11:01.697 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.697 [info] Extensions: Skipped synchronizing extension LaTeX language support
+2023-07-08 19:11:01.697 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.697 [info] Extensions: Skipped synchronizing extension Nano Themes
+2023-07-08 19:11:01.697 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.697 [info] Extensions: Skipped synchronizing extension Clear Dark
+2023-07-08 19:11:01.697 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.697 [info] Extensions: Skipped synchronizing extension Learn Vim
+2023-07-08 19:11:01.697 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.697 [info] Extensions: Skipped synchronizing extension Vim
+2023-07-08 19:11:01.698 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.698 [info] Extensions: Skipped synchronizing extension Gruvbox Concoctis
+2023-07-08 19:11:01.699 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.699 [info] Extensions: Skipped synchronizing extension Nüshu
+2023-07-08 19:11:01.699 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-07-08 19:11:01.699 [info] Extensions: Skipped synchronizing extension Palenight Theme
+2023-07-08 19:11:01.699 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.699 [info] Extensions: Skipped synchronizing extension Viow Color Themes
+2023-07-08 19:11:01.699 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.699 [info] Extensions: Skipped synchronizing extension One Dark Pro
+2023-07-08 19:11:01.699 [error] Download: net::ERR_NETWORK_CHANGED
+    at $t.download (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-08 19:11:01.705 [info] Extensions: Last sync resource does not exist locally.
+2023-07-08 19:11:01.715 [info] Extensions: Updated last synchronized extensions. Skipped: ["gydunhn.vsc-essentials-themes","wesbos.theme-cobalt2","vaporizer.vaporizer-dark","ms-python.vscode-pylance","ms-python.python","ms-toolsai.jupyter","sldobri.bunker","cameronbieganek.julia-color-themes","tinkertrain.theme-panda","charliegerard.pride-vscode-themes","aaron-bond.better-comments","adpyke.codesnap","akamud.vscode-theme-onedark","alefragnani.delphi-themes","amodio.amethyst-theme","ankitcode.firefly","arcticicestudio.nord-visual-studio-code","artlaman.chalice-color-theme","arzg.slate","avetis.lunaria","azemoh.one-monokai","beamlnwza.oxocarbon-port","beastdestroyer.firefox-quantum-themes","cdonohue.polychrome-vscode-themes","cklimas.prismatic","colinfang.markdown-julia","divyamrit.slate-theme","dp-faces.dpico-theme","dp-faces.dplanets-theme","elanandkumar.el-vsc-product-icon-theme","eliverlara.andromeda","esbenp.prettier-vscode","fluffyfen.owokai-theme","fnando.linter","gerane.theme-slate","gerane.theme-brillianceblack","ibm.output-colorizer","ignaprados.blackdot","inksea.dank-themes","iqrathemes.iqra-themes","james-yu.latex-workshop","jorgy.jorgythemes","juliacomputing.juliahub","julialang.language-julia","marcbruederlin.mint-theme","mathematic.vscode-latex","mathstylish.tokyo-dark-themes","micjohansson.greyboard","mikegleasonjr.theme-go","ms-toolsai.jupyter-renderers","olifink.fedora-gnome-light-dark","particle.particle-vscode-theme","pkief.material-icon-theme","pontus.black-on-white","robertrossmann.remedy","rokoroku.vscode-theme-darcula","romanrei.material-dark","seyyedkhandon.firacode","snndmnsz.dark-side-theme","spaceinvadev.bianconero","tangming.theme-tangming","thegeoffstevens.best-dark-themes-pack","thomaz.preparing","torn4dom4n.latex-support","uguraktas.nanothemes","veccy-vec.cleardarktheme","vintharas.learn-vim","vscodevim.vim","wheredoesyourmindgo.gruvbox-concoctis","wheredoesyourmindgo.nushu-vscode-theme","whizkydee.material-palenight-theme","youssef.viow","zhuangtongfa.material-theme"].
+2023-07-08 19:11:01.721 [info] Profiles: Last sync resource does not exist locally.
+2023-07-08 19:11:02.272 [info] Profiles: No changes found during synchronizing profiles.
+2023-07-08 19:11:02.280 [info] Sync done. Took 159128ms
+2023-07-08 19:11:02.282 [info] Auto Sync: Triggered by Activity
+2023-07-08 19:11:02.283 [info] Sync started.
+2023-07-08 19:11:02.450 [info] Settings: No changes found during synchronizing settings.
+2023-07-08 19:11:02.460 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-07-08 19:11:02.467 [info] Snippets: No changes found during synchronizing snippets.
+2023-07-08 19:11:02.471 [info] Tasks: No changes found during synchronizing tasks.
+2023-07-08 19:11:02.478 [info] GlobalState: No changes found during synchronizing ui state.
+2023-07-08 19:11:02.534 [info] Extensions: No changes found during synchronizing extensions.
+2023-07-08 19:11:02.537 [info] Profiles: No changes found during synchronizing profiles.
+2023-07-08 19:11:02.540 [info] Sync done. Took 261ms
+2023-07-08 19:11:06.012 [info] Auto Sync: Triggered by Activity
+2023-07-08 19:11:06.012 [info] Sync started.
+2023-07-08 19:11:06.511 [info] Settings: No changes found during synchronizing settings.
+2023-07-08 19:11:06.520 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-07-08 19:11:06.525 [info] Snippets: No changes found during synchronizing snippets.
+2023-07-08 19:11:06.529 [info] Tasks: No changes found during synchronizing tasks.
+2023-07-08 19:11:08.475 [info] GlobalState: Updated remote ui state. Updated: workbench.activity.pinnedViewlets2.
+2023-07-08 19:11:08.483 [info] GlobalState: Updated last synchronized ui state
+2023-07-08 19:11:08.562 [info] Extensions: No changes found during synchronizing extensions.
+2023-07-08 19:11:08.564 [info] Profiles: No changes found during synchronizing profiles.
+2023-07-08 19:11:08.567 [info] Sync done. Took 2555ms
+2023-07-08 19:11:53.917 [info] Auto Sync: Triggered by Activity
+2023-07-08 19:11:53.917 [info] Sync started.
+2023-07-08 19:11:54.635 [info] Settings: No changes found during synchronizing settings.
+2023-07-08 19:11:54.642 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-07-08 19:11:54.648 [info] Snippets: No changes found during synchronizing snippets.
+2023-07-08 19:11:54.652 [info] Tasks: No changes found during synchronizing tasks.
+2023-07-08 19:11:54.657 [info] GlobalState: No changes found during synchronizing ui state.
+2023-07-08 19:11:54.725 [info] Extensions: No changes found during synchronizing extensions.
+2023-07-08 19:11:54.729 [info] Profiles: No changes found during synchronizing profiles.
+2023-07-08 19:11:54.733 [info] Sync done. Took 817ms
+2023-07-08 19:12:02.034 [info] Auto Sync: Triggered by Activity
+2023-07-08 19:12:02.034 [info] Sync started.
+2023-07-08 19:12:02.522 [info] Settings: Updated remote settings
+2023-07-08 19:12:02.535 [info] Settings: Updated last synchronized settings
+2023-07-08 19:12:02.543 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-07-08 19:12:02.547 [info] Snippets: No changes found during synchronizing snippets.
+2023-07-08 19:12:02.550 [info] Tasks: No changes found during synchronizing tasks.
+2023-07-08 19:12:02.555 [info] GlobalState: No changes found during synchronizing ui state.
+2023-07-08 19:12:02.611 [info] Extensions: No changes found during synchronizing extensions.
+2023-07-08 19:12:02.614 [info] Profiles: No changes found during synchronizing profiles.
+2023-07-08 19:12:02.618 [info] Sync done. Took 584ms
+2023-07-08 19:17:02.619 [info] Auto Sync: Triggered by Interval
+2023-07-08 19:17:02.622 [info] Sync started.
+2023-07-08 19:17:03.536 [info] Settings: No changes found during synchronizing settings.
+2023-07-08 19:17:03.544 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-07-08 19:17:03.548 [info] Snippets: No changes found during synchronizing snippets.
+2023-07-08 19:17:03.553 [info] Tasks: No changes found during synchronizing tasks.
+2023-07-08 19:17:03.558 [info] GlobalState: No changes found during synchronizing ui state.
+2023-07-08 19:17:03.630 [info] Extensions: No changes found during synchronizing extensions.
+2023-07-08 19:17:03.636 [info] Profiles: No changes found during synchronizing profiles.
+2023-07-08 19:17:03.639 [info] Sync done. Took 1019ms
+2023-07-08 19:22:03.642 [info] Auto Sync: Triggered by Interval
+2023-07-08 19:22:03.642 [info] Sync started.
+2023-07-08 19:22:04.320 [info] Settings: No changes found during synchronizing settings.
+2023-07-08 19:22:04.325 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-07-08 19:22:04.331 [info] Snippets: No changes found during synchronizing snippets.
+2023-07-08 19:22:04.334 [info] Tasks: No changes found during synchronizing tasks.
+2023-07-08 19:22:04.338 [info] GlobalState: No changes found during synchronizing ui state.
+2023-07-08 19:22:04.404 [info] Extensions: No changes found during synchronizing extensions.
+2023-07-08 19:22:04.407 [info] Profiles: No changes found during synchronizing profiles.
+2023-07-08 19:22:04.409 [info] Sync done. Took 767ms
+2023-07-08 19:27:04.410 [info] Auto Sync: Triggered by Interval
+2023-07-08 19:27:04.411 [info] Sync started.
+2023-07-08 19:27:14.905 [info] Settings: No changes found during synchronizing settings.
+2023-07-08 19:27:14.915 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-07-08 19:27:14.920 [info] Snippets: No changes found during synchronizing snippets.
+2023-07-08 19:27:14.927 [info] Tasks: No changes found during synchronizing tasks.
+2023-07-08 19:27:14.934 [info] GlobalState: No changes found during synchronizing ui state.
+2023-07-08 19:27:14.998 [info] Extensions: No changes found during synchronizing extensions.
+2023-07-08 19:27:15.001 [info] Profiles: No changes found during synchronizing profiles.
+2023-07-08 19:27:15.004 [info] Sync done. Took 10594ms
+2023-07-08 19:27:31.174 [info] Auto Sync: Triggered by Activity
+2023-07-08 19:27:31.175 [info] Sync started.

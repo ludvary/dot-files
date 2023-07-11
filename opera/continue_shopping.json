@@ -1,0 +1,1714 @@
+// EZ6l4udktYOCgrqX2W9QjgkwYwtzJ4dM37+sqZiOMReEsgcYAjTzXE7Rxj/lmPcRaLbkhBQOw6k0k+hREX7qSGGnWtLl78jfQjb4FZr+svVlh0sarD42n2UrJGO9vR1GLB8SG2qsL8CFTNUUwhPMVS1VM4UAImhlT30GEUgiO9CJt1XF70lFfsEY3+4+PkQFc1mPpwHGDj3do36kkX2AiVZskmFzSitPPUWKu5vsU0XkEaorEffkrkz1WDPPwSEiBjF2Zd0YqJERyaEyYYqvp4IJ7X9iN812JAtj9EBqH7WdisH3kqCdB3GB3WahBnWdxbpsvGmfaq4KqIXWoaMSVw==
+{
+  "version": 3,
+  "partners": [
+    {
+      "partner_id": "aboutyou_at",
+      "partner_domain": "aboutyou.at",
+      "product_url_pattern": "\/p\/.*",
+      "product_history_pattern": "\"aboutyou.at/p/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAclBMVEUAAAD////4+PgYGBikpKQmJiYLCwvi4uLb29tLS0v09PTp6emCgoJra2tcXFxJSUnr6+vJycmKioo6OjojIyP8/PxfX1/6+vrMzMyamprf39/S0tLR0dG9vb28vLxDQ0MfHx8aGhrd3d2GhoZ3d3dFRUWvj4E8AAABVklEQVRIx+1VV5bDIAy0wcbg3kt62b3/FTeUZ+EW7Yt/M5/SSIyEEM4Xn4L5lRCVz/7Hpq13jEJCwujotRSl1yVv3BENL+v3/OThzsCTd2o84i5AvE1dt/NIyoMgH4PPt438F8Mu4syn1M/iwsRc1s/wtLdP2dje1JTkrdbbqfSDne0a6IBupfKaK/7TsfmHsVfL7pbKMSz4BuWcf+dKv60n0/xIyeL3WUDbSEGpZRFafyBSIu+8XWtRwewmEM13WLHSKHaSxnhi+wkV33Fi6TtNZ9ePpKJsmiXuDldVDJGl+BNfFb5subHBGb86W/5yhtXEJYjUSzdmRpZPxJ4AkLQESEKKBkDRSFs1oK3IxQHMxWGjATCjgQwfgPZ6+JDxBgx6vJEHBHgSeED4E3XoQOwnii+BHpbAnjWDL7LdqxKQ8Dn/kaDrvkPW/UJXuvmh4F/WFx/iDxqmEVYlWvnAAAAAAElFTkSuQmCC",
+      "language": "de_AT",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=14731&awinaffid=141629&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "aboutyou_cz",
+      "partner_domain": "aboutyou.cz",
+      "product_url_pattern": "\/p\/.*",
+      "product_history_pattern": "\"aboutyou.cz/p/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAclBMVEUAAAD////4+PgYGBikpKQmJiYLCwvi4uLb29tLS0v09PTp6emCgoJra2tcXFxJSUnr6+vJycmKioo6OjojIyP8/PxfX1/6+vrMzMyamprf39/S0tLR0dG9vb28vLxDQ0MfHx8aGhrd3d2GhoZ3d3dFRUWvj4E8AAABVklEQVRIx+1VV5bDIAy0wcbg3kt62b3/FTeUZ+EW7Yt/M5/SSIyEEM4Xn4L5lRCVz/7Hpq13jEJCwujotRSl1yVv3BENL+v3/OThzsCTd2o84i5AvE1dt/NIyoMgH4PPt438F8Mu4syn1M/iwsRc1s/wtLdP2dje1JTkrdbbqfSDne0a6IBupfKaK/7TsfmHsVfL7pbKMSz4BuWcf+dKv60n0/xIyeL3WUDbSEGpZRFafyBSIu+8XWtRwewmEM13WLHSKHaSxnhi+wkV33Fi6TtNZ9ePpKJsmiXuDldVDJGl+BNfFb5subHBGb86W/5yhtXEJYjUSzdmRpZPxJ4AkLQESEKKBkDRSFs1oK3IxQHMxWGjATCjgQwfgPZ6+JDxBgx6vJEHBHgSeED4E3XoQOwnii+BHpbAnjWDL7LdqxKQ8Dn/kaDrvkPW/UJXuvmh4F/WFx/iDxqmEVYlWvnAAAAAAElFTkSuQmCC",
+      "language": "cs_CZ",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=15736&awinaffid=141629&clickref=opera-continueon-cz&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "aboutyou_de",
+      "partner_domain": "aboutyou.de",
+      "product_url_pattern": "\/p\/.*",
+      "product_history_pattern": "\"aboutyou.de/p/\"",
+      "scrapping_method": "google_product",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAclBMVEUAAAD////4+PgYGBikpKQmJiYLCwvi4uLb29tLS0v09PTp6emCgoJra2tcXFxJSUnr6+vJycmKioo6OjojIyP8/PxfX1/6+vrMzMyamprf39/S0tLR0dG9vb28vLxDQ0MfHx8aGhrd3d2GhoZ3d3dFRUWvj4E8AAABVklEQVRIx+1VV5bDIAy0wcbg3kt62b3/FTeUZ+EW7Yt/M5/SSIyEEM4Xn4L5lRCVz/7Hpq13jEJCwujotRSl1yVv3BENL+v3/OThzsCTd2o84i5AvE1dt/NIyoMgH4PPt438F8Mu4syn1M/iwsRc1s/wtLdP2dje1JTkrdbbqfSDne0a6IBupfKaK/7TsfmHsVfL7pbKMSz4BuWcf+dKv60n0/xIyeL3WUDbSEGpZRFafyBSIu+8XWtRwewmEM13WLHSKHaSxnhi+wkV33Fi6TtNZ9ePpKJsmiXuDldVDJGl+BNfFb5subHBGb86W/5yhtXEJYjUSzdmRpZPxJ4AkLQESEKKBkDRSFs1oK3IxQHMxWGjATCjgQwfgPZ6+JDxBgx6vJEHBHgSeED4E3XoQOwnii+BHpbAnjWDL7LdqxKQ8Dn/kaDrvkPW/UJXuvmh4F/WFx/iDxqmEVYlWvnAAAAAAElFTkSuQmCC",
+      "language": "de_DE",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=14962&awinaffid=141629&clickref=opera-continueon-de&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "aboutyou_es",
+      "partner_domain": "aboutyou.es",
+      "product_url_pattern": "\/p\/.*",
+      "product_history_pattern": "\"aboutyou.es/p/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAclBMVEUAAAD////4+PgYGBikpKQmJiYLCwvi4uLb29tLS0v09PTp6emCgoJra2tcXFxJSUnr6+vJycmKioo6OjojIyP8/PxfX1/6+vrMzMyamprf39/S0tLR0dG9vb28vLxDQ0MfHx8aGhrd3d2GhoZ3d3dFRUWvj4E8AAABVklEQVRIx+1VV5bDIAy0wcbg3kt62b3/FTeUZ+EW7Yt/M5/SSIyEEM4Xn4L5lRCVz/7Hpq13jEJCwujotRSl1yVv3BENL+v3/OThzsCTd2o84i5AvE1dt/NIyoMgH4PPt438F8Mu4syn1M/iwsRc1s/wtLdP2dje1JTkrdbbqfSDne0a6IBupfKaK/7TsfmHsVfL7pbKMSz4BuWcf+dKv60n0/xIyeL3WUDbSEGpZRFafyBSIu+8XWtRwewmEM13WLHSKHaSxnhi+wkV33Fi6TtNZ9ePpKJsmiXuDldVDJGl+BNfFb5subHBGb86W/5yhtXEJYjUSzdmRpZPxJ4AkLQESEKKBkDRSFs1oK3IxQHMxWGjATCjgQwfgPZ6+JDxBgx6vJEHBHgSeED4E3XoQOwnii+BHpbAnjWDL7LdqxKQ8Dn/kaDrvkPW/UJXuvmh4F/WFx/iDxqmEVYlWvnAAAAAAElFTkSuQmCC",
+      "language": "es_ES",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=20814&awinaffid=141629&clickref=opera-continueon-es&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "aboutyou_fr",
+      "partner_domain": "fr.aboutyou.com",
+      "product_url_pattern": "\/p\/.*",
+      "product_history_pattern": "\"fr.aboutyou.com/p/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAclBMVEUAAAD////4+PgYGBikpKQmJiYLCwvi4uLb29tLS0v09PTp6emCgoJra2tcXFxJSUnr6+vJycmKioo6OjojIyP8/PxfX1/6+vrMzMyamprf39/S0tLR0dG9vb28vLxDQ0MfHx8aGhrd3d2GhoZ3d3dFRUWvj4E8AAABVklEQVRIx+1VV5bDIAy0wcbg3kt62b3/FTeUZ+EW7Yt/M5/SSIyEEM4Xn4L5lRCVz/7Hpq13jEJCwujotRSl1yVv3BENL+v3/OThzsCTd2o84i5AvE1dt/NIyoMgH4PPt438F8Mu4syn1M/iwsRc1s/wtLdP2dje1JTkrdbbqfSDne0a6IBupfKaK/7TsfmHsVfL7pbKMSz4BuWcf+dKv60n0/xIyeL3WUDbSEGpZRFafyBSIu+8XWtRwewmEM13WLHSKHaSxnhi+wkV33Fi6TtNZ9ePpKJsmiXuDldVDJGl+BNfFb5subHBGb86W/5yhtXEJYjUSzdmRpZPxJ4AkLQESEKKBkDRSFs1oK3IxQHMxWGjATCjgQwfgPZ6+JDxBgx6vJEHBHgSeED4E3XoQOwnii+BHpbAnjWDL7LdqxKQ8Dn/kaDrvkPW/UJXuvmh4F/WFx/iDxqmEVYlWvnAAAAAAElFTkSuQmCC",
+      "language": "fr_FR",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=20797&awinaffid=141629&clickref=opera-continueon-fr&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "aboutyou_it",
+      "partner_domain": "aboutyou.it",
+      "product_url_pattern": "\/p\/.*",
+      "product_history_pattern": "\"aboutyou.it/p/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAclBMVEUAAAD////4+PgYGBikpKQmJiYLCwvi4uLb29tLS0v09PTp6emCgoJra2tcXFxJSUnr6+vJycmKioo6OjojIyP8/PxfX1/6+vrMzMyamprf39/S0tLR0dG9vb28vLxDQ0MfHx8aGhrd3d2GhoZ3d3dFRUWvj4E8AAABVklEQVRIx+1VV5bDIAy0wcbg3kt62b3/FTeUZ+EW7Yt/M5/SSIyEEM4Xn4L5lRCVz/7Hpq13jEJCwujotRSl1yVv3BENL+v3/OThzsCTd2o84i5AvE1dt/NIyoMgH4PPt438F8Mu4syn1M/iwsRc1s/wtLdP2dje1JTkrdbbqfSDne0a6IBupfKaK/7TsfmHsVfL7pbKMSz4BuWcf+dKv60n0/xIyeL3WUDbSEGpZRFafyBSIu+8XWtRwewmEM13WLHSKHaSxnhi+wkV33Fi6TtNZ9ePpKJsmiXuDldVDJGl+BNfFb5subHBGb86W/5yhtXEJYjUSzdmRpZPxJ4AkLQESEKKBkDRSFs1oK3IxQHMxWGjATCjgQwfgPZ6+JDxBgx6vJEHBHgSeED4E3XoQOwnii+BHpbAnjWDL7LdqxKQ8Dn/kaDrvkPW/UJXuvmh4F/WFx/iDxqmEVYlWvnAAAAAAElFTkSuQmCC",
+      "language": "it_IT",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=20813&awinaffid=141629&clickref=opera-continueon-it&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "aboutyou_nl",
+      "partner_domain": "aboutyou.nl",
+      "product_url_pattern": "\/p\/.*",
+      "product_history_pattern": "\"aboutyou.nl/p/\"",
+      "scrapping_method": "google_product",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAclBMVEUAAAD////4+PgYGBikpKQmJiYLCwvi4uLb29tLS0v09PTp6emCgoJra2tcXFxJSUnr6+vJycmKioo6OjojIyP8/PxfX1/6+vrMzMyamprf39/S0tLR0dG9vb28vLxDQ0MfHx8aGhrd3d2GhoZ3d3dFRUWvj4E8AAABVklEQVRIx+1VV5bDIAy0wcbg3kt62b3/FTeUZ+EW7Yt/M5/SSIyEEM4Xn4L5lRCVz/7Hpq13jEJCwujotRSl1yVv3BENL+v3/OThzsCTd2o84i5AvE1dt/NIyoMgH4PPt438F8Mu4syn1M/iwsRc1s/wtLdP2dje1JTkrdbbqfSDne0a6IBupfKaK/7TsfmHsVfL7pbKMSz4BuWcf+dKv60n0/xIyeL3WUDbSEGpZRFafyBSIu+8XWtRwewmEM13WLHSKHaSxnhi+wkV33Fi6TtNZ9ePpKJsmiXuDldVDJGl+BNfFb5subHBGb86W/5yhtXEJYjUSzdmRpZPxJ4AkLQESEKKBkDRSFs1oK3IxQHMxWGjATCjgQwfgPZ6+JDxBgx6vJEHBHgSeED4E3XoQOwnii+BHpbAnjWDL7LdqxKQ8Dn/kaDrvkPW/UJXuvmh4F/WFx/iDxqmEVYlWvnAAAAAAElFTkSuQmCC",
+      "language": "nl_NL",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=12354&awinaffid=141629&clickref=opera-continueon-nl&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "adidas_at",
+      "partner_domain": "adidas.at",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"adidas.at/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAMFBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlTPQ5AAAAD3RSTlMAdqtQH/mVvtaCYAroLDMjcXuVAAAAVUlEQVQYlaWNSQ6AMAwDne4b5P+/rRtRiR4RPjieuQT4EScHiqoeIlG4FzdEmrDRR708RdnMPVDY/jGZuwVWXHQP6bp+OFaFHfuRsHRHZWfbQWx+zwSndAPmKvddDAAAAABJRU5ErkJggg==",
+      "language": "de_AT",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://adidas.prf.hn/click/camref:1100lryDo/pubref:opera-continueon-at/destination:$1"
+        }
+      }
+    },
+    {
+      "partner_id": "adidas_be",
+      "partner_domain": "adidas.be/nl",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"adidas.be/nl/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAMFBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlTPQ5AAAAD3RSTlMAdqtQH/mVvtaCYAroLDMjcXuVAAAAVUlEQVQYlaWNSQ6AMAwDne4b5P+/rRtRiR4RPjieuQT4EScHiqoeIlG4FzdEmrDRR708RdnMPVDY/jGZuwVWXHQP6bp+OFaFHfuRsHRHZWfbQWx+zwSndAPmKvddDAAAAABJRU5ErkJggg==",
+      "language": "nl_BE",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://adidas.prf.hn/click/camref:1101lryV8/pubref:opera-continueon-be/destination:$1"
+        }
+      }
+    },
+    {
+      "partner_id": "adidas_ch",
+      "partner_domain": "adidas.ch/de",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"adidas.ch/de/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAMFBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlTPQ5AAAAD3RSTlMAdqtQH/mVvtaCYAroLDMjcXuVAAAAVUlEQVQYlaWNSQ6AMAwDne4b5P+/rRtRiR4RPjieuQT4EScHiqoeIlG4FzdEmrDRR708RdnMPVDY/jGZuwVWXHQP6bp+OFaFHfuRsHRHZWfbQWx+zwSndAPmKvddDAAAAABJRU5ErkJggg==",
+      "language": "de_CH",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://adidas.prf.hn/click/camref:1101lryUU/pubref:opera-continueon-ch/destination:$1"
+        }
+      }
+    },
+    {
+      "partner_id": "adidas_cl",
+      "partner_domain": "adidas.cl",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"adidas.cl/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAMFBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlTPQ5AAAAD3RSTlMAdqtQH/mVvtaCYAroLDMjcXuVAAAAVUlEQVQYlaWNSQ6AMAwDne4b5P+/rRtRiR4RPjieuQT4EScHiqoeIlG4FzdEmrDRR708RdnMPVDY/jGZuwVWXHQP6bp+OFaFHfuRsHRHZWfbQWx+zwSndAPmKvddDAAAAABJRU5ErkJggg==",
+      "language": "es_CL",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://adidas.prf.hn/click/camref:1011lrBrL/pubref:opera-continueon-cl/destination:$1"
+        }
+      }
+    },
+    {
+      "partner_id": "adidas_co",
+      "partner_domain": "adidas.co",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"adidas.co/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAMFBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlTPQ5AAAAD3RSTlMAdqtQH/mVvtaCYAroLDMjcXuVAAAAVUlEQVQYlaWNSQ6AMAwDne4b5P+/rRtRiR4RPjieuQT4EScHiqoeIlG4FzdEmrDRR708RdnMPVDY/jGZuwVWXHQP6bp+OFaFHfuRsHRHZWfbQWx+zwSndAPmKvddDAAAAABJRU5ErkJggg==",
+      "language": "es_CO",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://adidas.prf.hn/click/camref:1100lryDz/pubref:opera-continueon-co/destination:$1"
+        }
+      }
+    },
+    {
+      "partner_id": "adidas_cz",
+      "partner_domain": "adidas.cz",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"adidas.cz/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAMFBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlTPQ5AAAAD3RSTlMAdqtQH/mVvtaCYAroLDMjcXuVAAAAVUlEQVQYlaWNSQ6AMAwDne4b5P+/rRtRiR4RPjieuQT4EScHiqoeIlG4FzdEmrDRR708RdnMPVDY/jGZuwVWXHQP6bp+OFaFHfuRsHRHZWfbQWx+zwSndAPmKvddDAAAAABJRU5ErkJggg==",
+      "language": "cs_CZ",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://adidas.prf.hn/click/camref:1101lryVa/pubref:opera-continueon-cz/destination:$1"
+        }
+      }
+    },
+    {
+      "partner_id": "adidas_de",
+      "partner_domain": "adidas.de",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"adidas.de/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAMFBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlTPQ5AAAAD3RSTlMAdqtQH/mVvtaCYAroLDMjcXuVAAAAVUlEQVQYlaWNSQ6AMAwDne4b5P+/rRtRiR4RPjieuQT4EScHiqoeIlG4FzdEmrDRR708RdnMPVDY/jGZuwVWXHQP6bp+OFaFHfuRsHRHZWfbQWx+zwSndAPmKvddDAAAAABJRU5ErkJggg==",
+      "language": "de_DE",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://adidas.prf.hn/click/camref:1100lryDy/pubref:opera-continueon-de/destination:$1"
+        }
+      }
+    },
+    {
+      "partner_id": "adidas_dk",
+      "partner_domain": "adidas.dk",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"adidas.dk/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAMFBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlTPQ5AAAAD3RSTlMAdqtQH/mVvtaCYAroLDMjcXuVAAAAVUlEQVQYlaWNSQ6AMAwDne4b5P+/rRtRiR4RPjieuQT4EScHiqoeIlG4FzdEmrDRR708RdnMPVDY/jGZuwVWXHQP6bp+OFaFHfuRsHRHZWfbQWx+zwSndAPmKvddDAAAAABJRU5ErkJggg==",
+      "language": "da_DK",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://adidas.prf.hn/click/camref:1101lryV9/pubref:opera-continueon-dk/destination:$1"
+        }
+      }
+    },
+    {
+      "partner_id": "adidas_es",
+      "partner_domain": "adidas.es",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"adidas.es/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAMFBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlTPQ5AAAAD3RSTlMAdqtQH/mVvtaCYAroLDMjcXuVAAAAVUlEQVQYlaWNSQ6AMAwDne4b5P+/rRtRiR4RPjieuQT4EScHiqoeIlG4FzdEmrDRR708RdnMPVDY/jGZuwVWXHQP6bp+OFaFHfuRsHRHZWfbQWx+zwSndAPmKvddDAAAAABJRU5ErkJggg==",
+      "language": "es_ES",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://adidas.prf.hn/click/camref:1101lryUT/pubref:opera-continueon-es/destination:$1"
+        }
+      }
+    },
+    {
+      "partner_id": "adidas_fi",
+      "partner_domain": "adidas.fi",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"adidas.fi/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAMFBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlTPQ5AAAAD3RSTlMAdqtQH/mVvtaCYAroLDMjcXuVAAAAVUlEQVQYlaWNSQ6AMAwDne4b5P+/rRtRiR4RPjieuQT4EScHiqoeIlG4FzdEmrDRR708RdnMPVDY/jGZuwVWXHQP6bp+OFaFHfuRsHRHZWfbQWx+zwSndAPmKvddDAAAAABJRU5ErkJggg==",
+      "language": "fi_FI",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://adidas.prf.hn/click/camref:1011lrBrJ/pubref:opera-continueon-fi/destination:$1"
+        }
+      }
+    },
+    {
+      "partner_id": "adidas_fr",
+      "partner_domain": "adidas.fr",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"adidas.fr/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAMFBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlTPQ5AAAAD3RSTlMAdqtQH/mVvtaCYAroLDMjcXuVAAAAVUlEQVQYlaWNSQ6AMAwDne4b5P+/rRtRiR4RPjieuQT4EScHiqoeIlG4FzdEmrDRR708RdnMPVDY/jGZuwVWXHQP6bp+OFaFHfuRsHRHZWfbQWx+zwSndAPmKvddDAAAAABJRU5ErkJggg==",
+      "language": "fr_FR",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://adidas.prf.hn/click/camref:1101lryV5/pubref:opera-continueon-fr/destination:$1"
+        }
+      }
+    },
+    {
+      "partner_id": "adidas_ie",
+      "partner_domain": "adidas.ie",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"adidas.ie/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAMFBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlTPQ5AAAAD3RSTlMAdqtQH/mVvtaCYAroLDMjcXuVAAAAVUlEQVQYlaWNSQ6AMAwDne4b5P+/rRtRiR4RPjieuQT4EScHiqoeIlG4FzdEmrDRR708RdnMPVDY/jGZuwVWXHQP6bp+OFaFHfuRsHRHZWfbQWx+zwSndAPmKvddDAAAAABJRU5ErkJggg==",
+      "language": "en_IE",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://adidas.prf.hn/click/camref:1100lryDx/pubref:opera-continueon-ie/destination:$1"
+        }
+      }
+    },
+    {
+      "partner_id": "adidas_it",
+      "partner_domain": "adidas.it",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"adidas.it/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAMFBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlTPQ5AAAAD3RSTlMAdqtQH/mVvtaCYAroLDMjcXuVAAAAVUlEQVQYlaWNSQ6AMAwDne4b5P+/rRtRiR4RPjieuQT4EScHiqoeIlG4FzdEmrDRR708RdnMPVDY/jGZuwVWXHQP6bp+OFaFHfuRsHRHZWfbQWx+zwSndAPmKvddDAAAAABJRU5ErkJggg==",
+      "language": "it_IT",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://adidas.prf.hn/click/camref:1101lryV6/pubref:opera-continueon-it/destination:$1"
+        }
+      }
+    },
+    {
+      "partner_id": "adidas_mx",
+      "partner_domain": "adidas.mx",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"adidas.mx/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAMFBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlTPQ5AAAAD3RSTlMAdqtQH/mVvtaCYAroLDMjcXuVAAAAVUlEQVQYlaWNSQ6AMAwDne4b5P+/rRtRiR4RPjieuQT4EScHiqoeIlG4FzdEmrDRR708RdnMPVDY/jGZuwVWXHQP6bp+OFaFHfuRsHRHZWfbQWx+zwSndAPmKvddDAAAAABJRU5ErkJggg==",
+      "language": "es_MX",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://ad.admitad.com/g/v2it7vvbd7cd9631d60401fc6d6b7f/?subid=opera-continueon-mx&ulp=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "adidas_nl",
+      "partner_domain": "adidas.nl",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"adidas.nl/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAMFBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlTPQ5AAAAD3RSTlMAdqtQH/mVvtaCYAroLDMjcXuVAAAAVUlEQVQYlaWNSQ6AMAwDne4b5P+/rRtRiR4RPjieuQT4EScHiqoeIlG4FzdEmrDRR708RdnMPVDY/jGZuwVWXHQP6bp+OFaFHfuRsHRHZWfbQWx+zwSndAPmKvddDAAAAABJRU5ErkJggg==",
+      "language": "nl_NL",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://adidas.prf.hn/click/camref:1101lryVb/pubref:opera-continueon-nl/destination:$1"
+        }
+      }
+    },
+    {
+      "partner_id": "adidas_no",
+      "partner_domain": "adidas.no",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"adidas.no/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAMFBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlTPQ5AAAAD3RSTlMAdqtQH/mVvtaCYAroLDMjcXuVAAAAVUlEQVQYlaWNSQ6AMAwDne4b5P+/rRtRiR4RPjieuQT4EScHiqoeIlG4FzdEmrDRR708RdnMPVDY/jGZuwVWXHQP6bp+OFaFHfuRsHRHZWfbQWx+zwSndAPmKvddDAAAAABJRU5ErkJggg==",
+      "language": "nb_NO",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://adidas.prf.hn/click/camref:1100lryDv/pubref:opera-continueon-no/destination:$1"
+        }
+      }
+    },
+    {
+      "partner_id": "adidas_pl",
+      "partner_domain": "adidas.pl",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"adidas.pl/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAMFBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlTPQ5AAAAD3RSTlMAdqtQH/mVvtaCYAroLDMjcXuVAAAAVUlEQVQYlaWNSQ6AMAwDne4b5P+/rRtRiR4RPjieuQT4EScHiqoeIlG4FzdEmrDRR708RdnMPVDY/jGZuwVWXHQP6bp+OFaFHfuRsHRHZWfbQWx+zwSndAPmKvddDAAAAABJRU5ErkJggg==",
+      "language": "pl_PL",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://adidas.prf.hn/click/camref:1011lrBrI/pubref:opera-continueon-pl/destination:$1"
+        }
+      }
+    },
+    {
+      "partner_id": "adidas_pt",
+      "partner_domain": "adidas.pt",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"adidas.pt/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAMFBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlTPQ5AAAAD3RSTlMAdqtQH/mVvtaCYAroLDMjcXuVAAAAVUlEQVQYlaWNSQ6AMAwDne4b5P+/rRtRiR4RPjieuQT4EScHiqoeIlG4FzdEmrDRR708RdnMPVDY/jGZuwVWXHQP6bp+OFaFHfuRsHRHZWfbQWx+zwSndAPmKvddDAAAAABJRU5ErkJggg==",
+      "language": "pt_PT",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://adidas.prf.hn/click/camref:1101lryUV/pubref:opera-continueon-pt/destination:$1"
+        }
+      }
+    },
+    {
+      "partner_id": "adidas_se",
+      "partner_domain": "adidas.se",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"adidas.se/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAMFBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlTPQ5AAAAD3RSTlMAdqtQH/mVvtaCYAroLDMjcXuVAAAAVUlEQVQYlaWNSQ6AMAwDne4b5P+/rRtRiR4RPjieuQT4EScHiqoeIlG4FzdEmrDRR708RdnMPVDY/jGZuwVWXHQP6bp+OFaFHfuRsHRHZWfbQWx+zwSndAPmKvddDAAAAABJRU5ErkJggg==",
+      "language": "sv_SE",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://adidas.prf.hn/click/camref:1101lryV7/pubref:opera-continueon-se/destination:$1"
+        }
+      }
+    },
+    {
+      "partner_id": "adidas_uk",
+      "partner_domain": "adidas.co.uk",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"adidas.co.uk/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAMFBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlTPQ5AAAAD3RSTlMAdqtQH/mVvtaCYAroLDMjcXuVAAAAVUlEQVQYlaWNSQ6AMAwDne4b5P+/rRtRiR4RPjieuQT4EScHiqoeIlG4FzdEmrDRR708RdnMPVDY/jGZuwVWXHQP6bp+OFaFHfuRsHRHZWfbQWx+zwSndAPmKvddDAAAAABJRU5ErkJggg==",
+      "language": "en_GB",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://adidas.prf.hn/click/camref:1011lrBrK/pubref:opera-continueon-gb/destination:$1"
+        }
+      }
+    },
+    {
+      "partner_id": "adorama_us",
+      "partner_domain": "adorama.com",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"adorama.com/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEUAQocAQodHcEwAQocAQocAQocAQocAQocAQocAQocAQocAQocAQocAQocAQoeQd1YMAAAAD3RSTlP+ogDbs+eCb82WIGCQKhUx0OTWAAAAgklEQVQYlVVPCw5DMQiCqq397f7Hne61S56JiWBEQIkanbI4PzkjmgCMY3M9hAR2J2tUErkHWK2TcxaMhC2vKxd1o18cTBVOpEI5heq5h15CvembWKbvE+8SonZFZ9ib8dbPmwYT7seYQ1XhzdrPugk8Gmr9H84M8fCEy/jisDZy/gLNDwNZn8pPVgAAAABJRU5ErkJggg==",
+      "language": "en_US",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://ad.admitad.com/g/cbvmqmmirja47a83735c45f1c03a4a/?subid=opera-continueon-us&ulp=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "allegro_pl",
+      "partner_domain": "allegro.pl",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"allegro.pl/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAMFBMVEVHcEz/WgD/WgD/WgD/WgD/WgD/WgD/WgD/WgD/WgD/WQD/WgD/WgD/WgD/WgD/WgA9ERm3AAAAD3RSTlMALRLTcyVHu6KBBWJb760Q5CMGAAAAXklEQVQYlY2PSw7AIAhEFcG/nfvfttqCSbuSDZkXmAHnzooDgOS3TngrGrgGe+nAUF3paQ2oNuJLznkuik4E9YDaTh0KczZAM3H1aEAA/gC3LiCivkHBz9Q1i5GTP29CZwSF14gSsQAAAABJRU5ErkJggg==",
+      "language": "pl_PL",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://allegro.pl/affiliate?redirect_url=$1?utm_medium=afiliacja&utm_source=ctr_b&utm_campaign=9192db16-ad15-4b55-a8f7-0fedda7ddbd0&tag=cs"
+        }
+      }
+    },
+    {
+      "partner_id": "alternate_de",
+      "partner_domain": "alternate.de",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"alternate.de/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAKlBMVEX////g4ODhAAPp6uny8vLg4ODxp6nywcP34uTuhIjus7bpVVvnMTnraG3D5KOLAAAAAnRSTlP/+8/YG94AAABWSURBVBiVjY05EsAwCAMJVjhs5//fDXhSQJftpJmViP5i1rMweys4qBlZWDN8s5QikvBuE6R1JD7W4uI8fFjFcFX/HCANUI5IpjFgU4EBnYZTdOi6Oy+0SgIUychuywAAAABJRU5ErkJggg==",
+      "language": "de_DE",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=11731&awinaffid=141629&clickref=opera-continueon-de&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "avans_pl",
+      "partner_domain": "avans.pl",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"avans.pl/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB9ElEQVQ4jWXTS0tUYRgH8N85XiIiQq3GpLQbSIugSEVCunyAoCCKQmkgila1atEnaBW0i4jKEqW+Q5CmkUVBLrptykwtMRwwQ2ammWnxnpnReuDA+57/8/8/t/eJJFZKgzU4ijR6kErgOYyhH0+RjfoDECVEaMY19KFBCcUEiRGBDAZwHT+gNnFJ4RaOh3TQ1Mbu7sD8/JL5L0QacBmtuIS5WtQlkavk5nYuDrCjI8hPveV2HzPvQjbB9yuuxknNvVZaT5qdneR+k12ibT+HzhNHK716cTROam6qRN+8i86TwWX8EWMPwrnjBKn2al8Cpy9Ouq0i0HGS1G6WF3n+MHxLC2zcTtepcjMrucbYUiE3tNB9JkCfnjH5mm8TfHga/nWfprE1+AbbEitfS9h3jG17KeR5MUR2mXyO8SHyWVr2cOD4SoFSjGklrG+i5xxRzNQE75+EdCN8HGbyTbgc7GPD5rLIdIwRJTRuY826MO/ReyzOVwWWFhi9H7D6taEfQWAkKqUdxmM1dSnrNwXG0k/+ZFd1S029gJf49ZNCbg6nY+GN31XIF2Vmycz8T4ZCLmCZWQq5Iu5iLEYBNzAoUvxnTKstlFTEYMIplHdhAVfwBRcqo/3fvuMObgqLVY2XbGUNunAWR7A1gacxjCG8QqG8zn8BY0efpnnGtPMAAAAASUVORK5CYII=",
+      "language": "pl_PL",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://clk.tradedoubler.com/click?p=284068&a=2001310&epi=opera-continueon-pl&epi2=opera&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "bestbuy_us",
+      "partner_domain": "bestbuy.com",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"bestbuy.com/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAJ1BMVEX/6BlHcEz/2zv/6Rn/4yn/3Tr/4S7/6Rf/7QD/9ADn2AOMhhtKTiDvnByXAAAACHRSTlP6AEnvqTdS8+bhaGMAAABBSURBVBiVfc9JCgAwCATBMWYxy//fmxx1kPTNAgUhFDIorvagmguIsyni/GDYjKDrTIIdAbzS+agUBmlwafrLHy6S2QSXARIPzAAAAABJRU5ErkJggg==",
+      "language": "en_US",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://ad.admitad.com/g/ycdujccxiqa47a83735c4cc4e76364/?subid=opera-continueon-us&ulp=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "boots_uk",
+      "partner_domain": "boots.com",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"boots.com/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAZlBMVEX///+kqsDd3+ecpb6wuMxrdpzx8/fY2uSLlLHu8PTCxtSQl7Jze56Hjqz4+fxpdp4+TIHKz91jbJNzf6SYoLs3SoG9w9IJJGt5gaLIy9iAhqXl6O9OXIxIVIVVX4xDUIMsPnkAAFp1YH76AAAAcklEQVQYla1PWw7DIAxLgBRKCl36GqUPtvtfcrAz1D+2LFuWAZ6B0oa6Jiy5vpJnGIIHiGrEXlXjJclPMy3rTuK2akR5jzZh2pFnxFbNwuEg7WwyUwucK1yYo8t3CRFA/EeIj/ItWv037SK8AZruoQ8NP40/BQSDNNjfAAAAAElFTkSuQmCC",
+      "language": "en_GB",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=2041&awinaffid=141629&clickref=opera-continueon-gb&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "bonprix_ch",
+      "partner_domain": "bonprix.ch",
+      "product_url_pattern": "\/style\/.*\/",
+      "product_history_pattern": "bonprix.ch/style/",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAk1BMVEUAAADSGCjSGSnSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCnSGCjSGCjSGSjSGCjSGCjSGCjSGCjSGCjSGCjSGCnSGCjRGCnSGCjSGCjSGCjSGCnSGSjSGCnSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCnSGCjSGCjSGCjSGSnSGSjSGCjGO+tFAAAAMHRSTlMA9ChFSJjwctjAnIMHGs3r38j80rcxDQTkiFfbrJR7XjsX+PKzp45pZSUToFMfTH57FYw4AAACSElEQVRIx+WW25aaQBBFS8ALiNxEARWRURE1Gv//69J9qnuaKCYzb1kr52FWUdQu6LrIUDgQOtPXNXgIWf8jkI/CoFmQln2dhGFQKkddle46HEWH1leAlgcHzVztGErHMfkMiHYAjFwZUK+NI82IJp2AvQXAaCqAtOvYAjByFRBs5rge1GTD+EhdTnlhIEwPnPn8WaUK1ye6In5HdIKjZcAmshBZKUC/yoZynJaE8NCjAnTA1gBjacyXyLuSQImXNYCHUxpghcLdAOwksIXjL8B69nVgy50AUElgKK34PRBLo6Q1H5Uoi9D9d4BfIPWdj5r8IJry8fuBPBjxsPi0eECTXJSs9GK/DzASidE5NK8i6E9AQULLmC9O1A/gNhS2RCBwJ8reALQYe2kwj4/tkrSsaTqfktLOFrpIrzTOKmmNaC2/rn16J99p4pF8oc2d2eoYJeiYUuEKOcaIOvslH5ybVYF4Aq4i8wgdM1XCrBLBjQlncWP2SzVrZABEGWBMKysTJ1Z7MeZy/lTApjgkGIkbA4ei3InhC/cikFrU/IRmzswPmQNizMBMT6sEfPMz0pABaIPUPQDddXx+IXpe0VcAFpTIfj+vaC9gMRBkvwEVproP8APEo0b0vKI9AFYJShZdAGmaHsD6eGgFGlhQzQezewCUb+DxxupO79ViZq/AWa2Ti0cAMHLoFShUgawE72IA3O0B1lh23dmiA+TC+wrccCsj4g9BzEAz9KYOL5ntCMG0pHW7yL/42mXSsv/Z7/Q3gG//+/MLwrrCd7me2oYAAAAASUVORK5CYII=",
+      "language": "de_CH",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=13769&awinaffid=141629&clickref=opera-continueon-ch&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "bonprix_de",
+      "partner_domain": "bonprix.de",
+      "product_url_pattern": "\/style\/.*\/",
+      "product_history_pattern": "bonprix.de/style/",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAk1BMVEUAAADSGCjSGSnSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCnSGCjSGCjSGSjSGCjSGCjSGCjSGCjSGCjSGCjSGCnSGCjRGCnSGCjSGCjSGCjSGCnSGSjSGCnSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCnSGCjSGCjSGCjSGSnSGSjSGCjGO+tFAAAAMHRSTlMA9ChFSJjwctjAnIMHGs3r38j80rcxDQTkiFfbrJR7XjsX+PKzp45pZSUToFMfTH57FYw4AAACSElEQVRIx+WW25aaQBBFS8ALiNxEARWRURE1Gv//69J9qnuaKCYzb1kr52FWUdQu6LrIUDgQOtPXNXgIWf8jkI/CoFmQln2dhGFQKkddle46HEWH1leAlgcHzVztGErHMfkMiHYAjFwZUK+NI82IJp2AvQXAaCqAtOvYAjByFRBs5rge1GTD+EhdTnlhIEwPnPn8WaUK1ye6In5HdIKjZcAmshBZKUC/yoZynJaE8NCjAnTA1gBjacyXyLuSQImXNYCHUxpghcLdAOwksIXjL8B69nVgy50AUElgKK34PRBLo6Q1H5Uoi9D9d4BfIPWdj5r8IJry8fuBPBjxsPi0eECTXJSs9GK/DzASidE5NK8i6E9AQULLmC9O1A/gNhS2RCBwJ8reALQYe2kwj4/tkrSsaTqfktLOFrpIrzTOKmmNaC2/rn16J99p4pF8oc2d2eoYJeiYUuEKOcaIOvslH5ybVYF4Aq4i8wgdM1XCrBLBjQlncWP2SzVrZABEGWBMKysTJ1Z7MeZy/lTApjgkGIkbA4ei3InhC/cikFrU/IRmzswPmQNizMBMT6sEfPMz0pABaIPUPQDddXx+IXpe0VcAFpTIfj+vaC9gMRBkvwEVproP8APEo0b0vKI9AFYJShZdAGmaHsD6eGgFGlhQzQezewCUb+DxxupO79ViZq/AWa2Ti0cAMHLoFShUgawE72IA3O0B1lh23dmiA+TC+wrccCsj4g9BzEAz9KYOL5ntCMG0pHW7yL/42mXSsv/Z7/Q3gG//+/MLwrrCd7me2oYAAAAASUVORK5CYII=",
+      "language": "de_DE",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://clk.tradedoubler.com/click?p=305884&a=2016302&epi=opera-continueon-de&epi2=opera&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "bonprix_fr",
+      "partner_domain": "bonprix.fr",
+      "product_url_pattern": "\/style\/.*\/",
+      "product_history_pattern": "bonprix.fr/style/",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAk1BMVEUAAADSGCjSGSnSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCnSGCjSGCjSGSjSGCjSGCjSGCjSGCjSGCjSGCjSGCnSGCjRGCnSGCjSGCjSGCjSGCnSGSjSGCnSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCnSGCjSGCjSGCjSGSnSGSjSGCjGO+tFAAAAMHRSTlMA9ChFSJjwctjAnIMHGs3r38j80rcxDQTkiFfbrJR7XjsX+PKzp45pZSUToFMfTH57FYw4AAACSElEQVRIx+WW25aaQBBFS8ALiNxEARWRURE1Gv//69J9qnuaKCYzb1kr52FWUdQu6LrIUDgQOtPXNXgIWf8jkI/CoFmQln2dhGFQKkddle46HEWH1leAlgcHzVztGErHMfkMiHYAjFwZUK+NI82IJp2AvQXAaCqAtOvYAjByFRBs5rge1GTD+EhdTnlhIEwPnPn8WaUK1ye6In5HdIKjZcAmshBZKUC/yoZynJaE8NCjAnTA1gBjacyXyLuSQImXNYCHUxpghcLdAOwksIXjL8B69nVgy50AUElgKK34PRBLo6Q1H5Uoi9D9d4BfIPWdj5r8IJry8fuBPBjxsPi0eECTXJSs9GK/DzASidE5NK8i6E9AQULLmC9O1A/gNhS2RCBwJ8reALQYe2kwj4/tkrSsaTqfktLOFrpIrzTOKmmNaC2/rn16J99p4pF8oc2d2eoYJeiYUuEKOcaIOvslH5ybVYF4Aq4i8wgdM1XCrBLBjQlncWP2SzVrZABEGWBMKysTJ1Z7MeZy/lTApjgkGIkbA4ei3InhC/cikFrU/IRmzswPmQNizMBMT6sEfPMz0pABaIPUPQDddXx+IXpe0VcAFpTIfj+vaC9gMRBkvwEVproP8APEo0b0vKI9AFYJShZdAGmaHsD6eGgFGlhQzQezewCUb+DxxupO79ViZq/AWa2Ti0cAMHLoFShUgawE72IA3O0B1lh23dmiA+TC+wrccCsj4g9BzEAz9KYOL5ntCMG0pHW7yL/42mXSsv/Z7/Q3gG//+/MLwrrCd7me2oYAAAAASUVORK5CYII=",
+      "language": "fr_FR",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "http://clkuk.tradedoubler.com/click?p=23164&a=2020327&epi=opera-continueon-fr&epi2=opera&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "bonprix_it",
+      "partner_domain": "bonprix.it",
+      "product_url_pattern": "\/style\/.*\/",
+      "product_history_pattern": "bonprix.it/style/",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAk1BMVEUAAADSGCjSGSnSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCnSGCjSGCjSGSjSGCjSGCjSGCjSGCjSGCjSGCjSGCnSGCjRGCnSGCjSGCjSGCjSGCnSGSjSGCnSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCnSGCjSGCjSGCjSGSnSGSjSGCjGO+tFAAAAMHRSTlMA9ChFSJjwctjAnIMHGs3r38j80rcxDQTkiFfbrJR7XjsX+PKzp45pZSUToFMfTH57FYw4AAACSElEQVRIx+WW25aaQBBFS8ALiNxEARWRURE1Gv//69J9qnuaKCYzb1kr52FWUdQu6LrIUDgQOtPXNXgIWf8jkI/CoFmQln2dhGFQKkddle46HEWH1leAlgcHzVztGErHMfkMiHYAjFwZUK+NI82IJp2AvQXAaCqAtOvYAjByFRBs5rge1GTD+EhdTnlhIEwPnPn8WaUK1ye6In5HdIKjZcAmshBZKUC/yoZynJaE8NCjAnTA1gBjacyXyLuSQImXNYCHUxpghcLdAOwksIXjL8B69nVgy50AUElgKK34PRBLo6Q1H5Uoi9D9d4BfIPWdj5r8IJry8fuBPBjxsPi0eECTXJSs9GK/DzASidE5NK8i6E9AQULLmC9O1A/gNhS2RCBwJ8reALQYe2kwj4/tkrSsaTqfktLOFrpIrzTOKmmNaC2/rn16J99p4pF8oc2d2eoYJeiYUuEKOcaIOvslH5ybVYF4Aq4i8wgdM1XCrBLBjQlncWP2SzVrZABEGWBMKysTJ1Z7MeZy/lTApjgkGIkbA4ei3InhC/cikFrU/IRmzswPmQNizMBMT6sEfPMz0pABaIPUPQDddXx+IXpe0VcAFpTIfj+vaC9gMRBkvwEVproP8APEo0b0vKI9AFYJShZdAGmaHsD6eGgFGlhQzQezewCUb+DxxupO79ViZq/AWa2Ti0cAMHLoFShUgawE72IA3O0B1lh23dmiA+TC+wrccCsj4g9BzEAz9KYOL5ntCMG0pHW7yL/42mXSsv/Z7/Q3gG//+/MLwrrCd7me2oYAAAAASUVORK5CYII=",
+      "language": "it_IT",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "http://clkuk.tradedoubler.com/click?p=23165&a=2034177&epi=opera-continueon-it&epi2=opera&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "bonprix_nl",
+      "partner_domain": "bonprix.nl",
+      "product_url_pattern": "\/style\/.*\/",
+      "product_history_pattern": "bonprix.nl/style/",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAk1BMVEUAAADSGCjSGSnSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCnSGCjSGCjSGSjSGCjSGCjSGCjSGCjSGCjSGCjSGCnSGCjRGCnSGCjSGCjSGCjSGCnSGSjSGCnSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCnSGCjSGCjSGCjSGSnSGSjSGCjGO+tFAAAAMHRSTlMA9ChFSJjwctjAnIMHGs3r38j80rcxDQTkiFfbrJR7XjsX+PKzp45pZSUToFMfTH57FYw4AAACSElEQVRIx+WW25aaQBBFS8ALiNxEARWRURE1Gv//69J9qnuaKCYzb1kr52FWUdQu6LrIUDgQOtPXNXgIWf8jkI/CoFmQln2dhGFQKkddle46HEWH1leAlgcHzVztGErHMfkMiHYAjFwZUK+NI82IJp2AvQXAaCqAtOvYAjByFRBs5rge1GTD+EhdTnlhIEwPnPn8WaUK1ye6In5HdIKjZcAmshBZKUC/yoZynJaE8NCjAnTA1gBjacyXyLuSQImXNYCHUxpghcLdAOwksIXjL8B69nVgy50AUElgKK34PRBLo6Q1H5Uoi9D9d4BfIPWdj5r8IJry8fuBPBjxsPi0eECTXJSs9GK/DzASidE5NK8i6E9AQULLmC9O1A/gNhS2RCBwJ8reALQYe2kwj4/tkrSsaTqfktLOFrpIrzTOKmmNaC2/rn16J99p4pF8oc2d2eoYJeiYUuEKOcaIOvslH5ybVYF4Aq4i8wgdM1XCrBLBjQlncWP2SzVrZABEGWBMKysTJ1Z7MeZy/lTApjgkGIkbA4ei3InhC/cikFrU/IRmzswPmQNizMBMT6sEfPMz0pABaIPUPQDddXx+IXpe0VcAFpTIfj+vaC9gMRBkvwEVproP8APEo0b0vKI9AFYJShZdAGmaHsD6eGgFGlhQzQezewCUb+DxxupO79ViZq/AWa2Ti0cAMHLoFShUgawE72IA3O0B1lh23dmiA+TC+wrccCsj4g9BzEAz9KYOL5ntCMG0pHW7yL/42mXSsv/Z7/Q3gG//+/MLwrrCd7me2oYAAAAASUVORK5CYII=",
+      "language": "nl_NL",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://clk.tradedoubler.com/click?p=22449&a=2781918&epi=opera-continueon-nl&epi2=opera&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "bonprix_pl",
+      "partner_domain": "bonprix.pl",
+      "product_url_pattern": "\/style\/.*\/",
+      "product_history_pattern": "bonprix.pl/style/",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAk1BMVEUAAADSGCjSGSnSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCnSGCjSGCjSGSjSGCjSGCjSGCjSGCjSGCjSGCjSGCnSGCjRGCnSGCjSGCjSGCjSGCnSGSjSGCnSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCnSGCjSGCjSGCjSGSnSGSjSGCjGO+tFAAAAMHRSTlMA9ChFSJjwctjAnIMHGs3r38j80rcxDQTkiFfbrJR7XjsX+PKzp45pZSUToFMfTH57FYw4AAACSElEQVRIx+WW25aaQBBFS8ALiNxEARWRURE1Gv//69J9qnuaKCYzb1kr52FWUdQu6LrIUDgQOtPXNXgIWf8jkI/CoFmQln2dhGFQKkddle46HEWH1leAlgcHzVztGErHMfkMiHYAjFwZUK+NI82IJp2AvQXAaCqAtOvYAjByFRBs5rge1GTD+EhdTnlhIEwPnPn8WaUK1ye6In5HdIKjZcAmshBZKUC/yoZynJaE8NCjAnTA1gBjacyXyLuSQImXNYCHUxpghcLdAOwksIXjL8B69nVgy50AUElgKK34PRBLo6Q1H5Uoi9D9d4BfIPWdj5r8IJry8fuBPBjxsPi0eECTXJSs9GK/DzASidE5NK8i6E9AQULLmC9O1A/gNhS2RCBwJ8reALQYe2kwj4/tkrSsaTqfktLOFrpIrzTOKmmNaC2/rn16J99p4pF8oc2d2eoYJeiYUuEKOcaIOvslH5ybVYF4Aq4i8wgdM1XCrBLBjQlncWP2SzVrZABEGWBMKysTJ1Z7MeZy/lTApjgkGIkbA4ei3InhC/cikFrU/IRmzswPmQNizMBMT6sEfPMz0pABaIPUPQDddXx+IXpe0VcAFpTIfj+vaC9gMRBkvwEVproP8APEo0b0vKI9AFYJShZdAGmaHsD6eGgFGlhQzQezewCUb+DxxupO79ViZq/AWa2Ti0cAMHLoFShUgawE72IA3O0B1lh23dmiA+TC+wrccCsj4g9BzEAz9KYOL5ntCMG0pHW7yL/42mXSsv/Z7/Q3gG//+/MLwrrCd7me2oYAAAAASUVORK5CYII=",
+      "language": "pl_PL",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://clk.tradedoubler.com/click?p=51657&a=1996724&g=CoS&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "bonprix_ro",
+      "partner_domain": "bonprix.ro",
+      "product_url_pattern": "\/style\/.*\/",
+      "product_history_pattern": "bonprix.ro/style/",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAk1BMVEUAAADSGCjSGSnSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCnSGCjSGCjSGSjSGCjSGCjSGCjSGCjSGCjSGCjSGCnSGCjRGCnSGCjSGCjSGCjSGCnSGSjSGCnSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCnSGCjSGCjSGCjSGSnSGSjSGCjGO+tFAAAAMHRSTlMA9ChFSJjwctjAnIMHGs3r38j80rcxDQTkiFfbrJR7XjsX+PKzp45pZSUToFMfTH57FYw4AAACSElEQVRIx+WW25aaQBBFS8ALiNxEARWRURE1Gv//69J9qnuaKCYzb1kr52FWUdQu6LrIUDgQOtPXNXgIWf8jkI/CoFmQln2dhGFQKkddle46HEWH1leAlgcHzVztGErHMfkMiHYAjFwZUK+NI82IJp2AvQXAaCqAtOvYAjByFRBs5rge1GTD+EhdTnlhIEwPnPn8WaUK1ye6In5HdIKjZcAmshBZKUC/yoZynJaE8NCjAnTA1gBjacyXyLuSQImXNYCHUxpghcLdAOwksIXjL8B69nVgy50AUElgKK34PRBLo6Q1H5Uoi9D9d4BfIPWdj5r8IJry8fuBPBjxsPi0eECTXJSs9GK/DzASidE5NK8i6E9AQULLmC9O1A/gNhS2RCBwJ8reALQYe2kwj4/tkrSsaTqfktLOFrpIrzTOKmmNaC2/rn16J99p4pF8oc2d2eoYJeiYUuEKOcaIOvslH5ybVYF4Aq4i8wgdM1XCrBLBjQlncWP2SzVrZABEGWBMKysTJ1Z7MeZy/lTApjgkGIkbA4ei3InhC/cikFrU/IRmzswPmQNizMBMT6sEfPMz0pABaIPUPQDddXx+IXpe0VcAFpTIfj+vaC9gMRBkvwEVproP8APEo0b0vKI9AFYJShZdAGmaHsD6eGgFGlhQzQezewCUb+DxxupO79ViZq/AWa2Ti0cAMHLoFShUgawE72IA3O0B1lh23dmiA+TC+wrccCsj4g9BzEAz9KYOL5ntCMG0pHW7yL/42mXSsv/Z7/Q3gG//+/MLwrrCd7me2oYAAAAASUVORK5CYII=",
+      "language": "ro_RO",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://clk.tradedoubler.com/click?p=323167&a=3203682&epi=opera-continueon-ro&epi2=opera&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "bonprix_sk",
+      "partner_domain": "bonprix.sk",
+      "product_url_pattern": "\/style\/.*\/",
+      "product_history_pattern": "bonprix.sk/style/",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAk1BMVEUAAADSGCjSGSnSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCnSGCjSGCjSGSjSGCjSGCjSGCjSGCjSGCjSGCjSGCnSGCjRGCnSGCjSGCjSGCjSGCnSGSjSGCnSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCjSGCnSGCjSGCjSGCjSGSnSGSjSGCjGO+tFAAAAMHRSTlMA9ChFSJjwctjAnIMHGs3r38j80rcxDQTkiFfbrJR7XjsX+PKzp45pZSUToFMfTH57FYw4AAACSElEQVRIx+WW25aaQBBFS8ALiNxEARWRURE1Gv//69J9qnuaKCYzb1kr52FWUdQu6LrIUDgQOtPXNXgIWf8jkI/CoFmQln2dhGFQKkddle46HEWH1leAlgcHzVztGErHMfkMiHYAjFwZUK+NI82IJp2AvQXAaCqAtOvYAjByFRBs5rge1GTD+EhdTnlhIEwPnPn8WaUK1ye6In5HdIKjZcAmshBZKUC/yoZynJaE8NCjAnTA1gBjacyXyLuSQImXNYCHUxpghcLdAOwksIXjL8B69nVgy50AUElgKK34PRBLo6Q1H5Uoi9D9d4BfIPWdj5r8IJry8fuBPBjxsPi0eECTXJSs9GK/DzASidE5NK8i6E9AQULLmC9O1A/gNhS2RCBwJ8reALQYe2kwj4/tkrSsaTqfktLOFrpIrzTOKmmNaC2/rn16J99p4pF8oc2d2eoYJeiYUuEKOcaIOvslH5ybVYF4Aq4i8wgdM1XCrBLBjQlncWP2SzVrZABEGWBMKysTJ1Z7MeZy/lTApjgkGIkbA4ei3InhC/cikFrU/IRmzswPmQNizMBMT6sEfPMz0pABaIPUPQDddXx+IXpe0VcAFpTIfj+vaC9gMRBkvwEVproP8APEo0b0vKI9AFYJShZdAGmaHsD6eGgFGlhQzQezewCUb+DxxupO79ViZq/AWa2Ti0cAMHLoFShUgawE72IA3O0B1lh23dmiA+TC+wrccCsj4g9BzEAz9KYOL5ntCMG0pHW7yL/42mXSsv/Z7/Q3gG//+/MLwrrCd7me2oYAAAAASUVORK5CYII=",
+      "language": "sk_SK",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://clk.tradedoubler.com/click?p=315037&a=3237660&g=CoS&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "casas_bahia_br",
+      "partner_domain": "casasbahia.com.br",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"casasbahia.com.br/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAaVBMVEX///8AM8aFKIwANMra4PYAMcblACPtGTIAGMION8f86OkAIcT++vv+9/j72t/kAADmAC3vfYrsABjsABH3sbfp3+x8AISBGoizhrcAEsa3w+4AKcWFlt6iruUAB8H5+v5ectUlSMuTn+CZXbuLAAAAWUlEQVQYlWNgIAbwcIEAL0KAj58NCAQEEQJC7CAgLAITEBVjAgFxCZgACwczCEhKIQQYgUBahgFVgJVbFlWAkZUDTYBRTh4uwAoCHApwFdycQKCoRJS3sAAA9R0DcrXGy7wAAAAASUVORK5CYII=",
+      "language": "pt_BR",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=17629&awinaffid=141629&clickref=opera-continueon-br&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "ccc_hu",
+      "partner_domain": "ccc.eu",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"ccc.eu/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAOVBMVEUjHyDk5OTn5udiX2Di4eEpJSY5NTbCwcFZVlcmIiO5uLhKR0ewr6+0s7MvKyxvbG3Kyck5NjdPTE1I3rQeAAAAOklEQVQYlWNgoA/g5GJh4mZmYeRh5WVk4gMKsLEzsDGwcDCw8QtwsjFABTiBAoIwAU4uRkYhZC30AADEnAF0K45xSwAAAABJRU5ErkJggg==",
+      "language": "hu_HU",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://clk.tradedoubler.com/click?p=313392&a=3203991&epi=opera-continueon-hu&epi2=opera&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "cdiscount_com",
+      "partner_domain": "cdiscount.com",
+      "product_url_pattern": "f\\-\\d+.*html",
+      "product_history_pattern": "\"www.cdiscount.com\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAACFlBMVEUAAAD////kHx/////nOTkypcvrXFxTs9OIy+D///8hncb////////zlJSNy+TymZn///+u3d3lKysln8foQUH///83p8zoSEjoRkY7qc3///9OsdHsY2Ndt9ViutbtbGxlu9fucnL////vfX3uc3Nzwdv////////////////////xg4N6xd3uhYX/lpb////mMTHlMjIvo8noQUH////uc3NnvNjsaWnrY2NZtdPtb2/taGhlu9dmu9fvdnZuvtlxwNr////whYWUzuae0+X////////////riYn////hOxPiExMAjr0Dj77//f3/+/oRlsLkIiLjGRnhPRb86eX74twMlMDzrZzxpJHjFxf64Nn3y8AFkb/1v7HjQx397+2g1ef85uNeuNb5z8/4zsUOlcH2xrryqZjxppTwnYnshGrrfGLpcFPmXT3jSCPjHR3iPxjv+PvQ6vP98fH75N90wtsbmsT0paXvloHwf3/udnbtbW3rel/lVzTlVDHlUi/lLS3kTSj9/v76/f7j8/j+9vXA5O/87equ2+pnvNj63NX52tP51cw2psv4xsb3urrzsaHxoY7uknzujnfta2vrf2XrfmToZUboRkbnYD/kTyviQhvz+vzr9vrZ7vXL6PLJ5/HI5/H98u+23+ya0uX73Nxtvtlsvtn61tb61dX40cf2tLT1rKz1qqrtiXDtiHDth2/mMDB07gPqAAAASXRSTlMA9P789/PNzCwl/M1tKCUfGQf9+fPx7Ozr6tDPyrWpp6Ojj4mIgWdiWFNORkItCAX6+fTyx8PCu7Svrquak4+OioAyHx0WExINgarOsQAAAvNJREFUSMeVlWdb2zAUhUUgSZmlZZVOyoZS6N57y5KDE0jIBBoIFApJy55l79UCZXXvvf5hHUskTmI7T95PvtKRrXt1dQxCSC48nXFMbzHoj2dorhwFYbiTEA/hEkJ6vd6AvKRe3KkgT86Ogl4+TUCe9rru1WGEPJobMvKyBCIXo1vsNyDV2XtS+ti9UJLKPguKORKqL4qCcnzbQJ7cYH1BNJSnvBdZDgXq86GYKdtTs7nRYdX5Rn4ZUMCKItH77ze1MpSR5npIWbJYckX5pvnlzRWMmE0bJPxEKl/mu/z1qapmgll7T6Z6UUwpIByY3k7uOSPBEyuZ3EAXiH6Hq2uUDLUwkrjnhOmvFn2isGAf7iSn+pCRYaRDEPQhDeC5aTI9FuJGv2Lwb1PTn3Vf2FpJCmJQeTvxIP4shB0vGMrALBQwrpCKtbRDQj86zC84gduEaHtD1Q7ow7bFD/wuh5RFlMqnzMaR19H6P6qHImbdjFnUu8MoEVzGM0LQwxAewABsDnG0inL4GtUKz4O06OVQgW60H2TiN0LX+z6gRB3aA+KwUNQGusAKlWhHMYCzkyaiKUNlDLuBiROenpEFQ1AZvQHYI1ugAhwbsCVd2C2lRJJ0DZ90On4bWVm1kR7cVexUao3vDeKoH+Xwzdel0HxGd0WVqPn+Id7O1XhStr3nh/iBZZ0/hZPCBXIGXaA1I3XVHvLVgQlI6BMuUJLJPh58RTdXzI3LLT6HWp8iRfV4hJ+FFn8JYwJuK3UmDbEZE9umaDPV8/S+qRKpkeGFMQUj25qDhB/ntq1SjTvlrXKgBlLiSwGlxMUfN6EyyIxb/QcXFQt85LHstLTd+7s3uhiIyMJsragpvT+UKoeRqCkFIIBLLO4cg/JE54Mg8lx4oU1Wn1YMQihRY3ZmXFofHwsk2HWew3bn5GiIPOp6GZAmSWvCuMv58d0ryPPyNZFnJwN5bmWpWczDcpwL4w8Qnkq4C8KQdE2bmcLZWS4u/UzhbRDMf3XoLneo5+XmAAAAAElFTkSuQmCC",
+      "language": "en_GB",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://go.skimresources.com?id=180151X1673969&xs=1&xcust=CoS&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "cdiscount_fr",
+      "partner_domain": "cdiscount.com",
+      "product_url_pattern": "f\\-\\d+.*html",
+      "product_history_pattern": "\"www.cdiscount.com\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAACFlBMVEUAAAD////kHx/////nOTkypcvrXFxTs9OIy+D///8hncb////////zlJSNy+TymZn///+u3d3lKysln8foQUH///83p8zoSEjoRkY7qc3///9OsdHsY2Ndt9ViutbtbGxlu9fucnL////vfX3uc3Nzwdv////////////////////xg4N6xd3uhYX/lpb////mMTHlMjIvo8noQUH////uc3NnvNjsaWnrY2NZtdPtb2/taGhlu9dmu9fvdnZuvtlxwNr////whYWUzuae0+X////////////riYn////hOxPiExMAjr0Dj77//f3/+/oRlsLkIiLjGRnhPRb86eX74twMlMDzrZzxpJHjFxf64Nn3y8AFkb/1v7HjQx397+2g1ef85uNeuNb5z8/4zsUOlcH2xrryqZjxppTwnYnshGrrfGLpcFPmXT3jSCPjHR3iPxjv+PvQ6vP98fH75N90wtsbmsT0paXvloHwf3/udnbtbW3rel/lVzTlVDHlUi/lLS3kTSj9/v76/f7j8/j+9vXA5O/87equ2+pnvNj63NX52tP51cw2psv4xsb3urrzsaHxoY7uknzujnfta2vrf2XrfmToZUboRkbnYD/kTyviQhvz+vzr9vrZ7vXL6PLJ5/HI5/H98u+23+ya0uX73Nxtvtlsvtn61tb61dX40cf2tLT1rKz1qqrtiXDtiHDth2/mMDB07gPqAAAASXRSTlMA9P789/PNzCwl/M1tKCUfGQf9+fPx7Ozr6tDPyrWpp6Ojj4mIgWdiWFNORkItCAX6+fTyx8PCu7Svrquak4+OioAyHx0WExINgarOsQAAAvNJREFUSMeVlWdb2zAUhUUgSZmlZZVOyoZS6N57y5KDE0jIBBoIFApJy55l79UCZXXvvf5hHUskTmI7T95PvtKRrXt1dQxCSC48nXFMbzHoj2dorhwFYbiTEA/hEkJ6vd6AvKRe3KkgT86Ogl4+TUCe9rru1WGEPJobMvKyBCIXo1vsNyDV2XtS+ti9UJLKPguKORKqL4qCcnzbQJ7cYH1BNJSnvBdZDgXq86GYKdtTs7nRYdX5Rn4ZUMCKItH77ze1MpSR5npIWbJYckX5pvnlzRWMmE0bJPxEKl/mu/z1qapmgll7T6Z6UUwpIByY3k7uOSPBEyuZ3EAXiH6Hq2uUDLUwkrjnhOmvFn2isGAf7iSn+pCRYaRDEPQhDeC5aTI9FuJGv2Lwb1PTn3Vf2FpJCmJQeTvxIP4shB0vGMrALBQwrpCKtbRDQj86zC84gduEaHtD1Q7ow7bFD/wuh5RFlMqnzMaR19H6P6qHImbdjFnUu8MoEVzGM0LQwxAewABsDnG0inL4GtUKz4O06OVQgW60H2TiN0LX+z6gRB3aA+KwUNQGusAKlWhHMYCzkyaiKUNlDLuBiROenpEFQ1AZvQHYI1ugAhwbsCVd2C2lRJJ0DZ90On4bWVm1kR7cVexUao3vDeKoH+Xwzdel0HxGd0WVqPn+Id7O1XhStr3nh/iBZZ0/hZPCBXIGXaA1I3XVHvLVgQlI6BMuUJLJPh58RTdXzI3LLT6HWp8iRfV4hJ+FFn8JYwJuK3UmDbEZE9umaDPV8/S+qRKpkeGFMQUj25qDhB/ntq1SjTvlrXKgBlLiSwGlxMUfN6EyyIxb/QcXFQt85LHstLTd+7s3uhiIyMJsragpvT+UKoeRqCkFIIBLLO4cg/JE54Mg8lx4oU1Wn1YMQihRY3ZmXFofHwsk2HWew3bn5GiIPOp6GZAmSWvCuMv58d0ryPPyNZFnJwN5bmWpWczDcpwL4w8Qnkq4C8KQdE2bmcLZWS4u/UzhbRDMf3XoLneo5+XmAAAAAElFTkSuQmCC",
+      "language": "fr_FR",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=6948&awinaffid=141629&clickref=opera-continueon-fr&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "conrad_de",
+      "partner_domain": "conrad.de",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"conrad.de/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABzUlEQVQ4jXWTO2iUQRSFv/PvI1EUJFFEm4AkiAgWYoqYQtQsaKeNqJ2lhWJhYeEKJpImIAY0rTY2sdkqWLhF1nJFQayU4KvQaOGGoJLd/edY7MN//2wuDMw9c86Ze+chUnF61sNucgk4CRyW2QPsMOTTXMTnbDKfmvGV0GQes7ODeZMqqWe5azA146shsLAF04JPwPckbFMSQGHak8FUDFFqh7eRuD64l+rfX+Soc0ARma5Blg8RQGxm02Lg8dAhxi2O/lnlfdigFszrOKbaGVFgnwr3fCyOqaZK/jmwi9F6jSc25xP4usyKxYZgvXxHhawDZ9ItR2KuvsbxpFgRN4YO8vDZBcVJbja0rqsnHHiFuJbYebFc1Pymw6XV90ga1AArwGgCetlP3Kq29VB6IredVfzfWGb/VgY6ddcNoOdB5fKMNRss2Yy1W7DgOfC1XXelfFtPAbISazbDSYO4wTnDfcQCRhgZznYJgTedadbwDjiRNAgwLbiZyXAkDkwadmMGu33nWeoaSDywew0w2wyP4iZ1i2+CH0CzvVZ5cUtfumblokqIxX4HZMhjRmzGbSZsJiRqSU4EUC5yMZPhskRJ4qPEb9T/IxqWk/k/+ASt8/nKQ/AAAAAASUVORK5CYII=",
+      "language": "de_DE",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=11354&awinaffid=141629&clickref=opera-continueon-de&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "coolblue_be",
+      "partner_domain": "coolblue.be",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"coolblue.be/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACR0lEQVQ4jZWTT0hUURTGf+e+92acHMfxqdMzNM0KSmjhJiiMoD/UqkXgJst2CZG7VrWXFrUSpG26lDZuWgRRZFCLBFvMQlIGohgJTcZ/8+fdd1rMH5QS6izu/eC755wP7vcJe0rHT8QLRb2Eie4KMgQENSqv6DyReZFqkjcy+bVU75E62LrfF2joPFbR20Cav9eGoDPi6ERyKpdvDNi+19tlcZ8jeuOAxv2lMmdcO5acyuVFhwdiW22lZyr64N+aIxCDoJPJ9cRDU/CLV1T0VuOBFwcxIAJuDFQbWBItuIPXwfFQZKSQLl12QUdBfBwP79xNTHs30eoKkg6Q5lZs7gsmHSDpDLq5hunsxWbfo7biIzpqBBlCFWnxcU6epbLwCi0XMZle7PIC3vlhTN8Z7NIn3NMXIJaoKkIRYUgKY/0VwMXxiF0cQVp8ovwyJnMMvDg2t4hpzSCpDqJfeSTpU3k7g25vgEjoNv7TcZF0gF36iP2WxUu2E63/wGbfYePNgCCHUmhxG90p1FSAC+RBuxGD6T4FXhx38BrEEpieAYhCTHAc09FT3WQcSi+f1BXkjaIfqDvChkQrn8E4mFQHEmvC9AxgOo8ibV3oTgEtbjW2qzLvgkwDVzUs++Hia8Q/gs3OE4YlUMW0BdjVHNHPHE7/INHad3R3E0TWiWS6aiR/96ki42hEfTQioFA7qhLrxt9rJJnNlsXRCVTmqgYyYJzaXcPGqeI6rzInjk7IbLa8P0xWHilyh/8NU8Pmf8b5cI1aPSjOvwHuGfHF+hzh3QAAAABJRU5ErkJggg==",
+      "language": "nl_BE",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://prf.hn/click/camref:1011ldsM7/pubref:opera-continueon-be/destination:$1"
+        }
+      }
+    },
+    {
+      "partner_id": "coolblue_nl",
+      "partner_domain": "coolblue.nl",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"coolblue.nl/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACR0lEQVQ4jZWTT0hUURTGf+e+92acHMfxqdMzNM0KSmjhJiiMoD/UqkXgJst2CZG7VrWXFrUSpG26lDZuWgRRZFCLBFvMQlIGohgJTcZ/8+fdd1rMH5QS6izu/eC755wP7vcJe0rHT8QLRb2Eie4KMgQENSqv6DyReZFqkjcy+bVU75E62LrfF2joPFbR20Cav9eGoDPi6ERyKpdvDNi+19tlcZ8jeuOAxv2lMmdcO5acyuVFhwdiW22lZyr64N+aIxCDoJPJ9cRDU/CLV1T0VuOBFwcxIAJuDFQbWBItuIPXwfFQZKSQLl12QUdBfBwP79xNTHs30eoKkg6Q5lZs7gsmHSDpDLq5hunsxWbfo7biIzpqBBlCFWnxcU6epbLwCi0XMZle7PIC3vlhTN8Z7NIn3NMXIJaoKkIRYUgKY/0VwMXxiF0cQVp8ovwyJnMMvDg2t4hpzSCpDqJfeSTpU3k7g25vgEjoNv7TcZF0gF36iP2WxUu2E63/wGbfYePNgCCHUmhxG90p1FSAC+RBuxGD6T4FXhx38BrEEpieAYhCTHAc09FT3WQcSi+f1BXkjaIfqDvChkQrn8E4mFQHEmvC9AxgOo8ibV3oTgEtbjW2qzLvgkwDVzUs++Hia8Q/gs3OE4YlUMW0BdjVHNHPHE7/INHad3R3E0TWiWS6aiR/96ki42hEfTQioFA7qhLrxt9rJJnNlsXRCVTmqgYyYJzaXcPGqeI6rzInjk7IbLa8P0xWHilyh/8NU8Pmf8b5cI1aPSjOvwHuGfHF+hzh3QAAAABJRU5ErkJggg==",
+      "language": "nl_NL",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://prf.hn/click/camref:1101ldsQ9/pubref:opera-continueon-nl/destination:$1"
+        }
+      }
+    },
+    {
+      "partner_id": "currys_uk",
+      "partner_domain": "currys.co.uk",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"currys.co.uk/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABz0lEQVQ4ja2TT0hUURTGf/f5evNSYcTCEURdiE4oDS4kgnAz0MAEtgjUigSJIShaZS5y6aZNunQoIghJSAkioeAthJAW1iYnGtCIaBR0EPqDA86fN++0cN5r0lko9q3uuXzfOfec7x7FHvQ1znRh2zGECNBSuk6hsND1x/ObVz+X85V76O+cNXLp7KSI3BTQ9iYukR2lVNwXMO/MJQfyXoL+zlkjm86+EZFwuaCuwaQ+UM3a6i8KOedvIqUWzIAZnUsO5HWAUmVPHL7cxtBYNyebagAo2g6JxU3io0tsfNtGRMK5dHYSuK36Gme6yBcS7rNvTZwlOtyxKyw67GwXqK3zAfDBWmf8yoLXDsaxkI5tx1xxz/kmosMdiAjP7n/k5VSS3E6R5qCfwZEQ8dElrw0BTdl2TC9NG4AL14MAWNNfeD7xySOvrfzmwY3F/VMVIlqZVbSF6gF49+p7JRMqoaWiXYeBBqTc4GviBwDnLrYeVJ/SUFhu9PrJCgCRoXYGR07jO14FQHPQz91HvdT4jX/lCuvINlatZl5snaq+1CBwxiWlUxnau09Q6/dhmDpF22H57QYP770n8zO/27tSU/Nb154e+Sv/n2Uqx2HX+Q+RltsQQXnoiQAAAABJRU5ErkJggg==",
+      "language": "en_GB",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=1599&awinaffid=141629&clickref=opera-continueon-gb&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "cyberport_de",
+      "partner_domain": "cyberport.de",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"cyberport.de/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABn0lEQVQ4jaWTTSgEYRzGf2sMJhtRJOGApJGwpBBO5CA5SRHFTS4iR7Nzk8IFF62DktqDKOXrIMRBIuU7OUiSSJZaTNM4DGPW+kie0ztPPc88/+f9vw6qVYN/IOQ/YoDQgC/fEzzr5tkZBpIYyIULIAomH2Tge2Kmt5GaIhkAt2cedXSZmcFmSnPTAbi+9TG7sU/X8AJERdhG8GsoTWXUFMksbZ1wfHGDu7UK4iKJdkrESGFML24C0FlXjtJUBn7NZqDpuOQUACrbPXSPzAKg1BZaAVs6vGQ2DABQkpMKmm4zsCNc4ODyDrdnnom1wz+WCCAKnN4+oE6uw+OLRY8N1lGcnwnA+u6ZWeaXCd7xFvEdtZXmOP3eFdTxVesmghNoOulJsYwo9QxNbVh0bFYXJDvNP7/dwNcJnnXkxBgqCjLIS0v44OMlU2jbgQ8DUWD74ByAxaFW+tqqAX4v0TCyzREkEXV8FZecYi1Sv3eF06Mr7h/93PlfgsW6w8WcsucIeEw/rXJc5Cdxzw58LtFWzrecTRxs8BsMI5s5Zc9OvQL+NIlS7jhFTgAAAABJRU5ErkJggg==",
+      "language": "de_DE",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=11657&awinaffid=141629&clickref=opera-continueon-de&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "cyberpuerta_mx",
+      "partner_domain": "cyberpuerta.mx",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"cyberpuerta.mx/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA90lEQVQ4jWNkyNipw/CPaS8DA4MYA2ngFQPTP2cWnJr//ofQ3/5CaC5mBgZmRmQVYgz/mPayYGj+/IeBgYGBQVGcgyFQW5DBWkOIQVSAgyF+7lWG+59/YxjCgq55bZY2Q5CNLIaDeoKVGUrW3sUwhAldITbNMLAsXRfhJQwDYH7GA1iYGDHEEAYwY0qig/8MmJYQdEHZvEt4DSXJBfgNwOGCriQ96rmAkQFfIBIRC99//cUQw3DBuiOPcRoQP/cqAwMvatpjZEjbjWo1aUmZgZEhbfdLBvIyEwMDA8MrJgamf84MDAyvMAxgZoRgXhYIxqKZgemfMwCZgkym/WpK0AAAAABJRU5ErkJggg==",
+      "language": "es_MX",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://tc.tradetracker.net/?c=26280&m=12&a=441231&r=opera-continueon-mx&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "dafiti_cl",
+      "partner_domain": "dafiti.cl",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"dafiti.cl/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABRElEQVQ4jcWSL2tCURjGf+duDBQ8Bzm3GUxWMVoNu821ywx+gQVhZsOsa4MTZjRcwVX9AEYtt5hMtgOGCe4yEFfOgsw5LdOFPfDCy8P7/AmvAO4EPDlYcwIEpBzcCwEbB1eniPdMPrxTk/fhYO2dK/7Cnw0uDwlfa16Xy6NDX2ukUiRvbwBIpZjP58cNol7vSGyM4bZWI5vN8tzpIJUin89/N/C1ZjAcYq1FSkmr1aJUKpHL5YjjmCAImM1mNBoNisUizWaTxWLBaDTaNnhot7mpVgnDkDiOKRQKhGFIvV4nSRKm0ykv/T7WWsbjMZPJZNfOA+h2uwyGQ4wxBEGAtRZjDFEUAZDJZJBKIaUEoFwuk06ndyYrwAGuUqm4w93X2vla7/YDbvXD4IxZ/f8jeQJS54oFpC6ApYBr4B3Y/HbENvzxE5+9hcjoqxwEAAAAAElFTkSuQmCC",
+      "language": "es_CL",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://ad.soicos.com/-1mWC?trackerID=opera-continueon-cl&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "darty_fr",
+      "partner_domain": "darty.com",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"darty.com/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABXUlEQVQ4jZ2SsUsCUQDGvwuTw/JdIQ6HaBe5pI4OORxOtShO7uZw4HM4OAf7HwQJGnJ3FqRwKnQ12jztPzDK5M66Q45qeA1XESSh/bYHv/fex8fHmeEoXKw5e3nwqtr60SG3vQWAzZ7fr67fzk45QQTZ+NTMcNQMRw3AUihzHPYbx7EUanyZcO15rb5A/cG8VnfvwBRES6F/2y6WQk1BhAEsTrIomwGseVUNPI9l4HmvqoF1e+7xpt8vUwpgOBwC2AmF0rIMIEBIWpZPqtXdeJx1ex4EgwBarVaz2bwbjYqFwv14HCAkk8tJkpTJZpPJpM/nO0ilLjodCMLa94dPk8loMLhst3Vd3/T7zxuN42LRMAxzNtuPxQAkEgkAHkynAPL5vJvnVtf3JAlAmdJyqQQgEokQQtxHXx8nsFVtqYoYY4zZqrZ6rZwg2mplmVZttcIJ4j+mseL4uFXn/QFAjKG9kdQDrAAAAABJRU5ErkJggg==",
+      "language": "fr_FR",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=7735&awinaffid=141629&clickref=opera-continueon-fr&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "decathlon_br",
+      "partner_domain": "decathlon.com.br",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"decathlon.com.br/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACs0lEQVQ4jaWTzU8bBxDFf7V31/baXn+sP2oDduxaCZFKqiKDEDSHKKLKiRs55JCPQ070zyGHinsrxbk0kXpBqsTBKQUbqa1AUCgFk0C8trv2YrNm1y69gJWoveWdZqR5b97MaOAj8clVMD//3FO1apGZfHbCtnoLetPMt4yuD0Dxu9uhoKckuYRnxdL+elyK1guF++ZAYH7+uadt68nc9fjTdud8LpdRY6lsWLXsPpLoJJNSWV7ebhxUdE3xSy/3/qgt+cTQcaFw3xQAqlYt8sWNoadnZu/B57cSI5m0ileWGB8bpnNmkU4qZFMR9fftY/W778u+XC7Kr7snz4AjB8BMPjthtLtzTx5NjGTSKgCW3Wd143Awa0yVEUUnjx9OjrQ653Mz+ewEgAPAOu8tXBsJxaa+TA0Itt3HtvuEAjIAHbNHs2USCnhIDYVi3a69MBDQm2Z+dnZU7Zi9DzZ896vrKF4BAK9H4MZnMfYrf3Pv3k1V1808gADQMkxfPKKgeAW8ssRwIshwIjggAzgdUK2fAhCPKBiG6Rs4APDKEgBT49d4c9LEsj90cwVRdAJwcZkLV3fer9SVRDSF4hX4+naOYrnCzmVRNhUhEZW5M5Wh3uyy86eG4ne3Bw7CIbm0vLzdeL/T2GgSrd5Gq7dZ3Thg7bdjACJBN69ebTbCQbk0EBBFYfGgomvFcuV/bQO8PWnS/weK5QrH1ZbmcouLAE4AR2C6k04GAz//cpiOfqoEUskALsmBKIpol4sbG02ys6/x7dLro6Df9aK0efTD4c6PhhNg8tZj+12tsZtIKNLr1QO1tHHkcPtccrN1xolmYJx2WVnZa/y0snsY9Lte7O3VlsKSWt3aKvT+80zT49n8uWV/o+tm3jjt+i4uLlD87rYaltdlt7C4VvqrHHjvmT4a/wJLYRPRy3Z+JAAAAABJRU5ErkJggg==",
+      "language": "pt_BR",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=19296&awinaffid=141629&clickref=opera-continueon-br&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "decathlon_pl",
+      "partner_domain": "decathlon.pl",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"decathlon.pl/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABd0lEQVQ4jWNkqD/OQApgIkk1AwMDCwrv338koxixCCJr4GJl0hHjgnOff/n9+ONPBgYGVVFOQQ4WDA3//uuIca0JVxPkYIYIvP76Z8WVt1NOvWhzlvNQ4YcI/vmH6iSI6h13PjIwMNjJ81baSglzswhysPCwMZ948uXSq28YfmBgeP31T/72B88+/wrUEJoXoBymJfz5118GBoY1196tuvr266+/6BrgLtx598ONN98tZHgEOJgZGBhq7KTLrCU33HyPQwMDAwcLSog/+fTz5Zc/jz78xKKBmYmRi53ZS1VAR4zz1dffX3/9UxRkn3rq5aKLr7H4QZSbZb6/Mjcbk4YIJw8b8+STL82keRQF2bPNxEO0hNE1vP76h5uNSVecE+KGlkNv5p9/1e4qp/uVU4ybVYyb9eff/4zwtMTFyiTNxwbX/Pbbn3ff/zAwMEjxsnGzIfyDsOHb73+33/6AJgR4umBgePb5FyJ1MDFieBpJKVZBklMrAJavggCD/8iDAAAAAElFTkSuQmCC",
+      "language": "pl_PL",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=24911&awinaffid=141629&clickref=opera-continueon-pl&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "deichmann_pl",
+      "partner_domain": "deichmann.pl",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"deichmann.pl/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABmElEQVQ4jY2SPUhcQRSFv3lvdvY5PrMb/MGAIoYUSbbZJkWwSAr7VBZW/gQiNlZWYqmkElIEiwQStslCilgkYGllsIlgtzZLBC0ExRXXpxnfOhbzdldZFnOZ4tx75syZmXuF/jQTxYb/i6zSMooN1rbdIkQTW1sxkUyqF2eYC6JKk74ypBRBFzqD6kAIJ5YJfVm1C+utBoXS5uSvFWJDEOJLwGsIquafg9MbX5b//Nw6LAMTT0fs/A+CkMuqY+sONJ/xde09fcOLJsoO5U/efgTO3n3uWhp1Jh6t0fmQ7gH6Hlf2dgqlTSBUaT2YIza3rtQavkRnCru/XfZmKH+f4G4EKeVAe0EtJjqdzb122Vp5G6naCM5PON7noPT82auxJy9crbK34wT1X1I6VGkHv899C1NBvmfwUWfWVcTqFA96XR/qgiDMFRf/Vo+UJz+MjDcO3josvywuJI1zYlankhsDsSE2SY+6BzjeB9AZgrAxVBLAWmeHL0lrdIbrGrWYbD+e35w/axHC01LdGUlACHyZrNuUEFqqG6L+e0isrrL1AAAAAElFTkSuQmCC",
+      "language": "pl_PL",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "http://clkuk.tradedoubler.com/click?p=222118&a=1996724&epi=opera-continueon-pl&epi2=opera&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "douglas_it",
+      "partner_domain": "douglas.it",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"douglas.it/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACVklEQVQ4jZ2TTUhUURTHf++9Ox/N8GLU8TNmMhIjIUFmIUGai6CNEBFBErTJReBCCAoXbtoFVuBCEFq0aBEuKgwJogLHMVAogtJFNkL5MdSYzsPHfOTc+6aFzgMtXfTfXO7hnPP//8+5VwOYTC116B59yJEqZhiG4AAopaQujA9O0bnV1RBNaNPppY4S+tRBRftBw+kUJU0fogS6YSA8u8llUQLgKIVSSh4KBoQsShylAChp+pBQUsU8Xi+TLyaIj09gVoQAsDMWZy90U1ldzZunzwmFq8Ty10V6+vtobj213VSqmCh73tzI0Ds4wNHmJlfBs4eP2NzIcHv4nqvozvUb9A4OcORYI4DQ9/qSRYksSr4vJAFIzs2Tz+bkVuE3ADfv32VsZNS1u+/El5OLNJ5oBiC9mhL10QiOUgRNc1feXwrKqKytYWNtjeTcPId35gLbazywgfAIhEfQEmsjPj7BuUsXqagO4/X78Pp9PH4wLLqvXXU3JMpFAGMjo4TCVQBYv9bp6e/jyfAI7+NThOvq+Jh4x/krl2mJtVGeiZZIr5TK7FnbBsAfCEjDMITX70MWJbZlsZmxqI9G8Pp9brGrQDcMFj59ppDNufGTsTY5/fKViDQdZ/3HT1pPtzPz+i2VtTUETZP6aGQ7USkl9Z234A8GAChkc6RXU6KQz5O1bb59WaCqrpZCPu+S6IZBcWtLalNrKzNaiXallCzkcgLADIWwLcs9g6ZJ1rbde9kiGrPaZGqpwxD//5n0roZoQkPvRGN2747/BaWURGNWSafzTE008QcRKwOFreXKhQAAAABJRU5ErkJggg==",
+      "language": "it_IT",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=9449&awinaffid=141629&clickref=opera-continueon-it&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "edreams_es",
+      "partner_domain": "edreams.es",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"edreams.es/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABKUlEQVQ4jZ2Rvy8DYRjHv+/73DV3S0u1DKQbIblETELsFoN/oMJglnSRsNgsxGKxmCwStUgkNmOHhrkqFzZCLqk4Le8vgx+nOM15xuf9fPPm830YimUkGZ6IBmDFvkgOw9pZDWZiAoIWvPpg5imCuT72B05ve34LGAY33J3bRCsbLUlO+d7kznzMD6Qh0pButNFSacI/pH8Evol2CAiC3UQrvrr3Wg2DZnih5tqq4z7fN7L5jWXYD1BfkiSJKwAWDIMTTvcGJ1cFJ32Hx/5cJkDDKe0vjXSHn7zN9UGtgJSyIPjRbGVmYm/9sFStj3t9fvVyFK7YOhuGbvchA9IWGM5v8kPXYxdB18r2IgCQhiviHBiKZQiC5EgpkP67og9pW8FWHdG3SXy4V9s8XBLgU8A7AAAAAElFTkSuQmCC",
+      "language": "es_ES",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "http://clkuk.tradedoubler.com/click?p=15407&a=2063806&epi=opera-continueon-es&epi2=opera&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "elcorteingles_es",
+      "partner_domain": "elcorteingles.es",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"elcorteingles.es/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABFklEQVQ4jd3PPy9DURjH8e/z3HNvU4tJrBYdTCTsXoOhq8Tiz6vgHUi8AyN7pSQlKlGltRkIaWISITFcyT3OucfQoENzg7G/+fl9fnlgBLI3k7CJ/rcubM8uEJtdAkeI1DD5Oaudt78B5bhNJOACWPcE2kS0homOWW/1ioGduXnQS3yAABiBJAIBUpdhpA1SR+WQiaku1X1fDAxGBRLto1kOPtwCTWI9IfgWG917U/hgHiDz4BVKCkYrpK5CCNM4LFuLveHA4LLNIXcPZNLAmgPGfJOV6+ev0x/ACMTaL79/OJzv4KM6onUm7RXVGztsyyDElA2k9pUsnBFpjVLSYO3irvC9byBPHrFhifH4lOX2y29KI5ZPs8BnNtzqHJAAAAAASUVORK5CYII=",
+      "language": "es_ES",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=13075&awinaffid=141629&clickref=opera-continueon-es&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "electro_pl",
+      "partner_domain": "electro.pl",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"electro.pl/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAy0lEQVQ4jcXTMU4DMRSE4c/eIOAOuQhH4AZcAFFGClJqirS5ADT01ByBhhbR0VFGaRCJBNmNU6wXEAVrFCGmG+v59zw/O8hKZ8aSmX5tcBIu3UAs2PCjdgYMCmrW2tidNtKn7wPUuJDcSaov64+/SfAmWmo+aleGFqWAAaaSJt9WhQdzx7SQkgQH3/yhtdCZP59CwjNeEPKBT97VpYBaMFG5tcq1UePaaykg4khj315uNwpO3btqR9kHqCQjcgNdU9G5/Bb+/y/sDNgCSjYuuxcc+zAAAAAASUVORK5CYII=",
+      "language": "pl_PL",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://clk.tradedoubler.com/click?p=268189&a=2001310&epi=opera-continueon-pl&epi2=opera&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "empik_pl",
+      "partner_domain": "empik.com",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"empik.com/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACAklEQVQ4jXWSQWtTURCFv5mXxNTXUtNWcGGhJFIquhCrf0KKiFs36raIK91UcNWVbtyIaMF91brwDyiI0rQpCoo/IOiqNi20pclLZlzcl7ynxAOPC++eOffMmZHZ2fkpK+qSu95CZRxRQEAURPgP9sR5qUVdLlgkS+6+iHgRBzDMwbFUQEAEAVS1LzDuwqIlhtTmLu4gUglkRaOI6enTxHEc9EQQUQ4OD2k2f2HueSetAlgF7ysbpeIxHty/y+VLF+j1DIAoithofOXOvYcctdt5gUoBdxADV1wccOJ4hNE4/qvpOB4BAQ9NDaC4gTuQnu6BNQz9+xwKg2LSNtyG1poZuCH/eChA/0VLL5xhFvb3D+gmSerAByMu4BZmnv7rJglrb9+xvtFgcmKC69cWKJfLNJs/SZIOolHabtgTDX1ZUHWnm3RYfb3Go8dP+Pb9B6VSiU6SUN/cwnq9XA4hM82Cy0QE5/y5OW7fvIGq0tj6wnp9E1VhEHpao0HJciKGAFcXrnCmVmV7+zdPn63Q2t1NA/SMj6dTkH76YRKOsfrqDdXqDO8/fOTT5zqRSGZdNOULUpup7iBayfY+hOMOo2NjHLU7YSNVwwMi6aeAtKLJE5VT4PMgUTZeQUTodBK87xDJzoBEhBfR1PGTDSIrg58FKedJwVR+cQcie4I8164v/wGkhPIXbTy0NwAAAABJRU5ErkJggg==",
+      "language": "pl_PL",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://clk.tradedoubler.com/click?p=289664&a=2001310&epi=opera-continueon-pl&epi2=opera&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "entel_cl",
+      "partner_domain": "miportal.entel.cl",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"miportal.entel.cl/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABxklEQVQ4ja3SvUvVcRTH8dfv58PQA2KEYU9DUVTYpYRoiKKWhvaCyC0Xo9Ua6i+QpgKjpaWmGoSgsBapLQpC8QFvYWKJXjDNzMDUexp+6vWWgkMHvvDlPLzPOZ/vN5GLk0ILuoW8MCiM609+2oAlcvEaZ9aJ55EX+oVBqT4L+lbDE0fjscSVsrJ5/CqyKaVqHXQYEx6mGC0rLNB0gdZrqbodmC6uN3u91K0U4yvFVUx+5NEd2m5Q6MpApot6thxzruLDPyumQh5M8rKd2q20PeDERaZmMpDahd97k24dmxrXAKQmwCznT2VFN9sZmaCjM8tqvVxdfXvymZoKf08xVGnRNxXYnHlqtxLd5W2213D39yH30JCO6lo8vizkcKVY0mA2803NsG0n9pV0geaaYdBb3FUih3wCchEKvHnB6UYePuX+E1ouZXlXW4tGdjfYUzEg+R4lwKID2eXY3JzDEXVnIyZ/RJm97Y3YtT8fcUY0N74KuSgdLE8wiIPms9doaqK+jq53vO9cWmct60mSZUD5d97IT2RAT3KkckmMz5JVgCrUpMtCjUl8FL4IwxhCQW/yHCqXxLgu9XUlGAb1JZ/W7f0/7Q9drL+d3ZqC7wAAAABJRU5ErkJggg==",
+      "language": "es_CL",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://ad.soicos.com/-1mXr?trackerID=opera-continueon_cl&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "euro_rtv_agd_pl",
+      "partner_domain": "euro.com.pl",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"euro.com.pl/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAO0lEQVQ4jWP8z0AaYGFgYPhDtCYWRgYmEi1gYEEzACtAdgJlNmCahwmoYQOmT0b9gMskXIBkGxhJTd4AQYcQHCr7bIYAAAAASUVORK5CYII=",
+      "scrapping_method": "google_product",
+      "language": "pl_PL",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://clk.tradedoubler.com/click?p=118512&a=2001310&g=CoS&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "euronics_de",
+      "partner_domain": "euronics.de",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"euronics.de/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABxUlEQVQ4jWNktG9jIAUwkaSaYg1WKo8mRG1BFmFjZfYwU8rwMwx10BDh52RgYGAR5/vy6Qf791+srMx/J0RtFuL+XrrS8/dfZgYGBkVJgTllXsZqEm8/fRfm43z65kts6ybG9au1ZIQ+brmgqSbxmo/zJxvL38jpEe+/cbKxMm/vCteQE/atXH3u1gsJIe6ltf4CPBxMXdvthbi/C/F8+/yDPXV+kBD3t1T700qiH0xUOR0N5Qsm7z536wXEMYcvPTZUFWc5cVc2a5F/huPJ8OmRv/8yV61xT7A5qyf7/PK7xOdvvzAwMBybFsfPzSHAw/7hy8+mhUdYGBgY/v1n/PyDnYf91/tvnGcfSJ99IM3AwOBizC0pzPP526/6eYcZGBgevvz44MXHX7//MiubGs9KXPfgjWCUxUVR3q9sLH/5OH/deSX87gtjqo+BuDB3y6Kj9559ePvpu5w4f2uqPXNIsJiCyIe911QWHDG2Vn3kZ3j94iPJu6+Fv3z//eHLj8JQM3czJVkxPgdD+akF7hJCPIxcro3ff7FCQp2T7feMuA3rz2lvOKcFEXE1UYz30NWUF/n5+8+u0/cX7rjMOMjTEjEAALxvr3mxnDatAAAAAElFTkSuQmCC",
+      "language": "de_DE",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=14433&awinaffid=141629&clickref=opera-continueon-de&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "extra_com_br",
+      "partner_domain": "extra.com.br",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"extra.com.br/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB10lEQVQ4jW2Ty27TQBSGv5mk+FLX4VKCgqVKpUJsEBJsKJewAAmJHVtehIdgw4YF4gV4BlghWkHYZ4GQmkqoUdSGpDi4jt00ExbjmaRJzsKesc/3+z9zfATAD6hPKL2ByW0gUCiWhUQCJCCagvHr+7AjNCy/6hSNhsEVLvoV3BUHgGyU8zeNGSQ9LVFcBeqJaFD6DpNtA29Ub1hwPrJRzu+j1oyIaIgG8p+xvQwuVS8BMElzVJLOiOhyygZe9cIFWGxcZ+f5KwAeff4ISYq74rDqhZwMB0hkUDbJgbemF2mm78c9RH2bB71fiHfvmUSRfue7BN4aJ8MBAFbAKTvIwMf/8FZbr9U43f1GaWsTXjxlvLfPhccPie/VcarrM52Zi1Ktxnhvn3Gnc/751ubSg7UO8rMcN0mJn70E34V2G3nrJsJ3UK43JaKIvLBvBSTQ7XeoRKGGi0Tu3uFs/ap28Keru/GzRfe4Y62XTSUKRTwcUPFCq64+fUGYNYDvEotTFMq0cVqCRHLYb+NUnWk7jZsislHOYb9tYeM+md0cHLXIRvnCYWWjnAP7F9pIJIjmdC9RS0QMrOxnTIjm3DDZ6lHAtcsRQGF7Hi6GCRbHeVZkiln43Dj/By5KunYkG+pTAAAAAElFTkSuQmCC",
+      "language": "pt_BR",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=17874&awinaffid=141629&clickref=opera-continueon-br&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "falabella_cl",
+      "partner_domain": "falabella.com",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"falabella.com/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAxElEQVQ4jWP8//8/w7sHDBsKGJ5eZHj/gAErEFRgkNZnCJjAIKTA+P/tfYYeA4YfH7ErRQYc/AwlFxj/z/VnuLIRXc69gcE0nkFIgYGBgaGIESGu48/CcOcAFtXu9Qw/PjLcPYgu9fQiCxbHmMYzMDAwNMljkXr/gAmLWyEuweErbBogoO8/Q99/BmUHNGEWnBogHvj+gWgNU9HNJuQkHIAeGjj4sQi/w5momBhUsHnu0ETsGqT1sSU+QQXsyRaa+EhM3gA2q0jkr4MMBwAAAABJRU5ErkJggg==",
+      "language": "es_CL",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://ad.soicos.com/-1mWD?trackerID=opera-continueon-cl&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "falabella_co",
+      "partner_domain": "falabella.com.co",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"falabella.com.co/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAxElEQVQ4jWP8//8/w7sHDBsKGJ5eZHj/gAErEFRgkNZnCJjAIKTA+P/tfYYeA4YfH7ErRQYc/AwlFxj/z/VnuLIRXc69gcE0nkFIgYGBgaGIESGu48/CcOcAFtXu9Qw/PjLcPYgu9fQiCxbHmMYzMDAwNMljkXr/gAmLWyEuweErbBogoO8/Q99/BmUHNGEWnBogHvj+gWgNU9HNJuQkHIAeGjj4sQi/w5momBhUsHnu0ETsGqT1sSU+QQXsyRaa+EhM3gA2q0jkr4MMBwAAAABJRU5ErkJggg==",
+      "language": "es_CO",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://ad.soicos.com/-1mWE?trackerID=opera-continueon-cl&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "fnac_be_fr",
+      "partner_domain": "fr.fnac.be",
+      "product_url_pattern": "\/mp\\d*|\/a\\d*",
+      "product_history_pattern": "\"fr.fnac.be\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAABiVBMVEUAAADdozXepj3cnyzktlnpwm3/+tTamyLamhramyLanCHcoTPbnijcoDHcoDHbnifbninepTrcoTDdozTep0PgqkHepkDgq0zirkjcny3coDHbnSfbni3coTDdozndojffqD/irk7luGHovmffqUPsx3nanB/coDPbnSfdojfgq0bnwHrsyXncny3coDD////coDH9+vX26djbnzLbnSft0a7dojvcojj15tPcoTb////dozvcojfow4/epkDrxnbZmBP////ZmBDZmRflu4Tw3MjnwY/ZmAD9+vb79Ozy3snv1rjgr2vbnhnZlwr049Dv17vu1Lbu1LPrzq7ry6Tmv4/lu4bhsnHcokXZlw/+/fv68+j58OX369326djy4M3rzanoxJfjtXnbnSTZlwD//v38+PP159bx3MHqyKHnwpPjtn7fqV7bnjXanCLZmAX+/Pj79u/47eD26tv05dPz4s3x3cXw2b7s0LTpyajgrWfgrWLdpUzdpEramRToxZzmvYrep1bcoCt9rsg/AAAAQHRSTlMAkmyPKxIE+fnz4d3bvru3qYxzWkxDQCoH9efdsKF/cFlOMyMgFvbRwqBUHwz28uzp0srKvr2wm5mUkIN1cnEOvpflegAAAo1JREFUSMeN1fVXYkEUwPGHIN0h2N1ud8+dBxLLEiKCoIRgUtau7cZfvsN9HmRdYr6/UPfDm+Gc4QlSsqemd6OOSYE7I6knzswOf1yY+sIBtKQRFTX6IYttwtVpvldFHrZeHTTIPzumWwMnaRd9NDdvtSuUD8AYJR0T1TrzhzFnbwOMEI4oUWkNMgmYCW8DEtCRWiFYuqS0KzDhvFIdzKQA4HAv2Q1IS1Lc+MAXyQW2YeO2C+hBYF8F2GK7Wk2nE11AH4JP3wHcayy3O1mJn0djWzX2mTexfx7LJ7yE5Q3+OlguFYg4ieA9NNrz4cNmkpQ3ANu4IqG4H5/6ov0C9moTYIXFLgT+6EVkByBQS4MvXy7H0+CnbMU7kYscm3ougf6vAN/YhZcBTgrs8bcPDq+z2TxhxQDcKfAn6+uKhN/i/DS5B3HcWhig6A0exKJnu9sAZwAxIjWKwNEE3Pi+B+CGbSG14z8+YfsC2CcYHUfQ0wpEAX4kvcViDoBt4TREWFsHiwjkrcAK+1pKaPAIoBRm+Mr7ZzX1RInA0ApcH8H25u4x+Nl7FSawZwI2SOKegMjmEh7PJYKfnkCxkgtnMoG1RDYbZIuJnGZ2A/nXOO+qtjsAoVDTka2/sCCYWCe82RDYuOfXJxBYuEHVhWCIGwwKmJ4bGHB+ScMN5AimRG4gnc9xyg0cCKyEu2kEw9zzd+dzlhvMSWCGG8zj/KTIDawI+gh39rvzyZuoQCDjBmrpfJq4gU7ABriBWQIyo1Z1S3nAyP1N17kwYtapu/y+dEz4N6XCbn3z8jFpezVnm3t8X4/cqC/8/8eg6hU65FLYLEN6jdh0Oa3QvaWp8dHhFxppc0aBu0W2StOATMD+AtDRzH51TLH9AAAAAElFTkSuQmCC",
+      "language": "fr_FR",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://go.skimresources.com?id=180151X1673969&xs=1&xcust=CoS&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "fnac_be_nl",
+      "partner_domain": "nl.fnac.be",
+      "product_url_pattern": "\/mp\\d*|\/a\\d*",
+      "product_history_pattern": "\"nl.fnac.be\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAABiVBMVEUAAADdozXepj3cnyzktlnpwm3/+tTamyLamhramyLanCHcoTPbnijcoDHcoDHbnifbninepTrcoTDdozTep0PgqkHepkDgq0zirkjcny3coDHbnSfbni3coTDdozndojffqD/irk7luGHovmffqUPsx3nanB/coDPbnSfdojfgq0bnwHrsyXncny3coDD////coDH9+vX26djbnzLbnSft0a7dojvcojj15tPcoTb////dozvcojfow4/epkDrxnbZmBP////ZmBDZmRflu4Tw3MjnwY/ZmAD9+vb79Ozy3snv1rjgr2vbnhnZlwr049Dv17vu1Lbu1LPrzq7ry6Tmv4/lu4bhsnHcokXZlw/+/fv68+j58OX369326djy4M3rzanoxJfjtXnbnSTZlwD//v38+PP159bx3MHqyKHnwpPjtn7fqV7bnjXanCLZmAX+/Pj79u/47eD26tv05dPz4s3x3cXw2b7s0LTpyajgrWfgrWLdpUzdpEramRToxZzmvYrep1bcoCt9rsg/AAAAQHRSTlMAkmyPKxIE+fnz4d3bvru3qYxzWkxDQCoH9efdsKF/cFlOMyMgFvbRwqBUHwz28uzp0srKvr2wm5mUkIN1cnEOvpflegAAAo1JREFUSMeN1fVXYkEUwPGHIN0h2N1ud8+dBxLLEiKCoIRgUtau7cZfvsN9HmRdYr6/UPfDm+Gc4QlSsqemd6OOSYE7I6knzswOf1yY+sIBtKQRFTX6IYttwtVpvldFHrZeHTTIPzumWwMnaRd9NDdvtSuUD8AYJR0T1TrzhzFnbwOMEI4oUWkNMgmYCW8DEtCRWiFYuqS0KzDhvFIdzKQA4HAv2Q1IS1Lc+MAXyQW2YeO2C+hBYF8F2GK7Wk2nE11AH4JP3wHcayy3O1mJn0djWzX2mTexfx7LJ7yE5Q3+OlguFYg4ieA9NNrz4cNmkpQ3ANu4IqG4H5/6ov0C9moTYIXFLgT+6EVkByBQS4MvXy7H0+CnbMU7kYscm3ougf6vAN/YhZcBTgrs8bcPDq+z2TxhxQDcKfAn6+uKhN/i/DS5B3HcWhig6A0exKJnu9sAZwAxIjWKwNEE3Pi+B+CGbSG14z8+YfsC2CcYHUfQ0wpEAX4kvcViDoBt4TREWFsHiwjkrcAK+1pKaPAIoBRm+Mr7ZzX1RInA0ApcH8H25u4x+Nl7FSawZwI2SOKegMjmEh7PJYKfnkCxkgtnMoG1RDYbZIuJnGZ2A/nXOO+qtjsAoVDTka2/sCCYWCe82RDYuOfXJxBYuEHVhWCIGwwKmJ4bGHB+ScMN5AimRG4gnc9xyg0cCKyEu2kEw9zzd+dzlhvMSWCGG8zj/KTIDawI+gh39rvzyZuoQCDjBmrpfJq4gU7ABriBWQIyo1Z1S3nAyP1N17kwYtapu/y+dEz4N6XCbn3z8jFpezVnm3t8X4/cqC/8/8eg6hU65FLYLEN6jdh0Oa3QvaWp8dHhFxppc0aBu0W2StOATMD+AtDRzH51TLH9AAAAAElFTkSuQmCC",
+      "language": "nl_NL",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://go.skimresources.com?id=180151X1673969&xs=1&xcust=CoS&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "fnac_fr",
+      "partner_domain": "fnac.com",
+      "product_url_pattern": "\/mp\\d*\/|\/a\\d*\/",
+      "product_history_pattern": "\"fnac.com\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAABiVBMVEUAAADdozXepj3cnyzktlnpwm3/+tTamyLamhramyLanCHcoTPbnijcoDHcoDHbnifbninepTrcoTDdozTep0PgqkHepkDgq0zirkjcny3coDHbnSfbni3coTDdozndojffqD/irk7luGHovmffqUPsx3nanB/coDPbnSfdojfgq0bnwHrsyXncny3coDD////coDH9+vX26djbnzLbnSft0a7dojvcojj15tPcoTb////dozvcojfow4/epkDrxnbZmBP////ZmBDZmRflu4Tw3MjnwY/ZmAD9+vb79Ozy3snv1rjgr2vbnhnZlwr049Dv17vu1Lbu1LPrzq7ry6Tmv4/lu4bhsnHcokXZlw/+/fv68+j58OX369326djy4M3rzanoxJfjtXnbnSTZlwD//v38+PP159bx3MHqyKHnwpPjtn7fqV7bnjXanCLZmAX+/Pj79u/47eD26tv05dPz4s3x3cXw2b7s0LTpyajgrWfgrWLdpUzdpEramRToxZzmvYrep1bcoCt9rsg/AAAAQHRSTlMAkmyPKxIE+fnz4d3bvru3qYxzWkxDQCoH9efdsKF/cFlOMyMgFvbRwqBUHwz28uzp0srKvr2wm5mUkIN1cnEOvpflegAAAo1JREFUSMeN1fVXYkEUwPGHIN0h2N1ud8+dBxLLEiKCoIRgUtau7cZfvsN9HmRdYr6/UPfDm+Gc4QlSsqemd6OOSYE7I6knzswOf1yY+sIBtKQRFTX6IYttwtVpvldFHrZeHTTIPzumWwMnaRd9NDdvtSuUD8AYJR0T1TrzhzFnbwOMEI4oUWkNMgmYCW8DEtCRWiFYuqS0KzDhvFIdzKQA4HAv2Q1IS1Lc+MAXyQW2YeO2C+hBYF8F2GK7Wk2nE11AH4JP3wHcayy3O1mJn0djWzX2mTexfx7LJ7yE5Q3+OlguFYg4ieA9NNrz4cNmkpQ3ANu4IqG4H5/6ov0C9moTYIXFLgT+6EVkByBQS4MvXy7H0+CnbMU7kYscm3ougf6vAN/YhZcBTgrs8bcPDq+z2TxhxQDcKfAn6+uKhN/i/DS5B3HcWhig6A0exKJnu9sAZwAxIjWKwNEE3Pi+B+CGbSG14z8+YfsC2CcYHUfQ0wpEAX4kvcViDoBt4TREWFsHiwjkrcAK+1pKaPAIoBRm+Mr7ZzX1RInA0ApcH8H25u4x+Nl7FSawZwI2SOKegMjmEh7PJYKfnkCxkgtnMoG1RDYbZIuJnGZ2A/nXOO+qtjsAoVDTka2/sCCYWCe82RDYuOfXJxBYuEHVhWCIGwwKmJ4bGHB+ScMN5AimRG4gnc9xyg0cCKyEu2kEw9zzd+dzlhvMSWCGG8zj/KTIDawI+gh39rvzyZuoQCDjBmrpfJq4gU7ABriBWQIyo1Z1S3nAyP1N17kwYtapu/y+dEz4N6XCbn3z8jFpezVnm3t8X4/cqC/8/8eg6hU65FLYLEN6jdh0Oa3QvaWp8dHhFxppc0aBu0W2StOATMD+AtDRzH51TLH9AAAAAElFTkSuQmCC",
+      "language": "fr_FR",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=12665&awinaffid=141629&clickref=opera-continueon-fr&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "homedepot_mx",
+      "partner_domain": "homedepot.com.mx",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"homedepot.com.mx/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAACvElEQVQ4jU2SbUhTYRTHz3Pvfe69m87pB5VIlJFJ6lBmllOogS/ZECESFF/Ilb1NBWmUZIX6JSqSEgQriiLpxYQ+9KZILxpEi0AKzEjJLQpNsnS7u87t7j736cMKdjgfDoffOX8O/4Mkp5kSBWKDRIDF/2uV+jz6rhcAELxkR/Em5h9B1GhS2ctm7gBFBqKCIgPLJdyRI+4n6vQbNr2Myl4udjUNeITGaxBZ15a9dHkGWJEvPYR4Qd/eHx67xaRt5vy7mVhadNyEtT9C1UFcUsPm2A0DM2zWNqkZg6YK9v3ky3tkTGZiaepbEutOhIb7QAmS2QkUn4gtNp1rMjqjb+9XRgeQ5DRr/lm+4jRoithwKvzsBmCdUFpLfsyRha/cpnzWlBv58FqZGEa8EHEPMpQouLiV37mXs+ySXVYa8KlTo+rsFJe9XShvUCbukUUPtthACeLCCiZ1K5KcZrq+AiQU1zsZGrkgVLexGdnh8dvar3lsrcEWW8BVzKRkMSlpUX0GAIAVgDfKnXlCdZvsKqEBn1jTgS2V2pIn9KAPEGYztugOnA32twqVzVEfwgCISbdyucWGq58kh4kserC1KvLuEVmYx7Ymsb5r7XyzWNcpOZKQ5DRTedEwOB+9UihvIJ7pgDPP+HBVakmK635LAysAgIzJ69c76Op35G8x8fYOXFDOmnLVGTcNrGBrlfbz29rFelxUA7oEobRWOpICagQZTAAIkUUvk5omNWPDlVUUn6jOuIOXG6nPKx69y24whceHhMp94fEhMv0YWBEA2JPmJGwpFfackY8VcTk2LqtAW/Fx+VW4sAKUELsxU3l5n3wcARwftRj5mwCX9eocPaCpwcHj0a6+tS/8aoRJSlWeD5HPT4FPjP4DAHCgz1LGegFA5+gBgIh7EADWlLD+8Dm5205/z8XQiLc1/AUW7kDEMlT2nAAAAABJRU5ErkJggg==",
+      "language": "es_MX",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://ad.soicos.com/-1mXt?trackerID=opera-continueon-mx&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "huawei_mx",
+      "partner_domain": "huawei.com",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"huawei.com/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACr0lEQVQ4jZWSS2jUZxTFf/fONzPGMTEZJyZT0yomgg+sDywu200fWJDWLlQwrYsWKogxSBFcqYUum4UuRF2U0FULpUYaaLtou2nBRVyY2kISAyNOJs3EZiYzk8zk/33XhYlgqIue1eXecw6HyxH+AznX+mXy7U39tdfam7awhfmuzpqsWXOl+cTFvtVcXb14RNtpl4r3AzQXOFbp3HAylsmKrms7M3/t3KcvNMjT9guAIAeeXRvRvlAp7/HFKfPFKQuV8h6Awls7f33O4CFtn4G8kSf9FXCbksemq4Ry5WWfz2d97oH43AMJc8WfZ47uH+Rx7fWnmmWDOnbIYwH4SHa3FAHCWJVQbqQbo5Ot0WSOaDLH4q27s74w3xvGqsTg0DODJDK8EincKw8F7AtKnvDTlDFRcv6vAtHfhcvUlm6H32ah5PEwDOB+JPHNInIp6ULWR/TFkBYDPBZiQJioLXkI5qzZRdoMELkwUI90OE/6W52msXOGhdFyFHoEO2nYnCIXFPpAFkEWFfpcpP2GzQXChy7SHSkYrRO65TocbkVvdZGklQTrnAxoJAuKbIoI3wE49EjAHgVnTS7SfpYTGva+AFyHwxliZzeTTKZJNHkoGXp6G4//BBgjvSuFXa1j65+KKSVg4BXmhhzAXlJ37lON36MWskSxDC7hkdmVx/5LfVaIE1sWl2gkPHLnuUYNEe8dhNFBuLS6bSsYoeXzP1g7PkS890Wc/w3p6ch8PD5dvLm1I3NcIbUym8Z/j4WlNwHGp4s3t3a2n7cgI+pIYfYuIj+IDxk1kQ+6s+03RLTLVA4CqOh2MX/GVA6ijHRn228ockSUd0JEVYI0TeT/+T6I7lBD7k9MzXximIpJvqdj49em3FWjQ0zy3usGMXkVCacUKgCmttD90sb3FCpPAPMIMVazIY4iAAAAAElFTkSuQmCC",
+      "language": "es_MX",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://tc.tradetracker.net/?c=32489&m=12&a=441231&r=opera-continueon-mx&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "idealo_de",
+      "partner_domain": "idealo.de",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"idealo.de/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAPUlEQVQ4jWPkMk9kIAUwkaSaHA0saPyvJ+ZBGNwWSQPkJEZSQ2kQ+gHdSWjgq/58CIP7YiK9nERysNLeSQDzAwsK0dDZSgAAAABJRU5ErkJggg==",
+      "language": "de_DE",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=141629&clickref=opera-continueon-de&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "idealo_es",
+      "partner_domain": "idealo.es",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"idealo.es/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAPUlEQVQ4jWPkMk9kIAUwkaSaHA0saPyvJ+ZBGNwWSQPkJEZSQ2kQ+gHdSWjgq/58CIP7YiK9nERysNLeSQDzAwsK0dDZSgAAAABJRU5ErkJggg==",
+      "language": "es_ES",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=10415&awinaffid=141629&clickref=opera-continueon-es&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "idealo_fr",
+      "partner_domain": "idealo.fr",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"idealo.fr/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAPUlEQVQ4jWPkMk9kIAUwkaSaHA0saPyvJ+ZBGNwWSQPkJEZSQ2kQ+gHdSWjgq/58CIP7YiK9nERysNLeSQDzAwsK0dDZSgAAAABJRU5ErkJggg==",
+      "language": "fr_FR",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=7719&awinaffid=141629&clickref=opera-continueon-fr&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "idealo_it",
+      "partner_domain": "idealo.it",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"idealo.it/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAPUlEQVQ4jWPkMk9kIAUwkaSaHA0saPyvJ+ZBGNwWSQPkJEZSQ2kQ+gHdSWjgq/58CIP7YiK9nERysNLeSQDzAwsK0dDZSgAAAABJRU5ErkJggg==",
+      "language": "it_IT",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=9702&awinaffid=141629&clickref=opera-continueon-it&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "jdsports_es",
+      "partner_domain": "jdsports.es",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"jdsports.es/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACs0lEQVQ4jaWTzU8bBxDFf7V31/baXn+sP2oDduxaCZFKqiKDEDSHKKLKiRs55JCPQ070zyGHinsrxbk0kXpBqsTBKQUbqa1AUCgFk0C8trv2YrNm1y69gJWoveWdZqR5b97MaOAj8clVMD//3FO1apGZfHbCtnoLetPMt4yuD0Dxu9uhoKckuYRnxdL+elyK1guF++ZAYH7+uadt68nc9fjTdud8LpdRY6lsWLXsPpLoJJNSWV7ebhxUdE3xSy/3/qgt+cTQcaFw3xQAqlYt8sWNoadnZu/B57cSI5m0ileWGB8bpnNmkU4qZFMR9fftY/W778u+XC7Kr7snz4AjB8BMPjthtLtzTx5NjGTSKgCW3Wd143Awa0yVEUUnjx9OjrQ653Mz+ewEgAPAOu8tXBsJxaa+TA0Itt3HtvuEAjIAHbNHs2USCnhIDYVi3a69MBDQm2Z+dnZU7Zi9DzZ896vrKF4BAK9H4MZnMfYrf3Pv3k1V1808gADQMkxfPKKgeAW8ssRwIshwIjggAzgdUK2fAhCPKBiG6Rs4APDKEgBT49d4c9LEsj90cwVRdAJwcZkLV3fer9SVRDSF4hX4+naOYrnCzmVRNhUhEZW5M5Wh3uyy86eG4ne3Bw7CIbm0vLzdeL/T2GgSrd5Gq7dZ3Thg7bdjACJBN69ebTbCQbk0EBBFYfGgomvFcuV/bQO8PWnS/weK5QrH1ZbmcouLAE4AR2C6k04GAz//cpiOfqoEUskALsmBKIpol4sbG02ys6/x7dLro6Df9aK0efTD4c6PhhNg8tZj+12tsZtIKNLr1QO1tHHkcPtccrN1xolmYJx2WVnZa/y0snsY9Lte7O3VlsKSWt3aKvT+80zT49n8uWV/o+tm3jjt+i4uLlD87rYaltdlt7C4VvqrHHjvmT4a/wJLYRPRy3Z+JAAAAABJRU5ErkJggg==",
+      "language": "es_ES",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://ad.admitad.com/g/o2ce9jn5qha47a83735c3fa4ba3099/?subid=opera-continueon-es&ulp=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "kabum_br",
+      "partner_domain": "kabum.com.br",
+      "product_url_pattern": "\/produto\/",
+      "product_history_pattern": "\"kabum.com.br/produto\"",
+      "partner_icon": "data:image/png;base64,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",
+      "language": "pt_BR",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=141629&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "lenovo_mx",
+      "partner_domain": "lenovo.com",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"lenovo.com/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAnklEQVQ4jc2SsQ7CMAxEz2lEYWQAiYrwKwx8bv+KFmWvVEGlNMeAhJqENrDh7Ryfn61YGlPhl1BxggS5YNBRtW8tANltZb3JE3xrTdedyPJ84eP+1UgcBgB0bm6kZIdc/KFBz744J84BYFFAJEMQHf9PhrCv66m8iqjj4cWJDaO17PuAtioDGR6f+OaWAt/tUwKVqQCJklPxcYela30CD34xISVZXRkAAAAASUVORK5CYII=",
+      "language": "es_MX",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://tc.tradetracker.net/?c=30343&m=12&a=441231&r=opera-continueon-mx&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "leroymerlin_pl",
+      "partner_domain": "leroymerlin.pl",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"leroymerlin.pl/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAiElEQVQ4jWNMO2P8n4ESQIkBaWeM/zNRZDsDA8MgN0BrAsN/uyXceMMIpwFiNQz/37xhYHjz5isDPkOwGsCawfD//RsGBmYGBob3BAzBMIA1gwFDIT6XoBiArhmiEeISXIYw4dKMbtD7N9gNYYExfs9gYMRlAAy8gmIGhq/YvUAOGHgDGCnNzgCeMkMOz3cgQAAAAABJRU5ErkJggg==",
+      "language": "pl_PL",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://clk.tradedoubler.com/click?p=242625&a=2001310&epi=opera-continueon-pl&epi2=opera&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "leroymerlin_es",
+      "partner_domain": "leroymerlin.es",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"leroymerlin.es/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAiElEQVQ4jWNMO2P8n4ESQIkBaWeM/zNRZDsDA8MgN0BrAsN/uyXceMMIpwFiNQz/37xhYHjz5isDPkOwGsCawfD//RsGBmYGBob3BAzBMIA1gwFDIT6XoBiArhmiEeISXIYw4dKMbtD7N9gNYYExfs9gYMRlAAy8gmIGhq/YvUAOGHgDGCnNzgCeMkMOz3cgQAAAAABJRU5ErkJggg==",
+      "language": "es_ES",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=20598&awinaffid=141629&clickref=opera-continueon-es&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "macys_us",
+      "partner_domain": "macys.com",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"macys.com/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABcElEQVQ4jWNgoCV439Zn///1a158aljwSX7fvjf1/+v3WxgYGFbgUsOES+L1xo28/z989v5163YEPktwGsC467DT33fvBf4+feH0fv9+AZIN+HP7UQTD//8Mf1+/5f05aZ4RTosYGBgY3pU3Rfy6dHX5/+8/EAY8fc7w/+s3BgYGBgZmcVEGJn4+hK2CAs+5Qv0jeaOCDjLCBN/klfv/2Hds+r937yVx2cbAwMDApqd1nCPQK1YgPeEu3AUw8HXtWslPkxbM+n33oQ/Dv3+ofuXj/ctubNAkunR6E4YXkMH/Y8c4n6aVP/737r0wis1qykslDmyMQVePEYivJy8w/vfhI0QzE0L678dPHv9XHeMkaMDfpy8iGP79Y2AWF/3F4WKfzGaoM5uRlZXh7+u3wm/3bbJEV48Bnhk4PHtu5Xns05SFajCxd4VVEU+NHD8994laiFfz52Xr7F/6xjb+P4bp1A9dM5XfZJdtJugCugMAhSKSMuvYrIsAAAAASUVORK5CYII=",
+      "language": "en_US",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://ad.admitad.com/g/gls2wshic0a47a83735c6665972f9d/?subid=opera-continueon-us&ulp=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "manomano_es",
+      "partner_domain": "manomano.es",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"manomano.es/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACgUlEQVQ4jWWTzWuVRxTGf+fM+841UW5i/Lw2olWRoGDrLukuIAERRNqFlILWZlE/QET/AV2KC0GlIaBUFAleSldduBCyVTAGLUgMLpI2aUlixI+g1zvvzLh4894bzYGBmTPPec48Z84RclMg0DQlRvh/pJNEdmHowssGUhlk9d6JpXhZPMDwcCvleJJS+g2JdlHSLqy2kpoclds4tt5D23evC0eyyKSauAsxM2dRDxKJbpFeBFIt8Dv5WBoiDh9AejMa2avVJGbhCC5QLMmae7Il6iT28bJ8qakVYFXLQXFhLVnA+siVynZGt35LhQRc4OuY8n3azg6zAhUB4hlejvxcEKjUYz8uIC5wqLyWU+u+Ys+KlZxuqyBZ4FrbFv4ob2O8fRf9pTV56sgg8yPdCdVqJy70FXqPbdjUeO3xjgqPPrxjf0s7jkiKQCxuoyUypFqTI+K84gKbE8u+jjXMOcfduRna1HCns4taDNx8M5vHhdgkiZIpdX+sKNbRTZ0ocPu/aa7+OwmAFeHy3DT/fKzlQT42ixr5XcmiShbQLHB0y2YAbkxM8mD+FX8vLDDj6lycnsgzA+IbPxMw7lYSPD8pYbi9ZO21sRe8CZ7nr99Cajj8dBRjDe8yBz4y5x2TtVpOAPeodE8JgBkY+iWq3MAqpAasgjV5A1lDtMr61hbmNeBTyX2p+YHtPX8qgD/x401CvCJF0yxtoMX97Ica3mXgAtH5WWrlvxp9ABBmNp4LPtwX55eRiPuCtB5usXt3BmgxJvl0Xa92qPMPJdUdsSHHEK2+F2vGKJmxkJon1M1v9PYuFNP4uQ0MbVXir9h0Rq0Zy0rJM549nuL8+bAMC3wCeVIph6Ed+g8AAAAASUVORK5CYII=",
+      "language": "es_ES",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=18448&awinaffid=141629&clickref=opera-continueon-es&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "manomano_fr",
+      "partner_domain": "manomano.fr",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"manomano.fr/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACgUlEQVQ4jWWTzWuVRxTGf+fM+841UW5i/Lw2olWRoGDrLukuIAERRNqFlILWZlE/QET/AV2KC0GlIaBUFAleSldduBCyVTAGLUgMLpI2aUlixI+g1zvvzLh4894bzYGBmTPPec48Z84RclMg0DQlRvh/pJNEdmHowssGUhlk9d6JpXhZPMDwcCvleJJS+g2JdlHSLqy2kpoclds4tt5D23evC0eyyKSauAsxM2dRDxKJbpFeBFIt8Dv5WBoiDh9AejMa2avVJGbhCC5QLMmae7Il6iT28bJ8qakVYFXLQXFhLVnA+siVynZGt35LhQRc4OuY8n3azg6zAhUB4hlejvxcEKjUYz8uIC5wqLyWU+u+Ys+KlZxuqyBZ4FrbFv4ob2O8fRf9pTV56sgg8yPdCdVqJy70FXqPbdjUeO3xjgqPPrxjf0s7jkiKQCxuoyUypFqTI+K84gKbE8u+jjXMOcfduRna1HCns4taDNx8M5vHhdgkiZIpdX+sKNbRTZ0ocPu/aa7+OwmAFeHy3DT/fKzlQT42ixr5XcmiShbQLHB0y2YAbkxM8mD+FX8vLDDj6lycnsgzA+IbPxMw7lYSPD8pYbi9ZO21sRe8CZ7nr99Cajj8dBRjDe8yBz4y5x2TtVpOAPeodE8JgBkY+iWq3MAqpAasgjV5A1lDtMr61hbmNeBTyX2p+YHtPX8qgD/x401CvCJF0yxtoMX97Ica3mXgAtH5WWrlvxp9ABBmNp4LPtwX55eRiPuCtB5usXt3BmgxJvl0Xa92qPMPJdUdsSHHEK2+F2vGKJmxkJon1M1v9PYuFNP4uQ0MbVXir9h0Rq0Zy0rJM549nuL8+bAMC3wCeVIph6Ed+g8AAAAASUVORK5CYII=",
+      "language": "fr_FR",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=18448&awinaffid=141629&clickref=opera-continueon-fr&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "manomano_it",
+      "partner_domain": "manomano.it",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"manomano.it/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACgUlEQVQ4jWWTzWuVRxTGf+fM+841UW5i/Lw2olWRoGDrLukuIAERRNqFlILWZlE/QET/AV2KC0GlIaBUFAleSldduBCyVTAGLUgMLpI2aUlixI+g1zvvzLh4894bzYGBmTPPec48Z84RclMg0DQlRvh/pJNEdmHowssGUhlk9d6JpXhZPMDwcCvleJJS+g2JdlHSLqy2kpoclds4tt5D23evC0eyyKSauAsxM2dRDxKJbpFeBFIt8Dv5WBoiDh9AejMa2avVJGbhCC5QLMmae7Il6iT28bJ8qakVYFXLQXFhLVnA+siVynZGt35LhQRc4OuY8n3azg6zAhUB4hlejvxcEKjUYz8uIC5wqLyWU+u+Ys+KlZxuqyBZ4FrbFv4ob2O8fRf9pTV56sgg8yPdCdVqJy70FXqPbdjUeO3xjgqPPrxjf0s7jkiKQCxuoyUypFqTI+K84gKbE8u+jjXMOcfduRna1HCns4taDNx8M5vHhdgkiZIpdX+sKNbRTZ0ocPu/aa7+OwmAFeHy3DT/fKzlQT42ixr5XcmiShbQLHB0y2YAbkxM8mD+FX8vLDDj6lycnsgzA+IbPxMw7lYSPD8pYbi9ZO21sRe8CZ7nr99Cajj8dBRjDe8yBz4y5x2TtVpOAPeodE8JgBkY+iWq3MAqpAasgjV5A1lDtMr61hbmNeBTyX2p+YHtPX8qgD/x401CvCJF0yxtoMX97Ica3mXgAtH5WWrlvxp9ABBmNp4LPtwX55eRiPuCtB5usXt3BmgxJvl0Xa92qPMPJdUdsSHHEK2+F2vGKJmxkJon1M1v9PYuFNP4uQ0MbVXir9h0Rq0Zy0rJM549nuL8+bAMC3wCeVIph6Ed+g8AAAAASUVORK5CYII=",
+      "language": "it_IT",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=18448&awinaffid=141629&clickref=opera-continueon-it&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "mediaexpert_pl",
+      "partner_domain": "mediaexpert.pl",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"mediaexpert.pl/\"",
+      "partner_icon": "data:image/png;base64,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",
+      "language": "pl_PL",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://clk.tradedoubler.com/click?p=237638&a=2001310&g=opera-continueon&epi=opera-continueon-pl&epi2=opera&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "mediamarkt_at",
+      "partner_domain": "mediamarkt.at",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"mediamarkt.at/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB6ElEQVQ4jXXTT4jNaxgH8M/7cxZmyr12FMrhXjUo3TDFiijlNnZ3oSQlyoY7NRvCEhuNsrCzYKnZGCElZmGmO65ESWlm3lP+xGQxtzir4zx3Me/ROPiunt6e77fn+T7fly406JthADKPMpE53t33Q0yzNROFPJWZKvWOzEhmLnN7ISd1itesaHE2MRlsRH+TPb28wXhiJJgOlgTv1/L4q0Dmdo0jLcbq/JaJGitbvEhsC/7CHizDK9xtcnUDnzoCHcJYMJj4oxAuB0MVV9rMVvMrbQ8u4tfE+lrZ4L8Wv+NDol7eJhN/4lrQn3gbHMLyJit72Im/F2V24F1iN94mGonNaJr3YiNmsQY9NQ4uYjpxr86FGh7USZlIrA+OFmcHsLZM8x4fg1st3nT6Z/hcBU8yI236gwn8E3zsOlUTzcSxYF9mqsmSxM0EM/xb8RLnglHcL9xdeNYRifnTPceDzrRVg8Nr2IKHhXyteNGbOI+ejkiQsR+XcKrOYIXxTBSnBxI3gqfB4+BkEZwLBsoZV5U1D0C1en70nYneYDSYSAxjaZv9wRCeR8kAXgefcee7KH/hlzLqpmAoMVtn78Kg4XSb6W+i3EH5KOsw2uTMYvoqJnGizUTFZL2L81M0uL7wK2eGG/R19/0PYjvAD5FD5IIAAAAASUVORK5CYII=",
+      "language": "de_AT",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=13996&awinaffid=141629&clickref=opera-continueon-at&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "mediamarkt_ch",
+      "partner_domain": "mediamarkt.ch",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"mediamarkt.ch/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB6ElEQVQ4jXXTT4jNaxgH8M/7cxZmyr12FMrhXjUo3TDFiijlNnZ3oSQlyoY7NRvCEhuNsrCzYKnZGCElZmGmO65ESWlm3lP+xGQxtzir4zx3Me/ROPiunt6e77fn+T7fly406JthADKPMpE53t33Q0yzNROFPJWZKvWOzEhmLnN7ISd1itesaHE2MRlsRH+TPb28wXhiJJgOlgTv1/L4q0Dmdo0jLcbq/JaJGitbvEhsC/7CHizDK9xtcnUDnzoCHcJYMJj4oxAuB0MVV9rMVvMrbQ8u4tfE+lrZ4L8Wv+NDol7eJhN/4lrQn3gbHMLyJit72Im/F2V24F1iN94mGonNaJr3YiNmsQY9NQ4uYjpxr86FGh7USZlIrA+OFmcHsLZM8x4fg1st3nT6Z/hcBU8yI236gwn8E3zsOlUTzcSxYF9mqsmSxM0EM/xb8RLnglHcL9xdeNYRifnTPceDzrRVg8Nr2IKHhXyteNGbOI+ejkiQsR+XcKrOYIXxTBSnBxI3gqfB4+BkEZwLBsoZV5U1D0C1en70nYneYDSYSAxjaZv9wRCeR8kAXgefcee7KH/hlzLqpmAoMVtn78Kg4XSb6W+i3EH5KOsw2uTMYvoqJnGizUTFZL2L81M0uL7wK2eGG/R19/0PYjvAD5FD5IIAAAAASUVORK5CYII=",
+      "language": "de_CH",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=14040&awinaffid=141629&clickref=opera-continueon-ch&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "mediamarkt_de",
+      "partner_domain": "mediamarkt.de",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"mediamarkt.de/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB6ElEQVQ4jXXTT4jNaxgH8M/7cxZmyr12FMrhXjUo3TDFiijlNnZ3oSQlyoY7NRvCEhuNsrCzYKnZGCElZmGmO65ESWlm3lP+xGQxtzir4zx3Me/ROPiunt6e77fn+T7fly406JthADKPMpE53t33Q0yzNROFPJWZKvWOzEhmLnN7ISd1itesaHE2MRlsRH+TPb28wXhiJJgOlgTv1/L4q0Dmdo0jLcbq/JaJGitbvEhsC/7CHizDK9xtcnUDnzoCHcJYMJj4oxAuB0MVV9rMVvMrbQ8u4tfE+lrZ4L8Wv+NDol7eJhN/4lrQn3gbHMLyJit72Im/F2V24F1iN94mGonNaJr3YiNmsQY9NQ4uYjpxr86FGh7USZlIrA+OFmcHsLZM8x4fg1st3nT6Z/hcBU8yI236gwn8E3zsOlUTzcSxYF9mqsmSxM0EM/xb8RLnglHcL9xdeNYRifnTPceDzrRVg8Nr2IKHhXyteNGbOI+ejkiQsR+XcKrOYIXxTBSnBxI3gqfB4+BkEZwLBsoZV5U1D0C1en70nYneYDSYSAxjaZv9wRCeR8kAXgefcee7KH/hlzLqpmAoMVtn78Kg4XSb6W+i3EH5KOsw2uTMYvoqJnGizUTFZL2L81M0uL7wK2eGG/R19/0PYjvAD5FD5IIAAAAASUVORK5CYII=",
+      "language": "de_DE",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://pvn.mediamarkt.de/trck/eclick/e4c9bc7ffbdbd0b6383a7687ed64686c?url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "mediamarkt_pl",
+      "partner_domain": "mediamarkt.pl",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"mediamarkt.pl/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB6ElEQVQ4jXXTT4jNaxgH8M/7cxZmyr12FMrhXjUo3TDFiijlNnZ3oSQlyoY7NRvCEhuNsrCzYKnZGCElZmGmO65ESWlm3lP+xGQxtzir4zx3Me/ROPiunt6e77fn+T7fly406JthADKPMpE53t33Q0yzNROFPJWZKvWOzEhmLnN7ISd1itesaHE2MRlsRH+TPb28wXhiJJgOlgTv1/L4q0Dmdo0jLcbq/JaJGitbvEhsC/7CHizDK9xtcnUDnzoCHcJYMJj4oxAuB0MVV9rMVvMrbQ8u4tfE+lrZ4L8Wv+NDol7eJhN/4lrQn3gbHMLyJit72Im/F2V24F1iN94mGonNaJr3YiNmsQY9NQ4uYjpxr86FGh7USZlIrA+OFmcHsLZM8x4fg1st3nT6Z/hcBU8yI236gwn8E3zsOlUTzcSxYF9mqsmSxM0EM/xb8RLnglHcL9xdeNYRifnTPceDzrRVg8Nr2IKHhXyteNGbOI+ejkiQsR+XcKrOYIXxTBSnBxI3gqfB4+BkEZwLBsoZV5U1D0C1en70nYneYDSYSAxjaZv9wRCeR8kAXgefcee7KH/hlzLqpmAoMVtn78Kg4XSb6W+i3EH5KOsw2uTMYvoqJnGizUTFZL2L81M0uL7wK2eGG/R19/0PYjvAD5FD5IIAAAAASUVORK5CYII=",
+      "language": "pl_PL",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://clk.tradedoubler.com/click?p=229227&a=2001310&epi=opera-continueon-pl&epi2=opera&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "mediamarkt_tr",
+      "partner_domain": "mediamarkt.com.tr",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"mediamarkt.com.tr/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB6ElEQVQ4jXXTT4jNaxgH8M/7cxZmyr12FMrhXjUo3TDFiijlNnZ3oSQlyoY7NRvCEhuNsrCzYKnZGCElZmGmO65ESWlm3lP+xGQxtzir4zx3Me/ROPiunt6e77fn+T7fly406JthADKPMpE53t33Q0yzNROFPJWZKvWOzEhmLnN7ISd1itesaHE2MRlsRH+TPb28wXhiJJgOlgTv1/L4q0Dmdo0jLcbq/JaJGitbvEhsC/7CHizDK9xtcnUDnzoCHcJYMJj4oxAuB0MVV9rMVvMrbQ8u4tfE+lrZ4L8Wv+NDol7eJhN/4lrQn3gbHMLyJit72Im/F2V24F1iN94mGonNaJr3YiNmsQY9NQ4uYjpxr86FGh7USZlIrA+OFmcHsLZM8x4fg1st3nT6Z/hcBU8yI236gwn8E3zsOlUTzcSxYF9mqsmSxM0EM/xb8RLnglHcL9xdeNYRifnTPceDzrRVg8Nr2IKHhXyteNGbOI+ejkiQsR+XcKrOYIXxTBSnBxI3gqfB4+BkEZwLBsoZV5U1D0C1en70nYneYDSYSAxjaZv9wRCeR8kAXgefcee7KH/hlzLqpmAoMVtn78Kg4XSb6W+i3EH5KOsw2uTMYvoqJnGizUTFZL2L81M0uL7wK2eGG/R19/0PYjvAD5FD5IIAAAAASUVORK5CYII=",
+      "language": "tr_TR",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://track.nextoptimize.com/aff_c?offer_id=66&aff_id=1013&aff_sub=opera-continueon-tr&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "mediaworld_it",
+      "partner_domain": "mediaworld.it",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"mediaworld.it/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB6ElEQVQ4jXXTT4jNaxgH8M/7cxZmyr12FMrhXjUo3TDFiijlNnZ3oSQlyoY7NRvCEhuNsrCzYKnZGCElZmGmO65ESWlm3lP+xGQxtzir4zx3Me/ROPiunt6e77fn+T7fly406JthADKPMpE53t33Q0yzNROFPJWZKvWOzEhmLnN7ISd1itesaHE2MRlsRH+TPb28wXhiJJgOlgTv1/L4q0Dmdo0jLcbq/JaJGitbvEhsC/7CHizDK9xtcnUDnzoCHcJYMJj4oxAuB0MVV9rMVvMrbQ8u4tfE+lrZ4L8Wv+NDol7eJhN/4lrQn3gbHMLyJit72Im/F2V24F1iN94mGonNaJr3YiNmsQY9NQ4uYjpxr86FGh7USZlIrA+OFmcHsLZM8x4fg1st3nT6Z/hcBU8yI236gwn8E3zsOlUTzcSxYF9mqsmSxM0EM/xb8RLnglHcL9xdeNYRifnTPceDzrRVg8Nr2IKHhXyteNGbOI+ejkiQsR+XcKrOYIXxTBSnBxI3gqfB4+BkEZwLBsoZV5U1D0C1en70nYneYDSYSAxjaZv9wRCeR8kAXgefcee7KH/hlzLqpmAoMVtn78Kg4XSb6W+i3EH5KOsw2uTMYvoqJnGizUTFZL2L81M0uL7wK2eGG/R19/0PYjvAD5FD5IIAAAAASUVORK5CYII=",
+      "language": "it_IT",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=18529&awinaffid=141629&clickref=opera-continueon-it&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "monclick_it",
+      "partner_domain": "monclick.it",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"monclick.it/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABI0lEQVQ4je2RMUoDURRFz52ZIGQyhcFGISCIC3AJLkKNnVU2YJNObF1CQDAERKxSW2QBNkGwk1QB7SI4mQwhzH8WycCYpFDSeuAX7/Lefff/Dxuir/NoJy+iIE7VIUnq5T1htSzz48r2+E0tZtagNP6sHPp+FgHv5Yd0CKCkHt5hHM3t6OOsi3QNHABTEzfCOma6FFwAW8AAs6vwcdLV5CzsGRwvQiTAFKgWUo4EL4WenKHkToIlMVycItU1wwA1Z96pt/oqtE00F2lyEhNNRPtnq+0vGyQ463q4e2BU0AdO3i3Ousv7VhLIs481cYmCOF2nr17hj/wbQOCgL5jNSxtnmR9boNTH9TB2AQxeYf5DZnrKh016ljUoFR3Vmpv9Vt+Yb2piay3PEHh/AAAAAElFTkSuQmCC",
+      "language": "it_IT",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=9465&awinaffid=141629&clickref=opera-continueon-it&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "neonet_pl",
+      "partner_domain": "neonet.pl",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"neonet.pl/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABF0lEQVQ4jZWSsUoDURBFz2wskoVNdgWNrJD9B7GwtbIQRD8gPyFYiY2FhY1lmlR2NoKdhT9gIfgLikQlkN19IQYjm7GI2QR9mGSq++bOZebyrjwTskg5C00DSzlSWgqA4AkeANmQd0BAxoc4+XSl0ax10sj0igf7Shsyh2JkerVOWmk0ldbvk8T3JCjjuavXl8KyMgDwXAnK4ns2D0PNYfjyqMRWym66sL62cnOb8fSXsgkGX4C7t1M+Op1L0N6tj4B/fjKXoH93lZxdWE+1CwpE6fHh5/3DLIEjU93q29amxsZGjUuTrsaG7sfoKQSvG9saG42NJt18TPLw5dFwqEIBUPqj35iOxiRLQjhZ/NMpCaXZpv+vbzeBVdyDItJoAAAAAElFTkSuQmCC",
+      "language": "pl_PL",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://clk.tradedoubler.com/click?p=249106&a=2001310&epi=opera-continueon-pl&epi2=opera&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "newbalance_us",
+      "partner_domain": "newbalance.com",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"newbalance.com/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABy0lEQVQ4jZWSwWsTQRTGv9lOyNZESuNGoVgNRaoXyUklLkUQKSJevOqhotj/QPCkf4SoICqIJw+CeBMM9W5SDaTR0LRaW4zJJGkyyWR3M8OMh7SQslTod3sf3+O9x/sRYwz2aliTfRwLBxQNW+S/zkiDUtCA3t3QItAGUu03QUMj//zV2pfcgHfPuZnTtxcKT5+V3r477EsA0rIAXJ2fJztHK4XKL5QraLTQ7gBAOl188TK2us5/bqQvZgqlEmOM2DbdSXuynl/2ij8s1tSdrhTCyRXkSrlerc5MTeHuHf3wUU3wK9evEWMMfNn6mGX5r5Qx2mhLIcZqdb7d9jnvBsFwY3Eo6t666SwuUAwUpEo4RxOzZ3AkiVYTWzVYlAVynfPUnOtMTBbffyCaiGjEcZIUgcy/fvM9uzTGmgDOHp9eW/oc6we20pHY+Kl7i/iW86klLPO33z8JEPP7D4RAk6NRR+oEen7x8RO5Uh5Uq90gILbds0wPiM+k5h7cT1y+RJeznzZWK8Tzzbh9w83A64tjSWdywtvuxAAAs/H4dOYC3PNbm5uJaIQYKYdvAHZBUaF/RSgAUAKAaGNCOIx2A3vhI2Faw6FRHZjWf9Fc3ngl2zgrAAAAAElFTkSuQmCC",
+      "language": "en_US",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://ad.admitad.com/g/2kkrgzcbiba47a83735cd22535e02e/?subid=opera-continueon-us&ulp=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "nike_br",
+      "partner_domain": "nike.com.br",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"nike.com.br/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAeklEQVQ4jWNgGAU4AQsLC4TBDBeysrJ6/vz5v3//kNWpqKjExMQICgo+ffr09+/fKGacPXsWzg4ODl6+fPnxY8emTZsmJiaGxcb09PT///6dPHny7Nmz///9e/jwYUlJCT4nOjk5/f/37/+/f8ePHfPw8CDVh6MADQAAmyYxPyd0edoAAAAASUVORK5CYII=",
+      "language": "pt_BR",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=17652&awinaffid=141629&clickref=opera-continueon-br&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "nike_fr",
+      "partner_domain": "nike.com.fr",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"nike.com.fr/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAeklEQVQ4jWNgGAU4AQsLC4TBDBeysrJ6/vz5v3//kNWpqKjExMQICgo+ffr09+/fKGacPXsWzg4ODl6+fPnxY8emTZsmJiaGxcb09PT///6dPHny7Nmz///9e/jwYUlJCT4nOjk5/f/37/+/f8ePHfPw8CDVh6MADQAAmyYxPyd0edoAAAAASUVORK5CYII=",
+      "language": "fr_FR",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=16328&awinaffid=141629&clickref=opera-continueon-fr&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "nike_it",
+      "partner_domain": "nike.com.it",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"nike.com.it/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAeklEQVQ4jWNgGAU4AQsLC4TBDBeysrJ6/vz5v3//kNWpqKjExMQICgo+ffr09+/fKGacPXsWzg4ODl6+fPnxY8emTZsmJiaGxcb09PT///6dPHny7Nmz///9e/jwYUlJCT4nOjk5/f/37/+/f8ePHfPw8CDVh6MADQAAmyYxPyd0edoAAAAASUVORK5CYII=",
+      "language": "it_IT",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=16337&awinaffid=141629&clickref=opera-continueon-it&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "nike_uk",
+      "partner_domain": "nike.com/gb/",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"nike.com/gb/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAeklEQVQ4jWNgGAU4AQsLC4TBDBeysrJ6/vz5v3//kNWpqKjExMQICgo+ffr09+/fKGacPXsWzg4ODl6+fPnxY8emTZsmJiaGxcb09PT///6dPHny7Nmz///9e/jwYUlJCT4nOjk5/f/37/+/f8ePHfPw8CDVh6MADQAAmyYxPyd0edoAAAAASUVORK5CYII=",
+      "language": "en_GB",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=16327&awinaffid=141629&clickref=opera-continueon-gb&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "nike_us",
+      "partner_domain": "nike.com",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"nike.com/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAeklEQVQ4jWNgGAU4AQsLC4TBDBeysrJ6/vz5v3//kNWpqKjExMQICgo+ffr09+/fKGacPXsWzg4ODl6+fPnxY8emTZsmJiaGxcb09PT///6dPHny7Nmz///9e/jwYUlJCT4nOjk5/f/37/+/f8ePHfPw8CDVh6MADQAAmyYxPyd0edoAAAAASUVORK5CYII=",
+      "language": "en_US",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.anrdoezrs.net/click-8384705-13067763?sid=opera-continueon-us&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "overclockers_uk",
+      "partner_domain": "overclockers.co.uk",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"overclockers.co.uk/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABL0lEQVQ4jbWSP0uCURTGf+cm4pJlvhCI4P0AZWANUUsfIKesoVmao6Ex7tZQ30CotTkoEIIIoiGuQS1BBEWDU1SYUEjd2yQpvGhmPdM5nPM8568Aij7QF/lPBCJtnjEMn6eyDCgNZJWXOuLOPhpyUysXX8IEpGkMzZcKIswKEnikovATHqKILAEN7/ymU+zV9ou37QJzJpKIpwt4V3+erB5ijGvpSCVtesrBAkrWgfeZp+v8wen2Ed+Vd3J6bjfWcVBjVCJfWtkYWzyxgX6rjOjVtmBLqqLDYm2QWbOB9jbQlzbI5Jo7+PElPHCR1CUvLAP3r496vKczCoCXMhADnx5MPEz31AGATaViNKLHQBy4km6EUJGkvkPQQDXSNTsUfgtkFMfn7/j/iY5/EBb/AngIVJOZUDErAAAAAElFTkSuQmCC",
+      "language": "en_GB",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=28821&awinaffid=1042425&clickref=opera-continueon-gb&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "paris_cl",
+      "partner_domain": "paris.cl",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"paris.cl/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB4UlEQVQ4jZWTP2hTURTGf+flmadDsZIKlUDSWfAPEaES0KkoHRy6RPxDkYJDnYqLKBQc/bPVIqZTFumidLPVDjrUQicnqyCYRIRAjEUkaRKT9zm8pyY1pfWDy8c9937n3Pude6EHJMUkpSWNhRwL49lGW/VGW3VJk72EhyUtlmvSy3Vp4W3A5ZrkS/ncqsSUr8QdX/lvkqQx6xBPft1k9t5zuL8cBtshe1C+CwdvC+oGP1tcOxPh8WV74obiS4UNZk/PiOIXAy8UuiG3Akr0Q/FzMIn3C7BqRFKs6fM69UBusWQQ7WGKH4xHGaPWNM4fN26OOo2IcdUFrs+v4XVV3go3uNb3mhg9YgwNGFGHp2b2ziS9OTfDqaX1jiNvh1bgSyIu8tNWcMyG3KZPaumTwLUd1GEBF4olo7JJUlKfAwTO/ieqdQCizh6HUmJQf5zeFfaKQ/tpmFnFMXgxkdLfnu+EFowfNaIOrwAcIDeedoIO7OYUbZgaASAL4JjZSvIAcwsTweK2SVpAAx5egGNxVs3sGUDnU15cfs/ZkaygahDprooHuYtwZZiCwQkzq3QlCJNMN31uza/hrXwUhQ1jsA9OJiEzDAP7mANumNmP35p/+hd+3QyQ7gh/AHJmVti6/xelHN2wJmTZ+gAAAABJRU5ErkJggg==",
+      "language": "es_CL",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://ad.soicos.com/-1mWB?trackerID=opera-continueon-cl&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "puma_br",
+      "partner_domain": "br.puma.com",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"br.puma.com/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABMUlEQVQ4jZ2RMU/CUBDH73ivSk3kNTqAm5RZFx11E1cdNSSQ8DHQhEQTBo3yFXRmYtAV1k6SsEOiJkytr9bUYoFzqCmGkEq93HJ3v19u+KPJGcSpRCz6v0Iiq2svr6sPj0uFAijKXE49OxdPHQAAkzOnVJxISURE5BuG3N0xOfvd74d5Igr2YHJmZdL2/p5brQbORErn9GRKHx8RkZVJByOYnLmXF0T01Wp593ejbjfQPq+v3rKbJmdE9FEuhz7MfJfbW8NmczwYENHEcXzDGDYa1vpaCODcHFCIlVoNksnlYslvt538wfQUFZyiaL0+qqrM6WTbC+Tg+169jkJgKhXueJQA4N3esJyu9fqW8kPyUbQB4FYqmNlAIXzbBgB8Vv54MlPcA4wnuIgMaEF6DPgNSpyYds48D+4AAAAASUVORK5CYII=",
+      "language": "pt_BR",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=32675&awinaffid=1042425&clickref=opera-continueon-br&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "rtveuroagd_pl",
+      "partner_domain": "euro.com.pl",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"euro.com.pl/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAO0lEQVQ4jWP8z0AaYGFgYPhDtCYWRgYmEi1gYEEzACtAdgJlNmCahwmoYQOmT0b9gMskXIBkGxhJTd4AQYcQHCr7bIYAAAAASUVORK5CYII=",
+      "language": "pl_PL",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "http://clkuk.tradedoubler.com/click?p=118512&a=2001310&epi=opera-continueon-pl&epi2=opera&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "samsung_ca",
+      "partner_domain": "shop.samsung.com/ca/",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"shop.samsung.com/ca/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABe0lEQVQ4jXWTO0hCURjHf+d2wwaFIHCQoFEyG9pyKpAgkoKmxiBojoLrUkKSFT6WloaiuWgMhZZaLQgbQsglSIi2EBJKi07D0fvy+l++B9//e53vCPqhICP8MgyAToMmdXZF0x0mHFZOrgFpYLRP2jaCIwyR7E2QlUUEib4dOcs2MUQAQDMru8ktiI/AQtCyTUj8ZGVRTaeQtnMXglBadRZNXUPmAfCZXSSsDuwztyA1q9TTMuzfKH17zmOUvEzoFGSEP6c/GFByMgSxSw+ihbBmPpUNB7dKTo/B1xZ8/8BO2da+DVqPxwdnzxA9hpcPGBqAvXm4Wsa5SDOBTsPhacFJHA5nYOlCLQ9gccJ7Bo0mdbczHlaEjSnIPHkTO6hpnfNs273nj0qux0AaSr979aDrVNQl5mUOiWEfIx6ClXFl3r+pvbiWWCUpotYp5+UnEr8jpLs0j+0zSIhN8W69giECSEqOIJ8nudolg/s3Wt0kgLDLW0On0iV28Q+/4GQsWFtfEQAAAABJRU5ErkJggg==",
+      "language": "en_CA",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=18530&awinaffid=141629&clickref=opera-continueon-ca&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "samsung_fr",
+      "partner_domain": "samsung.com/fr/",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"samsung.com/fr/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABe0lEQVQ4jXWTO0hCURjHf+d2wwaFIHCQoFEyG9pyKpAgkoKmxiBojoLrUkKSFT6WloaiuWgMhZZaLQgbQsglSIi2EBJKi07D0fvy+l++B9//e53vCPqhICP8MgyAToMmdXZF0x0mHFZOrgFpYLRP2jaCIwyR7E2QlUUEib4dOcs2MUQAQDMru8ktiI/AQtCyTUj8ZGVRTaeQtnMXglBadRZNXUPmAfCZXSSsDuwztyA1q9TTMuzfKH17zmOUvEzoFGSEP6c/GFByMgSxSw+ihbBmPpUNB7dKTo/B1xZ8/8BO2da+DVqPxwdnzxA9hpcPGBqAvXm4Wsa5SDOBTsPhacFJHA5nYOlCLQ9gccJ7Bo0mdbczHlaEjSnIPHkTO6hpnfNs273nj0qux0AaSr979aDrVNQl5mUOiWEfIx6ClXFl3r+pvbiWWCUpotYp5+UnEr8jpLs0j+0zSIhN8W69giECSEqOIJ8nudolg/s3Wt0kgLDLW0On0iV28Q+/4GQsWFtfEQAAAABJRU5ErkJggg==",
+      "language": "fr_FR",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=18417&awinaffid=141629&clickref=opera-continueon-fr&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "samsung_gb",
+      "partner_domain": "samsung.com/uk/",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"samsung.com/uk/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABe0lEQVQ4jXWTO0hCURjHf+d2wwaFIHCQoFEyG9pyKpAgkoKmxiBojoLrUkKSFT6WloaiuWgMhZZaLQgbQsglSIi2EBJKi07D0fvy+l++B9//e53vCPqhICP8MgyAToMmdXZF0x0mHFZOrgFpYLRP2jaCIwyR7E2QlUUEib4dOcs2MUQAQDMru8ktiI/AQtCyTUj8ZGVRTaeQtnMXglBadRZNXUPmAfCZXSSsDuwztyA1q9TTMuzfKH17zmOUvEzoFGSEP6c/GFByMgSxSw+ihbBmPpUNB7dKTo/B1xZ8/8BO2da+DVqPxwdnzxA9hpcPGBqAvXm4Wsa5SDOBTsPhacFJHA5nYOlCLQ9gccJ7Bo0mdbczHlaEjSnIPHkTO6hpnfNs273nj0qux0AaSr979aDrVNQl5mUOiWEfIx6ClXFl3r+pvbiWWCUpotYp5+UnEr8jpLs0j+0zSIhN8W69giECSEqOIJ8nudolg/s3Wt0kgLDLW0On0iV28Q+/4GQsWFtfEQAAAABJRU5ErkJggg==",
+      "language": "en_GB",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=17946&awinaffid=141629&clickref=opera-continueon-gb&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "saturn_de",
+      "partner_domain": "saturn.de",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"saturn.de/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABPElEQVQ4jdWQv0sCcRjGP3fd6R0SNQURDkHY3hRB4JRLqySaciJGjQ39FUFrQQ0R1OLUEuUiQVAuOTs2tTTp6X3vvvejSZD0wtVne9/nfZ/neV+YeyiORTZhUAKQkm4ywZtyyQfAsEraNFgb1dOg6TotKTmTHne6wvLAYd2rcREGFDSNVXfA5r8RhEXTsciO9/wj+n6dKDphe6Y7vBqdKI8JEBxz7deJvBqdWXZVAL3HjpvicVgl7Q15BQjhftpCv8zKhIDSwDFu2dNUTn0fV7qUpcNXnGuvwE1sJLtE2y7RFhUycTNRHlNYNAGUv6SokBEuXcPk2xM8KSoviw80JoyK5MKQ/ITAiPQDniOFLcNgSQoOAcKA92iBz6TJj6pyIGzOpwqMYto6++PudpGcJ9kFNgDMFFexv5gf/AJNXXN3xQ8gUwAAAABJRU5ErkJggg==",
+      "language": "de_DE",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://pvn.saturn.de/trck/eclick/fccc802d1ddb57e55c35a4315a44f64b?url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "sears_mx",
+      "partner_domain": "sears.com.mx",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"sears.com.mx/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABsklEQVQ4jaWTP0/bQBjGf68NhCRUBKoYoaoDLFTXgsRaMXUqH4CJpVtHVJG1H4HPwFIJBHuZurVrkWhrKQMZQFVoAkkqaKJQ7JchZ3MhYeKm8/mex8+f1/DIJcMOa/mXb9H4I8jre68OxI8+FC/L5QcJajnzGVgFWkAD9ApkAsgCswCqsjLT+fUNYMQF1/NmUzUFA8z3f0OPQJZE9AswDuC5BKps2m0HKIhQCtqhiB+9sIKXgCqQaU0uTg0osDITAjTmBKB4WS7X86YUxywDZyKY//F1ADT7MqjlzHFPNtXEbxIeynbQCffvZ9ZPkDVrCHv2sWqVTAOFO5t3AQ4QQFKh7jigLvDbJRob9acLf380U4LW5OJU9zo2ItoGINIrfJlAeIfyHshYogYwK0Kp+C/cSkO04K+pd1+6QTscBw6BjT9Z80mE9SRcGyZga/RGbs4dF12cmgBEdM616XkcDmRQy5mm9Vih1wT0BirJogI8AzJBO0xx7hy8Ab5bcMU5b9Cbj3krZ9VV09fCRfbV80ii3SE/EcDB2Ki/nqQ/lMBd9ScLCxr5OV+986edn6cP3bsFEnWPZV6WBtcAAAAASUVORK5CYII=",
+      "language": "es_MX",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://ad.soicos.com/-1mXs?trackerID=opera-continueon-mx&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "shopee_br",
+      "partner_domain": "shopee.com.br",
+      "product_url_pattern": "\\-i\\.\\d*\\.\\d*",
+      "product_history_pattern": "\"shopee.com.br\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAk1BMVEUAAADvTi7vTS7uTS33VzTuTS3uTS3vTS3vTi7vTS7vTS3xTi7uTS3uTS3vTS3vTS3vTS3vTi7zUzH/WkPuTS3uTS3vTS3vTi3vTS3vTi3wTi7wUDDuTS3vTS3vTS3vTS3vTS3vTS3wTi3vTy/wTi7vTzDvTS3vTi3vTi3vTzDwTi3vTS7uTS3uTS3uTS3vTS3uTS0UzPFEAAAAMHRSTlMAh4btBfjLu3RdWRDhxr96bDsKAvLnmJOPSjIe3NrSooB8RDcoJZtoUiEZz7Wysacez9ljAAABjUlEQVRIx93U2XqbMBQE4ONIYDaDWYzxvsR2bDdp5/2frv5K2swhNOI6/5VYBoG+EfJd3fa+8da7hQxjRx5a6VkGKMbAJlvk4U/A5OJUPu7L7J/hcwLjnuMFCOXdPYFfOu6PDebyz/Mj7Zygiulwh4kjMEYtoqZYfR2ooFff4Nq7NOFTqwHqdjRqJUjfR8GdAhEGeKNANiTgU2A6JDCmQDgk8IsCC3TM/K1Bx1wtt/K2lIdzsAHbU+AMdhAbjZrpSewcZMoN0h93WrfbIfdBIgqUIFeZoM9RN+DDyaLXkgP8ebms8ZluoXqJRhZeX6DgwCtd8HJZjvGJJ2wHUoUip6cEWqICDZRJVEh53YL9UIEDOkydiz10uueoa3qTqe6eawfNVuJz99gRfS6y5+6xZW9gIgF3j634TfBXLRfuHivosTao2tH6Xsy4e4r3sd43iYPUGD+IpVHdU+hRVRa35+K57p6yVbV5PYTRy8V0uqekcPBEq12BrWhHVyCQjp3jt2e7gTJL8F+bzMo38hu8Ar8Bwkcr9QAAAABJRU5ErkJggg==",
+      "language": "pt_BR",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://ad.admitad.com/g/ome6yfgi53a47a83735cc7d3df2ce6/?subid=CoS&ulp=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "shopee_mx",
+      "partner_domain": "shopee.com.mx",
+      "product_url_pattern": "\\-i\\.\\d*\\.\\d*",
+      "product_history_pattern": "\"shopee.com.mx\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAk1BMVEUAAADvTi7vTS7uTS33VzTuTS3uTS3vTS3vTi7vTS7vTS3xTi7uTS3uTS3vTS3vTS3vTS3vTi7zUzH/WkPuTS3uTS3vTS3vTi3vTS3vTi3wTi7wUDDuTS3vTS3vTS3vTS3vTS3vTS3wTi3vTy/wTi7vTzDvTS3vTi3vTi3vTzDwTi3vTS7uTS3uTS3uTS3vTS3uTS0UzPFEAAAAMHRSTlMAh4btBfjLu3RdWRDhxr96bDsKAvLnmJOPSjIe3NrSooB8RDcoJZtoUiEZz7Wysacez9ljAAABjUlEQVRIx93U2XqbMBQE4ONIYDaDWYzxvsR2bDdp5/2frv5K2swhNOI6/5VYBoG+EfJd3fa+8da7hQxjRx5a6VkGKMbAJlvk4U/A5OJUPu7L7J/hcwLjnuMFCOXdPYFfOu6PDebyz/Mj7Zygiulwh4kjMEYtoqZYfR2ooFff4Nq7NOFTqwHqdjRqJUjfR8GdAhEGeKNANiTgU2A6JDCmQDgk8IsCC3TM/K1Bx1wtt/K2lIdzsAHbU+AMdhAbjZrpSewcZMoN0h93WrfbIfdBIgqUIFeZoM9RN+DDyaLXkgP8ebms8ZluoXqJRhZeX6DgwCtd8HJZjvGJJ2wHUoUip6cEWqICDZRJVEh53YL9UIEDOkydiz10uueoa3qTqe6eawfNVuJz99gRfS6y5+6xZW9gIgF3j634TfBXLRfuHivosTao2tH6Xsy4e4r3sd43iYPUGD+IpVHdU+hRVRa35+K57p6yVbV5PYTRy8V0uqekcPBEq12BrWhHVyCQjp3jt2e7gTJL8F+bzMo38hu8Ar8Bwkcr9QAAAABJRU5ErkJggg==",
+      "language": "es_MX",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://ad.admitad.com/g/7zad96rdzba47a83735cf108805c72/?subid=CoS&ulp=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "shopee_pl",
+      "partner_domain": "shopee.pl",
+      "product_url_pattern": "\\-i\\.\\d*\\.\\d*",
+      "product_history_pattern": "\"shopee.pl\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAk1BMVEUAAADvTi7vTS7uTS33VzTuTS3uTS3vTS3vTi7vTS7vTS3xTi7uTS3uTS3vTS3vTS3vTS3vTi7zUzH/WkPuTS3uTS3vTS3vTi3vTS3vTi3wTi7wUDDuTS3vTS3vTS3vTS3vTS3vTS3wTi3vTy/wTi7vTzDvTS3vTi3vTi3vTzDwTi3vTS7uTS3uTS3uTS3vTS3uTS0UzPFEAAAAMHRSTlMAh4btBfjLu3RdWRDhxr96bDsKAvLnmJOPSjIe3NrSooB8RDcoJZtoUiEZz7Wysacez9ljAAABjUlEQVRIx93U2XqbMBQE4ONIYDaDWYzxvsR2bDdp5/2frv5K2swhNOI6/5VYBoG+EfJd3fa+8da7hQxjRx5a6VkGKMbAJlvk4U/A5OJUPu7L7J/hcwLjnuMFCOXdPYFfOu6PDebyz/Mj7Zygiulwh4kjMEYtoqZYfR2ooFff4Nq7NOFTqwHqdjRqJUjfR8GdAhEGeKNANiTgU2A6JDCmQDgk8IsCC3TM/K1Bx1wtt/K2lIdzsAHbU+AMdhAbjZrpSewcZMoN0h93WrfbIfdBIgqUIFeZoM9RN+DDyaLXkgP8ebms8ZluoXqJRhZeX6DgwCtd8HJZjvGJJ2wHUoUip6cEWqICDZRJVEh53YL9UIEDOkydiz10uueoa3qTqe6eawfNVuJz99gRfS6y5+6xZW9gIgF3j634TfBXLRfuHivosTao2tH6Xsy4e4r3sd43iYPUGD+IpVHdU+hRVRa35+K57p6yVbV5PYTRy8V0uqekcPBEq12BrWhHVyCQjp3jt2e7gTJL8F+bzMo38hu8Ar8Bwkcr9QAAAABJRU5ErkJggg==",
+      "language": "pl_PL",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://ad.admitad.com/g/k5zgu0cvkoa47a83735ca25f2adecc/?subid=CoS&ulp=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "shopee_th",
+      "partner_domain": "shopee.co.th",
+      "product_url_pattern": "\\-i\\.\\d*\\.\\d*",
+      "product_history_pattern": "\"shopee.co.th\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAk1BMVEUAAADvTi7vTS7uTS33VzTuTS3uTS3vTS3vTi7vTS7vTS3xTi7uTS3uTS3vTS3vTS3vTS3vTi7zUzH/WkPuTS3uTS3vTS3vTi3vTS3vTi3wTi7wUDDuTS3vTS3vTS3vTS3vTS3vTS3wTi3vTy/wTi7vTzDvTS3vTi3vTi3vTzDwTi3vTS7uTS3uTS3uTS3vTS3uTS0UzPFEAAAAMHRSTlMAh4btBfjLu3RdWRDhxr96bDsKAvLnmJOPSjIe3NrSooB8RDcoJZtoUiEZz7Wysacez9ljAAABjUlEQVRIx93U2XqbMBQE4ONIYDaDWYzxvsR2bDdp5/2frv5K2swhNOI6/5VYBoG+EfJd3fa+8da7hQxjRx5a6VkGKMbAJlvk4U/A5OJUPu7L7J/hcwLjnuMFCOXdPYFfOu6PDebyz/Mj7Zygiulwh4kjMEYtoqZYfR2ooFff4Nq7NOFTqwHqdjRqJUjfR8GdAhEGeKNANiTgU2A6JDCmQDgk8IsCC3TM/K1Bx1wtt/K2lIdzsAHbU+AMdhAbjZrpSewcZMoN0h93WrfbIfdBIgqUIFeZoM9RN+DDyaLXkgP8ebms8ZluoXqJRhZeX6DgwCtd8HJZjvGJJ2wHUoUip6cEWqICDZRJVEh53YL9UIEDOkydiz10uueoa3qTqe6eawfNVuJz99gRfS6y5+6xZW9gIgF3j634TfBXLRfuHivosTao2tH6Xsy4e4r3sd43iYPUGD+IpVHdU+hRVRa35+K57p6yVbV5PYTRy8V0uqekcPBEq12BrWhHVyCQjp3jt2e7gTJL8F+bzMo38hu8Ar8Bwkcr9QAAAABJRU5ErkJggg==",
+      "language": "th_TH",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://ad.admitad.com/g/it3s0c8svaa47a83735ccb23d1a4f9/?subid=CoS&ulp=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "tchibo_de",
+      "partner_domain": "tchibo.de",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"tchibo.de/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACW0lEQVQ4jYWSX0jedRTGP8/399PX6cQLcbr+KFSLlbtcN2N/1BLEm+5kqwZTSsHdSRDBLl4GY1Bd7Gprg6FLLCiQIJLsz96NdTOmSCHVWO7CbI7pamLYeH1/32cX0xjD2bk6zznnec7h4Yj/iSsXehtjql3xqe3ftrbmS4/3w2bkibO9ZTFNOhx1Ms7ert9oRuvJ+CeHq8rTLc/aoSnBz9ihEfwS5gUHjVKmU9m/ygEkjXVL69cIoDDc1xGkdw3NiF9kLlrMOnrBQQ7wMqYNeB4w8tUs8YlXD56b0Y/ne6qz8vKvLA4AmeFYSBgn84uWXsO8IigZrgvfNKyK0BnN9EJusS+9Vb28Ul+s/Q7YAWwV9DvjddAsURNCgyH417036peUz0eAyyN9f8rhSGOxoUrrZi1Xpk0Orklj5hjSGpkyKM3H1eKN1u6h+wCFwSMVIanYY/ER4qc75Xff1iOGcnmkb0eM4T3J7UAEqoEx4a8Nz4H2AfuAP5Tw5oFDH0/9J3Dx06PNwdkQZjdmCnkQ60NE7pEdf9uMJYk+2P/GmZ8BUoDC5/1bVYzHgd0P53zNqF5iCpizPSPC9ZAwWZsu/tbc9UVxXTEFCKvZfqOOtdoqYjpIlY7+S1BnkvdbDp/+faNHCgDRagMq12qTOFTYHkB0ItJSrrSwERkgFAr5VNC0hpewRpF7gG1AyWKkvevc0hMFWlryGfLyQ6gfHKKBnWv9L12s+OxJZIAgYVujwF1wswjvACvAsJIw0Np96t5mAikATzd847n5t6TQaRyxLpHT9y1dp//ZjAzwAB6T9RyeGdVPAAAAAElFTkSuQmCC",
+      "language": "de_DE",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=11792&awinaffid=141629&clickref=opera-continueon-de&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "underarmour_mx",
+      "partner_domain": "underarmour.com.mx",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"underarmour.com.mx/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA/0lEQVQ4jdXRvyuFYRQH8I/3votfMTDo0lUKZbiDTQabslhtLCaLUjZ/gjL6A8wWWZSFSMlGFinDLUkWidx4De9Rb7d7Zb2nvj0953y/zznn+9D2USqcFczF/bkFfzrwFshgFru4xydW/mi4hTpusY1qijUs/XPiDCkmMYF6Et3vCqSeOLvRH+hqqMEV9kp4wKXcgzGUMY7BEJTl3ixjEX3YxzpuknjtMfCNAYxE/h0fcpNHQ/yFmoLRUziL/TJsojM6VwJDkdsp8A4wnGIDM4XdnqJzrYmJxe9dwGqCIxzjNQodTYSN8YJDnP+Se1GNSU5w0UI4L1/5FNcxabvHD2GsNHyt7KEJAAAAAElFTkSuQmCC",
+      "language": "es_MX",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://tc.tradetracker.net/?c=35414&m=12&a=441231&r=opera-continueon-mx&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "unieuro_it",
+      "partner_domain": "unieuro.it",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"unieuro.it/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAB1klEQVQ4jWWSS2sUQRSFv3urJkNnzOjEIeCYoCISRAi6EMHgQgT/gutAwI0bwb8hLtxl7UIw4FLcBURQQRAJugjxGaMjkkgmTDs9XXVd9EPFpmiKqnugzjmfcGYZAAOp/v9/f849GPbvrRiACakihglJREqZh0qcgRMCOEENsWdL6/Pd3Tf9w4ur85gUGgUBIdel03vh1pPdm08vzYxI3f2rny7M9Vuei8e/3rvymV9STCoYGJksn9tWiYea+fWzfVKZa6cxeCAGf6IzxAqHpphgAmTBRVNglDug2chrU1lwpSsTLd34+PZHSyWi8dX3FtCdHBXTKvHdziQ+IiCmACI4br+c+TnyH3fbd9c7vV421x6GqAAaV153cWWCHgMxlM2B79xZJAipPri2oRID2nD52ubs8y8JSSjS9wggCDhQcPbhxotjB/fHwTdc/m0/ubx6imZEyuK0KrJY4KzpAuA0Pto4emTlPIDWAyYVGpUwCKlMdMbZwJMLiSHgrObDYzUYcrKVL3TT5kQ+yjywPZjoTWXDsTzeOlBrfDUMgYVuOp3kO6mfncqGuU4n+dZeozcZ/8IMX5JkoDx83y5BjFZUUBLsrCgXK1Kq4dXqea7yJGUW9eY31PDBtQ/vwqcAAAAASUVORK5CYII=",
+      "language": "it_IT",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=10139&awinaffid=141629&clickref=opera-continueon-it&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "very_co_uk",
+      "partner_domain": "very.co.uk",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"very.co.uk/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACs0lEQVQ4jaWTzU8bBxDFf7V31/baXn+sP2oDduxaCZFKqiKDEDSHKKLKiRs55JCPQ070zyGHinsrxbk0kXpBqsTBKQUbqa1AUCgFk0C8trv2YrNm1y69gJWoveWdZqR5b97MaOAj8clVMD//3FO1apGZfHbCtnoLetPMt4yuD0Dxu9uhoKckuYRnxdL+elyK1guF++ZAYH7+uadt68nc9fjTdud8LpdRY6lsWLXsPpLoJJNSWV7ebhxUdE3xSy/3/qgt+cTQcaFw3xQAqlYt8sWNoadnZu/B57cSI5m0ileWGB8bpnNmkU4qZFMR9fftY/W778u+XC7Kr7snz4AjB8BMPjthtLtzTx5NjGTSKgCW3Wd143Awa0yVEUUnjx9OjrQ653Mz+ewEgAPAOu8tXBsJxaa+TA0Itt3HtvuEAjIAHbNHs2USCnhIDYVi3a69MBDQm2Z+dnZU7Zi9DzZ896vrKF4BAK9H4MZnMfYrf3Pv3k1V1808gADQMkxfPKKgeAW8ssRwIshwIjggAzgdUK2fAhCPKBiG6Rs4APDKEgBT49d4c9LEsj90cwVRdAJwcZkLV3fer9SVRDSF4hX4+naOYrnCzmVRNhUhEZW5M5Wh3uyy86eG4ne3Bw7CIbm0vLzdeL/T2GgSrd5Gq7dZ3Thg7bdjACJBN69ebTbCQbk0EBBFYfGgomvFcuV/bQO8PWnS/weK5QrH1ZbmcouLAE4AR2C6k04GAz//cpiOfqoEUskALsmBKIpol4sbG02ys6/x7dLro6Df9aK0efTD4c6PhhNg8tZj+12tsZtIKNLr1QO1tHHkcPtccrN1xolmYJx2WVnZa/y0snsY9Lte7O3VlsKSWt3aKvT+80zT49n8uWV/o+tm3jjt+i4uLlD87rYaltdlt7C4VvqrHHjvmT4a/wJLYRPRy3Z+JAAAAABJRU5ErkJggg==",
+      "language": "en_GB",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=3090&awinaffid=141629&clickref=opera-continueon-gb&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "walmart_mx",
+      "partner_domain": "walmart.com.mx",
+      "product_url_pattern": "\/ip\/",
+      "product_history_pattern": "\"walmart.com.mx/ip/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAkFBMVEUAAAD9ujH+ujH9ujH9ujH9ujH+ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH+ujH9ujH9ujH9ujH9ujH9ujH9ujE7BVuzAAAAL3RSTlMADAj5zi4GG/307sRaM9zVoZaQjDgh5OCmeW1RS0Q6KRQQvruvqZuFaBi0caxmQKoIRPIAAAF+SURBVEjH3VXZcsMgDMTgOz4Sn2ni2LkdJ235/78rGGzMpPFUj+k+sZIWBmYl0PugCw1Iub2mlDwAgh3lwH8X1L0AcILF6z2A4MAFJgKACxYQQcEES4jAZILV/MsnRYoVPTLBh6LdubwhHStWEVsjvTL6NbKtz2ig1e9dykDGTRPGtnJtLClHrAlCKnB0BN+wdSaWWSRz+hWGqCdOtnwaG32idWVmjTTgWzQkhE3FUY0po4sKPSGQydJWFvFE6Jy9MOmpT3dqD07JtUEvEV5celbUKKmXOmgWeWBPnzs4oPfDoZ4yo7bny53Em9raNmnxmJk3zZJQhr2yKad+qwIasjvt4asta2Ekssqfy6vF4Jpp8rsUQXcdIh19uWqJPHbvWDaDRPprP8SW6odQtRsH0V9HBBM86bhqyAlLRkjDhYWKndbTqu033OUbXWB80svEZyd9ajQmacFzaR4RbPLBZyuGTm+rtwhAkEF/oAr6x+EjN4+VQm6xyxF20P/EDw9xPBt+qi41AAAAAElFTkSuQmCC",
+      "language": "es_MX",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://ad.soicos.com/-1mWA?trackerID=opera-continueon-mx&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "walmart_us",
+      "partner_domain": "walmart.com",
+      "product_url_pattern": "\/ip\/",
+      "product_history_pattern": "\"walmart.com/ip/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAkFBMVEUAAAD9ujH+ujH9ujH9ujH9ujH+ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH9ujH+ujH9ujH9ujH9ujH9ujH9ujH9ujE7BVuzAAAAL3RSTlMADAj5zi4GG/307sRaM9zVoZaQjDgh5OCmeW1RS0Q6KRQQvruvqZuFaBi0caxmQKoIRPIAAAF+SURBVEjH3VXZcsMgDMTgOz4Sn2ni2LkdJ235/78rGGzMpPFUj+k+sZIWBmYl0PugCw1Iub2mlDwAgh3lwH8X1L0AcILF6z2A4MAFJgKACxYQQcEES4jAZILV/MsnRYoVPTLBh6LdubwhHStWEVsjvTL6NbKtz2ig1e9dykDGTRPGtnJtLClHrAlCKnB0BN+wdSaWWSRz+hWGqCdOtnwaG32idWVmjTTgWzQkhE3FUY0po4sKPSGQydJWFvFE6Jy9MOmpT3dqD07JtUEvEV5celbUKKmXOmgWeWBPnzs4oPfDoZ4yo7bny53Em9raNmnxmJk3zZJQhr2yKad+qwIasjvt4asta2Ekssqfy6vF4Jpp8rsUQXcdIh19uWqJPHbvWDaDRPprP8SW6odQtRsH0V9HBBM86bhqyAlLRkjDhYWKndbTqu033OUbXWB80svEZyd9ajQmacFzaR4RbPLBZyuGTm+rtwhAkEF/oAr6x+EjN4+VQm6xyxF20P/EDw9xPBt+qi41AAAAAElFTkSuQmCC",
+      "language": "en_US",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://go.skimresources.com?id=180151X1673969&xs=1&xcust=CoS&url=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "zalandolounge_de",
+      "partner_domain": "zalando-lounge.de",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"zalando-lounge.de/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA50lEQVQ4ja2ToU7DQByHvztgS+XaIJihVSS4OR4AiSYtCW+x7SWG3RMsWZtNICb3AASFw7YYEKQNrtmW3CHoYcha2u4n7+777if+f0GRNPLWwDWQoPUTQjw6frykIgIgDb0hgsmeNxPHj8flgsiLAbf0K83ICeKHPwK9uOxkKt9UVS2S2NK6ELevW3Mgv3R+9U8YwM1UvvmcnZ/9CpTmpobgBzqR70YigUFdgZEYQeOkoTtvJWjdwAmSOwm8NIHVTvUBpNCsmsCn928fALJ3ZD3XYBNbWl0DwwFG+bi4nLZapqJFo3X+Bid7UojP4mBNAAAAAElFTkSuQmCC",
+      "language": "de_DE",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=13789&awinaffid=141629&clickref=opera-continueon-de&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "zalandolounge_pl",
+      "partner_domain": "zalando-lounge.pl",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"zalando-lounge.pl/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA50lEQVQ4ja2ToU7DQByHvztgS+XaIJihVSS4OR4AiSYtCW+x7SWG3RMsWZtNICb3AASFw7YYEKQNrtmW3CHoYcha2u4n7+777if+f0GRNPLWwDWQoPUTQjw6frykIgIgDb0hgsmeNxPHj8flgsiLAbf0K83ICeKHPwK9uOxkKt9UVS2S2NK6ELevW3Mgv3R+9U8YwM1UvvmcnZ/9CpTmpobgBzqR70YigUFdgZEYQeOkoTtvJWjdwAmSOwm8NIHVTvUBpNCsmsCn928fALJ3ZD3XYBNbWl0DwwFG+bi4nLZapqJFo3X+Bid7UojP4mBNAAAAAElFTkSuQmCC",
+      "language": "pl_PL",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=12157&awinaffid=141629&clickref=opera-continueon-pl&ued=$1"
+        }
+      }
+    },
+    {
+      "partner_id": "zalandoprive_fr",
+      "partner_domain": "zalando-prive.fr",
+      "product_url_pattern": ".*",
+      "product_history_pattern": "\"zalando-prive.fr/\"",
+      "partner_icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA50lEQVQ4ja2ToU7DQByHvztgS+XaIJihVSS4OR4AiSYtCW+x7SWG3RMsWZtNICb3AASFw7YYEKQNrtmW3CHoYcha2u4n7+777if+f0GRNPLWwDWQoPUTQjw6frykIgIgDb0hgsmeNxPHj8flgsiLAbf0K83ICeKHPwK9uOxkKt9UVS2S2NK6ELevW3Mgv3R+9U8YwM1UvvmcnZ/9CpTmpobgBzqR70YigUFdgZEYQeOkoTtvJWjdwAmSOwm8NIHVTvUBpNCsmsCn928fALJ3ZD3XYBNbWl0DwwFG+bi4nLZapqJFo3X+Bid7UojP4mBNAAAAAElFTkSuQmCC",
+      "language": "fr_FR",
+      "scrapping_method": "google_product",
+      "affiliation": {
+        "other": {
+          "url_replacement": "https://www.awin1.com/cread.php?awinmid=7476&awinaffid=141629&clickref=opera-continueon-fr&ued=$1"
+        }
+      }
+    }
+  ]
+}

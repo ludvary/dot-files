@@ -1,0 +1,12 @@
+2023/07/09-16:18:12.253 6de Reusing MANIFEST /home/ludvary-Fomalhaut/.config/opera/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/09-16:18:12.253 6de Recovering log #26
+2023/07/09-16:18:12.267 6de Reusing old log /home/ludvary-Fomalhaut/.config/opera/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000026.log 
+2023/07/09-16:20:04.877 6de Level-0 table #31: started
+2023/07/09-16:20:04.889 6de Level-0 table #31: 1246044 bytes OK
+2023/07/09-16:20:04.893 6de Delete type=0 #26
+2023/07/09-16:29:41.942 6de Compacting 1@1 + 1@2 files
+2023/07/09-16:29:41.952 6de Generated table #32@1: 363 keys, 32726 bytes
+2023/07/09-16:29:41.952 6de Compacted 1@1 + 1@2 files => 32726 bytes
+2023/07/09-16:29:41.954 6de compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/07/09-16:29:41.954 6de Delete type=2 #28
+2023/07/09-16:29:41.954 6de Delete type=2 #31

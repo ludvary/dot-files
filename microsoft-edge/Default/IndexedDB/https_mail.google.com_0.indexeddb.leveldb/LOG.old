@@ -1,0 +1,12 @@
+2023/07/11-17:47:12.399 3513 Reusing MANIFEST /home/ludvary-Fomalhaut/.config/microsoft-edge/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/11-17:47:12.400 3513 Recovering log #7
+2023/07/11-17:47:12.419 3513 Reusing old log /home/ludvary-Fomalhaut/.config/microsoft-edge/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000007.log 
+2023/07/11-17:47:30.430 3514 Level-0 table #12: started
+2023/07/11-17:47:30.446 3514 Level-0 table #12: 1617218 bytes OK
+2023/07/11-17:47:30.449 3514 Delete type=0 #7
+2023/07/11-17:47:31.449 3513 Compacting 1@1 + 1@2 files
+2023/07/11-17:47:31.455 3513 Generated table #13@1: 174 keys, 206485 bytes
+2023/07/11-17:47:31.455 3513 Compacted 1@1 + 1@2 files => 206485 bytes
+2023/07/11-17:47:31.458 3513 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/07/11-17:47:31.458 3513 Delete type=2 #9
+2023/07/11-17:47:31.458 3513 Delete type=2 #12

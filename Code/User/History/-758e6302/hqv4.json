@@ -1,0 +1,123 @@
+{
+    "latex-workshop.latex.recipes": [
+        {
+         "name": "pdfLaTeX",
+         "tools": [
+          "pdflatex"
+         ]
+        },
+        {
+         "name": "latexmk 🔃",
+         "tools": [
+          "latexmk"
+         ]
+        },
+        {
+         "name": "xelatex",
+         "tools": [
+          "xelatex"
+         ]
+        },
+        {
+         "name": "pdflatex ➞ bibtex ➞ pdflatex`×2",
+         "tools": [
+          "pdflatex",
+          "bibtex",
+          "pdflatex",
+          "pdflatex"
+         ]
+        },
+        {
+        "name": "xelatex ➞ bibtex ➞ xelatex`×2",
+        "tools": [
+          "xelatex",
+          "bibtex",
+          "xelatex",
+          "xelatex"
+         ]
+        }
+       ],
+       
+    "latex-workshop.latex.tools": [
+        {
+         "name": "latexmk",
+         "command": "latexmk",
+         "args": [
+          "-synctex=1",
+          "-interaction=nonstopmode",
+          "-file-line-error",
+          "-pdf",
+          "-outdir=%OUTDIR%",
+          "%DOC%"
+         ],
+         "env": {}
+        },
+        {
+         "name": "xelatex",
+         "command": "xelatex",
+         "args": [
+          "-synctex=1",
+          "-interaction=nonstopmode",
+          "-file-line-error",
+          "%DOC%"
+         ],
+         "env": {}
+        },
+        {
+         "name": "pdflatex",
+         "command": "pdflatex",
+         "args": [
+          "-synctex=1",
+          "-interaction=nonstopmode",
+          "-file-line-error",
+          "%DOC%"
+         ],
+         "env": {}
+        },
+        {
+         "name": "bibtex",
+         "command": "bibtex",
+         "args": [
+          "%DOCFILE%"
+         ],
+         "env": {}
+        }
+       ],
+       
+    "editor.fontSize": 16,
+    "workbench.colorTheme": "FireFly Pro Bright",
+    "terminal.integrated.automationProfile.linux": {
+    
+    },
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.fontSize": 15,
+    "terminal.explorerKind": "external",
+    "workbench.iconTheme": "ayu",
+    "code-runner.runInTerminal": true,
+    "workbench.startupEditor": "none",
+    "explorer.confirmDelete": false,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "workbench.productIconTheme": "el-vsc-v1-icons",
+    "window.menuBarVisibility": "compact",
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "files.autoSave": "afterDelay",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "terminal.integrated.commandsToSkipShell": [
+        "language-julia.interrupt"
+    ],
+    "julia.symbolCacheDownload": true,
+    "julia.enableTelemetry": false,
+    "julia.executablePath": "C:\\Users\\rskri\\AppData\\Local\\Programs\\Julia-1.8.5\\bin\\julia.exe",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.lineNumbers": "off",
+    "notebook.output.textLineLimit": 1000,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "workbench.statusBar.visible": false,
+    "workbench.activityBar.visible": false
+}

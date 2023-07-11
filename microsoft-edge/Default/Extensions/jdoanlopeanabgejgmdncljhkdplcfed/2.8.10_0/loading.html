@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Loading</title>
+</head>
+<body>
+<i class="loading-icon"></i>
+</body>
+<style>
+	body { height: 100vh; width: 100vw; display: flex; align-items: center; justify-content: center; }
+	.loading-icon { height: 50px; width: 50px; margin-right: 8px; display: inline-block; -webkit-animation: loading-icon 1.4s ease infinite; animation: loading-icon 1.4s ease infinite; background: none; border: 3px solid rgb(68 151 187); border-radius: 100%; -webkit-box-sizing: border-box; box-sizing: border-box; vertical-align: -10%; }
+	@keyframes loading-icon {
+		0% { transform: scale(0); }
+		33% { opacity: 1; }
+		100%  { opacity: 0; transform: scale(1.5); }
+	}
+
+</style>
+</html>

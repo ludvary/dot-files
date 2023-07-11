@@ -1,0 +1,25 @@
+{
+   "author": "Opera Software AS",
+   "background": {
+      "persistent": true,
+      "scripts": [ "main.js" ]
+   },
+   "content_scripts": [ {
+      "js": [ "startpage_api_injection.js" ],
+      "matches": [ "chrome://startpage/" ]
+   } ],
+   "developer": {
+      "name": "Opera Software"
+   },
+   "externally_connectable": {
+      "ids": [ "odndjkngipngdmdlfodecoelobjbidna", "igpdmclhhlcpoindmhkhillbfhdgoegm", "ekaedphfbpfmddheafoogkidbnhmbdgp" ]
+   },
+   "incognito": "not_allowed",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwAPLx0Y6cWHfsh67UU7lhhY7dMPqQoJULjS57Q/HVy5Ae5KFSS7hgrhEwoiSC9onE4MXvy1dtuUB0SsEXJuO9wztMid3WcjoIfk0Ybv7QEO6JqtYS9DD7wT9JwaFXMKivwnrgCrLQDoe2iqUp++8Vx0OMlCl1qHp74MBjkykQioNW6mqG1/kf3JKeNfSaY7ZZf49iSfDrQXuQmiZ3MKekUa+NUVeEIssinFQ1JEvrhHI1R4196JGSTDBf5ElMb/fxH5tsb/e52LAmwGaQ4ya4sjePsVsnEZrBgkteDvNOlJs2ajEGC7btjIh3jKgklkiXOajQYLWuVA5rt6VAqbzOwIDAQAB",
+   "manifest_version": 2,
+   "name": "Rich Hints Agent",
+   "permissions": [ "boosterPrivate", "cashbackPrivate", "browserSidebarPrivate", "downloads", "history", "limitersPrivate", "management", "operaBrowserPrivate", "powerSavePrivate", "richHintsAgentPrivate", "settingsPrivate", "speeddialPrivate", "storage", "tabs", "uiTrackerPrivate", "vpnProPrivate", "windows", "http://*/", "https://*/" ],
+   "update_url": "https://extension-updates.opera.com/api/omaha/update/",
+   "version": "1.1.1",
+   "web_accessible_resources": [ "history-tags.json", "startpage_test_function.js", "targeted_sd_section.js" ]
+}

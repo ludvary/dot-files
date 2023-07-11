@@ -1,0 +1,12 @@
+2023/07/11-18:46:25.413 572 Reusing MANIFEST /home/ludvary-Fomalhaut/.config/microsoft-edge/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/11-18:46:25.414 572 Recovering log #32
+2023/07/11-18:46:25.430 572 Reusing old log /home/ludvary-Fomalhaut/.config/microsoft-edge/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000032.log 
+2023/07/11-18:46:25.516 581 Level-0 table #37: started
+2023/07/11-18:46:25.531 581 Level-0 table #37: 1113231 bytes OK
+2023/07/11-18:46:25.537 581 Delete type=0 #32
+2023/07/11-18:46:29.008 573 Compacting 1@1 + 1@2 files
+2023/07/11-18:46:29.016 573 Generated table #38@1: 434 keys, 39779 bytes
+2023/07/11-18:46:29.016 573 Compacted 1@1 + 1@2 files => 39779 bytes
+2023/07/11-18:46:29.018 573 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/07/11-18:46:29.018 573 Delete type=2 #37
+2023/07/11-18:46:29.018 573 Delete type=2 #34
