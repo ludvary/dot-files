@@ -16,7 +16,7 @@ enchant/
 gtk-2.0/
 imsettings/
 mimeapps.list
-okularparttc
+okularpartrc
 protonvpn/
 Thunar/
 Windscribe/
