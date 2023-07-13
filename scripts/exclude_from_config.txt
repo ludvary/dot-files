@@ -3,7 +3,6 @@
 .gitignore
 Code/
 google-chrome/
-matplotlib/
 vlc/
 dconf/
 gpick/
