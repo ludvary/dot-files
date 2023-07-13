@@ -62,8 +62,8 @@ bindsym $mod+q kill
 
 # start dmenu (a program launcher)
 # bindsym $mod+d exec rofi -show run -lines 3 -eh 2 -width 100 -padding 800 -opacity "85" -bw 0 -bc "$bg-color" -bg "$bg-color" -fg "$text-color" -hlbg "$bg-color" -hlfg "#9575cd" -font "JetBrainsMono Nerd Font"
-bindsym $mod+d exec rofi -show run 
-bindsym $mod+Shift+f exec rofi -show drun 
+# bindsym $mod+d exec rofi -show run 
+bindsym $mod+d exec rofi -show drun 
 # A more modern dmenu replacement is rofi:
 # bindcode $mod+40 exec "rofi -modi drun,run -show drun"
 # There also is i3-dmenu-desktop which only displays applications shipping a
@@ -208,6 +208,9 @@ exec_always nitrogen --restore
 
 # launch picom
 exec_always picom
+
+# kill picom
+bindsym $mod+p exec "pkill picom"
 
 #launch polybar
 exec --no-startup-id /bin/bash ~/.config/polybar/polybar_launch.sh

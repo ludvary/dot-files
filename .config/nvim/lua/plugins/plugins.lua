@@ -20,4 +20,6 @@ return {
   { "NLKNguyen/papercolor-theme" },
   { "bignimbus/pop-punk.vim" },
   { "rose-pine/neovim" },
+  {"itchyny/lightline.vim"},
+{'akinsho/bufferline.nvim', version = "*", dependencies = 'nvim-tree/nvim-web-devicons'},
 }
