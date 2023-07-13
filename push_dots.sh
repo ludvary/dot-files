@@ -8,7 +8,7 @@
 cp ~/.zshrc /media/HOME/hause/significant\ things/dot_files/ && echo .zshrc was copied successfully!
 
 # get .config
-rsync -avz --exclude-from=exclude_from_config.txt ~/.config/ /media/HOME/hause/significant\ things/dot_files/.config
+rsync -avz --exclude-from=exclude_from_config.txt ~/.config /media/HOME/hause/significant\ things/dot_files/.config
 
 echo ==================================
 echo
