@@ -10,7 +10,7 @@ cp ~/.zshrc /media/HOME/hause/significant\ things/dot_files/ && echo .zshrc was 
 # get .config
 # rsync -avz  --include i3 --include kitty --include nvim --include picom --include polybar --include rofi --include zathura --exclude .git --exclude .github ~/.config/ /media/HOME/hause/significant\ things/dot_files/.config
 
-rsync -avz  --include i3 --include kitty --include nvim --include picom --include polybar --include rofi --include zathura --exclude'*' ~/.config/ /media/HOME/hause/significant\ things/dot_files/.config
+rsync -avz --exclude'*' --include i3 --include kitty --include nvim --include picom --include polybar --include rofi --include zathura ~/.config/ /media/HOME/hause/significant\ things/dot_files/.config
 
 echo ==================================
 echo
