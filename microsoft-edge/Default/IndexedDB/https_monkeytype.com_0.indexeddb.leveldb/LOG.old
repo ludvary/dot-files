@@ -1,7 +1,0 @@
-2023/07/10-12:24:08.092 5e8 Reusing MANIFEST /home/ludvary-Fomalhaut/.config/microsoft-edge/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/07/10-12:24:08.092 5e8 Recovering log #12
-2023/07/10-12:24:08.092 5e8 Reusing old log /home/ludvary-Fomalhaut/.config/microsoft-edge/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/000012.log 
-2023/07/10-12:24:08.292 5f5 Level-0 table #18: started
-2023/07/10-12:24:08.295 5f5 Level-0 table #18: 8626 bytes OK
-2023/07/10-12:24:08.298 5f5 Delete type=0 #12
-2023/07/10-12:24:08.299 5e8 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)

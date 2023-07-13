@@ -1,1 +1,0 @@
-(()=>{"use strict";window.addEventListener("message",(function e(t){"show_box"===t.data.type&&opr.startpageHintsPrivate.showSection("at-the-top",(o=>{o.style.width="300px",o.style.height="100px",o.style.backgroundColor=t.data.boxColour,o.innerText=t.data.text,window.removeEventListener("message",e),window.postMessage({type:"show_box_done"},"chrome://startpage")}))}))})();

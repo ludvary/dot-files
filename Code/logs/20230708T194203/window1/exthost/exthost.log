@@ -1,5 +1,0 @@
-2023-07-08 19:42:06.635 [info] Extension host with pid 44221 started
-2023-07-08 19:42:06.726 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
-2023-07-08 19:42:06.787 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
-2023-07-08 19:42:06.807 [info] Extension host terminating: renderer closed the MessagePort
-2023-07-08 19:42:06.814 [info] Extension host with pid 44221 exiting with code 0

@@ -1,6 +1,0 @@
-2023/07/09-18:21:21.095 5746 Reusing MANIFEST /home/ludvary-Fomalhaut/.config/opera/Sync Data/LevelDB/MANIFEST-000001
-2023/07/09-18:21:21.096 5746 Recovering log #7
-2023/07/09-18:21:21.099 5746 Reusing old log /home/ludvary-Fomalhaut/.config/opera/Sync Data/LevelDB/000007.log 
-2023/07/09-18:21:25.508 573c Level-0 table #11: started
-2023/07/09-18:21:25.513 573c Level-0 table #11: 163718 bytes OK
-2023/07/09-18:21:25.515 573c Delete type=0 #7

@@ -1,3 +1,0 @@
-# dot-files
-I wonder what this repo contains....
-What! These are dot files? Who would have known? And the title tells nothing either!

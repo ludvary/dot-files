@@ -1,3 +1,0 @@
-2023-07-08 18:59:42.159 [info] Started initializing default profile extensions in extensions installation folder. file:///home/ludvary-Fomalhaut/.vscode/extensions
-2023-07-08 18:59:42.359 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/ludvary-Fomalhaut/.vscode/extensions Unable to create file 'vscode-userdata:/home/ludvary-Fomalhaut/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
-2023-07-08 18:59:42.360 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/ludvary-Fomalhaut/.vscode/extensions
