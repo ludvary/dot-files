@@ -5,6 +5,7 @@ Code/
 google-chrome/
 vlc/
 FreeTube/
+ristretto
 dconf/
 gpick/
 ibus/
