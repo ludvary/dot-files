@@ -53,7 +53,14 @@ vim.o.tabstop = 4
 -- shiftwidth
 vim.o.shiftwidth = 4
 
+-- set lightline (statusline plugin color)
+vim.g.lightline = {
+  colorscheme = "simpleblack"
+}
+
 vim.cmd("color everforest")
+
+
 
 
 
