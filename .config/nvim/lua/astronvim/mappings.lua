@@ -47,76 +47,120 @@ maps.n["<leader>pA"] = { "<cmd>AstroUpdate<cr>", desc = "AstroNvim Update" }
 maps.n["<leader>pv"] = { "<cmd>AstroVersion<cr>", desc = "AstroNvim Version" }
 maps.n["<leader>pl"] = { "<cmd>AstroChangelog<cr>", desc = "AstroNvim Changelog" }
 
--- Manage Buffers
-maps.n["<leader>c"] = { function() require("astronvim.utils.buffer").close() end, desc = "Close buffer" }
-maps.n["<leader>C"] = { function() require("astronvim.utils.buffer").close(0, true) end, desc = "Force close buffer" }
-maps.n["]b"] =
-  { function() require("astronvim.utils.buffer").nav(vim.v.count > 0 and vim.v.count or 1) end, desc = "Next buffer" }
-maps.n["[b"] = {
-  function() require("astronvim.utils.buffer").nav(-(vim.v.count > 0 and vim.v.count or 1)) end,
-  desc = "Previous buffer",
-}
-maps.n[">b"] = {
-  function() require("astronvim.utils.buffer").move(vim.v.count > 0 and vim.v.count or 1) end,
-  desc = "Move buffer tab right",
-}
-maps.n["<b"] = {
-  function() require("astronvim.utils.buffer").move(-(vim.v.count > 0 and vim.v.count or 1)) end,
-  desc = "Move buffer tab left",
-}
+-- -- Manage Buffers
+-- maps.n["<leader>c"] = { function() require("astronvim.utils.buffer").close() end, desc = "Close buffer" }
+-- maps.n["<leader>C"] = { function() require("astronvim.utils.buffer").close(0, true) end, desc = "Force close buffer" }
+-- maps.n["]b"] =
+--   { function() require("astronvim.utils.buffer").nav(vim.v.count > 0 and vim.v.count or 1) end, desc = "Next buffer" }
+-- maps.n["[b"] = {
+--   function() require("astronvim.utils.buffer").nav(-(vim.v.count > 0 and vim.v.count or 1)) end,
+--   desc = "Previous buffer",
+-- }
+-- maps.n[">b"] = {
+--   function() require("astronvim.utils.buffer").move(vim.v.count > 0 and vim.v.count or 1) end,
+--   desc = "Move buffer tab right",
+-- }
+-- maps.n["<b"] = {
+--   function() require("astronvim.utils.buffer").move(-(vim.v.count > 0 and vim.v.count or 1)) end,
+--   desc = "Move buffer tab left",
+-- }
+--
+-- maps.n["<leader>b"] = sections.b
+-- maps.n["<leader>bc"] =
+--   { function() require("astronvim.utils.buffer").close_all(true) end, desc = "Close all buffers except current" }
+-- maps.n["<leader>bC"] = { function() require("astronvim.utils.buffer").close_all() end, desc = "Close all buffers" }
+-- maps.n["<leader>bb"] = {
+--   function()
+--     require("astronvim.utils.status.heirline").buffer_picker(function(bufnr) vim.api.nvim_win_set_buf(0, bufnr) end)
+--   end,
+--   desc = "Select buffer from tabline",
+-- }
+-- maps.n["<leader>bd"] = {
+--   function()
+--     require("astronvim.utils.status.heirline").buffer_picker(
+--       function(bufnr) require("astronvim.utils.buffer").close(bufnr) end
+--     )
+--   end,
+--   desc = "Close buffer from tabline",
+-- }
+-- maps.n["<leader>bl"] =
+--   { function() require("astronvim.utils.buffer").close_left() end, desc = "Close all buffers to the left" }
+-- maps.n["<leader>bp"] = { function() require("astronvim.utils.buffer").prev() end, desc = "Previous buffer" }
+-- maps.n["<leader>br"] =
+--   { function() require("astronvim.utils.buffer").close_right() end, desc = "Close all buffers to the right" }
+-- maps.n["<leader>bs"] = sections.bs
+-- maps.n["<leader>bse"] = { function() require("astronvim.utils.buffer").sort "extension" end, desc = "By extension" }
+-- maps.n["<leader>bsr"] =
+--   { function() require("astronvim.utils.buffer").sort "unique_path" end, desc = "By relative path" }
+-- maps.n["<leader>bsp"] = { function() require("astronvim.utils.buffer").sort "full_path" end, desc = "By full path" }
+-- maps.n["<leader>bsi"] = { function() require("astronvim.utils.buffer").sort "bufnr" end, desc = "By buffer number" }
+-- maps.n["<leader>bsm"] = { function() require("astronvim.utils.buffer").sort "modified" end, desc = "By modification" }
+-- maps.n["<leader>b\\"] = {
+--   function()
+--     require("astronvim.utils.status.heirline").buffer_picker(function(bufnr)
+--       vim.cmd.split()
+--       vim.api.nvim_win_set_buf(0, bufnr)
+--     end)
+--   end,
+--   desc = "Horizontal split buffer from tabline",
+-- }
+-- maps.n["<leader>b|"] = {
+--   function()
+--     require("astronvim.utils.status.heirline").buffer_picker(function(bufnr)
+--       vim.cmd.vsplit()
+--       vim.api.nvim_win_set_buf(0, bufnr)
+--     end)
+--   end,
+--   desc = "Vertical split buffer from tabline",
+-- }
+--
+-- -- Navigate tabs
+-- maps.n["]t"] = { function() vim.cmd.tabnext() end, desc = "Next tab" }
+-- maps.n["[t"] = { function() vim.cmd.tabprevious() end, desc = "Previous tab" }
 
-maps.n["<leader>b"] = sections.b
-maps.n["<leader>bc"] =
-  { function() require("astronvim.utils.buffer").close_all(true) end, desc = "Close all buffers except current" }
-maps.n["<leader>bC"] = { function() require("astronvim.utils.buffer").close_all() end, desc = "Close all buffers" }
-maps.n["<leader>bb"] = {
-  function()
-    require("astronvim.utils.status.heirline").buffer_picker(function(bufnr) vim.api.nvim_win_set_buf(0, bufnr) end)
-  end,
-  desc = "Select buffer from tabline",
-}
-maps.n["<leader>bd"] = {
-  function()
-    require("astronvim.utils.status.heirline").buffer_picker(
-      function(bufnr) require("astronvim.utils.buffer").close(bufnr) end
-    )
-  end,
-  desc = "Close buffer from tabline",
-}
-maps.n["<leader>bl"] =
-  { function() require("astronvim.utils.buffer").close_left() end, desc = "Close all buffers to the left" }
-maps.n["<leader>bp"] = { function() require("astronvim.utils.buffer").prev() end, desc = "Previous buffer" }
-maps.n["<leader>br"] =
-  { function() require("astronvim.utils.buffer").close_right() end, desc = "Close all buffers to the right" }
-maps.n["<leader>bs"] = sections.bs
-maps.n["<leader>bse"] = { function() require("astronvim.utils.buffer").sort "extension" end, desc = "By extension" }
-maps.n["<leader>bsr"] =
-  { function() require("astronvim.utils.buffer").sort "unique_path" end, desc = "By relative path" }
-maps.n["<leader>bsp"] = { function() require("astronvim.utils.buffer").sort "full_path" end, desc = "By full path" }
-maps.n["<leader>bsi"] = { function() require("astronvim.utils.buffer").sort "bufnr" end, desc = "By buffer number" }
-maps.n["<leader>bsm"] = { function() require("astronvim.utils.buffer").sort "modified" end, desc = "By modification" }
-maps.n["<leader>b\\"] = {
-  function()
-    require("astronvim.utils.status.heirline").buffer_picker(function(bufnr)
-      vim.cmd.split()
-      vim.api.nvim_win_set_buf(0, bufnr)
-    end)
-  end,
-  desc = "Horizontal split buffer from tabline",
-}
-maps.n["<leader>b|"] = {
-  function()
-    require("astronvim.utils.status.heirline").buffer_picker(function(bufnr)
-      vim.cmd.vsplit()
-      vim.api.nvim_win_set_buf(0, bufnr)
-    end)
-  end,
-  desc = "Vertical split buffer from tabline",
-}
+-- for barbar.nvim
+local map = vim.api.nvim_set_keymap
+local opts = { noremap = true, silent = true }
 
--- Navigate tabs
-maps.n["]t"] = { function() vim.cmd.tabnext() end, desc = "Next tab" }
-maps.n["[t"] = { function() vim.cmd.tabprevious() end, desc = "Previous tab" }
+-- Move to previous/next
+-- map('n', '<q-,>', '<Cmd>BufferPrevious<CR>', opts)
+-- map('n', '<q-.>', '<Cmd>BufferNext<CR>', opts)
+-- -- Re-order to previous/next
+-- map('n', '<q-<>', '<Cmd>BufferMovePrevious<CR>', opts)
+-- map('n', '<q->>', '<Cmd>BufferMoveNext<CR>', opts)
+-- qoto buffer in position...
+map('n', '<space>1', '<Cmd>BufferGoto 1<CR>', opts)
+map('n', '<space>2', '<Cmd>BufferGoto 2<CR>', opts)
+map('n', '<space>3', '<Cmd>BufferGoto 3<CR>', opts)
+map('n', '<space>4', '<Cmd>BufferGoto 4<CR>', opts)
+map('n', '<space>5', '<Cmd>BufferGoto 5<CR>', opts)
+map('n', '<space>6', '<Cmd>BufferGoto 6<CR>', opts)
+map('n', '<space>7', '<Cmd>BufferGoto 7<CR>', opts)
+map('n', '<space>8', '<Cmd>BufferGoto 8<CR>', opts)
+map('n', '<space>9', '<Cmd>BufferGoto 9<CR>', opts)
+map('n', '<space>0', '<Cmd>BufferLast<CR>', opts)
+-- Pin/unpin buffer
+map('n', '<q-p>', '<Cmd>BufferPin<CR>', opts)
+-- Close buffer
+map('n', '<q-c>', '<Cmd>BufferClose<CR>', opts)
+-- Wipeout buffer
+--                 :BufferWipeout
+-- Close commands
+--                 :BufferCloseAllButCurrent
+--                 :BufferCloseAllButPinned
+--                 :BufferCloseAllButCurrentOrPinned
+--                 :BufferCloseBuffersLeft
+--                 :BufferCloseBuffersRight
+-- Magic buffer-picking mode
+map('n', '<C-p>', '<Cmd>BufferPick<CR>', opts)
+-- Sort automatically by...
+map('n', '<Space>bb', '<Cmd>BufferOrderByBufferNumber<CR>', opts)
+map('n', '<Space>bd', '<Cmd>BufferOrderByDirectory<CR>', opts)
+map('n', '<Space>bl', '<Cmd>BufferOrderByLanguage<CR>', opts)
+map('n', '<Space>bw', '<Cmd>BufferOrderByWindowNumber<CR>', opts)
+
+
+
 
 -- Alpha
 if is_available "alpha-nvim" then

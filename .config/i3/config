@@ -62,7 +62,7 @@ bindsym $mod+q kill
 
 # start dmenu (a program launcher)
 # bindsym $mod+d exec rofi -show run -lines 3 -eh 2 -width 100 -padding 800 -opacity "85" -bw 0 -bc "$bg-color" -bg "$bg-color" -fg "$text-color" -hlbg "$bg-color" -hlfg "#9575cd" -font "JetBrainsMono Nerd Font"
-# bindsym $mod+d exec rofi -show run 
+bindsym $mod+Shift+d exec rofi -show run 
 bindsym $mod+d exec rofi -show drun 
 # A more modern dmenu replacement is rofi:
 # bindcode $mod+40 exec "rofi -modi drun,run -show drun"
@@ -116,6 +116,9 @@ bindsym $mod+space focus mode_toggle
 
 # focus the parent container
 bindsym $mod+a focus parent
+
+# start spotify
+bindsym Mod1+Ctrl+y --no-startup-id spotify
 
 # focus the child container
 #bindsym $mod+d focus child
