@@ -50,5 +50,3 @@ color7   #c0b18b
 color15  #d8d8d8
 
 include everforest.conf
-
-enable_audio_bell no
