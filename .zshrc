@@ -127,6 +127,7 @@ alias hollow_knight="wine ~/.wine/drive_c/Program\ Files\ \(x86\)/DODI-Repacks/H
 alias push_dots="bash ~/scripts/push_dots.sh"
 alias nofetch="nofetch --flex red"
 alias fuzz="cd / && fzf"
+alias clean_coredump="fd 'julia' /var/lib/systemd/coredump/ | xargs sudo rm"
 
 # to enable some vim goodness in terminal
 set -o vi

@@ -1,9 +1,5 @@
 #!bin/bash
 
-# this is a bash script to get my nvim theme names, .zshrc and then push them to a private repo
-
-# the dream is to have this check the system time and then once in a week do the above
-
 # copy .zshrc
 cp ~/.zshrc /media/HOME/hause/significant\ things/dot_files/ && echo .zshrc was copied successfully!
 
