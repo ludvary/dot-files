@@ -15,6 +15,12 @@ rsync -avz ~/scripts /media/HOME/hause/significant\ things/dot_files && echo scr
 echo ==================================
 echo
 
+# copy zsh custom robbyrussel theme
+cp ~/.oh-my-zsh/themes/robbyrussell.zsh-theme /media/HOME/hause/significant\ things/dot_files && echo zsh theme copied successfully!!
+
+echo ==================================
+echo
+
 # copy yourself
 cp ~/scripts/push_dots.sh /media/HOME/hause/significant\ things/dot_files/ && echo push_dots.sh was copied successfully!
 

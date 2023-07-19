@@ -3,23 +3,11 @@
 -- define the statusline theme lvim is trash, default is sick
 lvim.builtin.lualine.style = "default"
 
--- to make bg transparent
-function Make_transp()
-  vim.api.nvim_set_hl(0, "Normal", { bg = "none" })
-  vim.api.nvim_set_hl(0, "NormalFloat", { bg = "none" })
-end
+-- donot highlight the line that the cursor is on
+vim.wo.cursorline = false
 
 -- to change comment color
 -- vim.cmd([[highlight Comment guifg=#677475]])
-
--- to make bg transparent
-function Make_transp()
-  vim.api.nvim_set_hl(0, "Normal", { bg = "none" })
-  vim.api.nvim_set_hl(0, "NormalFloat", { bg = "none" })
-end
-
--- to change comment color
-vim.cmd([[highlight Comment guifg=#677475]])
 
 -- i no longer want or need line numbers, i think without line numbers is cleaner
 vim.cmd("set number!")
@@ -40,7 +28,16 @@ vim.o.tabstop = 4
 -- shiftwidth
 vim.o.shiftwidth = 4
 
+-- to make bg transparent
+function Make_transp()
+  vim.api.nvim_set_hl(0, "Normal", { bg = "none" })
+  vim.api.nvim_set_hl(0, "NormalFloat", { bg = "none" })
+end
+
+
 vim.cmd("colorscheme oxocarbon")
+
+
 
 lvim.plugins = {
   {
@@ -52,8 +49,7 @@ lvim.plugins = {
   { "tanvirtin/monokai.nvim", lazy = false },
   { "aditya-azad/candle-grey", lazy = false },
   { "neanias/everforest-nvim", priority = 1000, lazy = false},
-  { "olivercederborg/poimandres.nvim", lazy = false },
-  { "elvessousa/sobrio", lazy = false },
+  { "olivercederborg/poimandres.nvim", lazy = false }, { "elvessousa/sobrio", lazy = false },
   { "projekt0n/github-nvim-theme", lazy = false },
   { "ramojus/mellifluous.nvim", lazy = false },
   { "nyoom-engineering/oxocarbon.nvim", lazy = false},
