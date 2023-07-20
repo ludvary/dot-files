@@ -62,4 +62,5 @@ lvim.plugins = {
   { "NLKNguyen/papercolor-theme", lazy = false },
   { "bignimbus/pop-punk.vim", lazy = false },
   { "rose-pine/neovim", lazy = false },
+  { "xiyaowong/transparent.nvim", lazy = false },
 }
