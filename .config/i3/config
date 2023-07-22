@@ -167,7 +167,7 @@ bindsym $mod+Shift+9 move container to workspace $ws9
 bindsym $mod+Shift+0 move container to workspace $ws10
 
 # force certain windows to open in certain workspaces
-assign [class="Opera"] $ws8
+# assign [class="Opera"] $ws8
 # assign [class=] 
 # assign [class=] 
 

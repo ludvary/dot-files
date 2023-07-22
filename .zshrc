@@ -138,6 +138,12 @@ set -o vi
 # nerdfetch
 nerdfetch
 
+# enable tap to touch in xinput. xinput for some reason changes the id of touchpad like everytime, so i have to get it by grep.
+touchpad_id=$(xinput list | grep -i "Touchpad" | grep -o "id=[0-9]\+" | grep -o "[0-9]\+")
+xinput set-prop "$touchpad_id" "libinput Tapping Enabled" 1
+
+
+
 #to add a newline after each propmt
 # precmd() {
 #     precmd() {
