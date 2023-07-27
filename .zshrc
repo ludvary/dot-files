@@ -131,6 +131,7 @@ alias push_dots="bash ~/scripts/push_dots.sh"
 alias nofetch="nofetch --flex red"
 alias fuzz="cd / && fzf"
 alias clean_coredump="fd 'julia' /var/lib/systemd/coredump/ | xargs sudo rm"
+alias tor="~/Downloads/tars/tor-browser/start-tor-browser.desktop"
 
 # to enable some vim goodness in terminal
 set -o vi
