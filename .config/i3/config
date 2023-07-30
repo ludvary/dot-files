@@ -118,7 +118,7 @@ bindsym $mod+space focus mode_toggle
 bindsym $mod+a focus parent
 
 # start spotify
-bindsym Mod1+Ctrl+y --no-startup-id spotify
+bindsym Mod1+Ctrl+y spotify
 
 # focus the child container
 #bindsym $mod+d focus child

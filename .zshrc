@@ -153,7 +153,8 @@ xinput set-prop "$touchpad_id" "libinput Tapping Enabled" 1
 # }
 
 # PATHS
-export PATH="$HOME/scripts:$PATH"
+export PATH="$HOME/scripts:$PATH" # add scripts to the path
+export PATH="$HOME/.cargo/bin:$PATH" # add the cargo binaries to the path
 
 # for julia to use all 4 threads while multi-threading
 export JULIA_NUM_THREADS=4
