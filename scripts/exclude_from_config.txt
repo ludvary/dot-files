@@ -3,6 +3,9 @@
 .gitignore
 Code/
 google-chrome/
+menus/
+qBittorrent/
+torbrowser/
 vlc/
 FreeTube/
 discord/
