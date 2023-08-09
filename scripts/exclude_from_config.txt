@@ -1,7 +1,7 @@
 .git
 .github
 .gitignore
-$HOME/.config/Unknown\ Organization
+$HOME/.config/Unknown\ Organization/
 dnfdragora.yaml
 zoom.conf
 zoomus.conf
