@@ -1,6 +1,16 @@
 .git
 .github
 .gitignore
+'Unknown Organization/'
+dnfdragora.yaml
+zoom.conf
+zoomus.conf
+cef_user_data/
+dosbox/
+gconf/
+gnome-boxes/
+libvirt/
+procps/
 Code/
 google-chrome/
 menus/
