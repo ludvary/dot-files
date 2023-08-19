@@ -240,4 +240,5 @@ bindsym Mod1+Ctrl+s exec "~/scripts/screenie_and_xclip_clipboard.sh"
 bindsym Mod1+t exec thunar
 bindsym Mod1+d exec thunar ~/Downloads
 bindsym Mod1+s exec thunar /media/HOME/hause/significant\ things
+bindsym Mod1+b exec thunar /media/HOME/hause/significant\ things/books
 
