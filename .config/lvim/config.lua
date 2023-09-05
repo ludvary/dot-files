@@ -64,3 +64,7 @@ lvim.plugins = {
   { "rose-pine/neovim", lazy = false },
   { "xiyaowong/transparent.nvim", lazy = false },
 }
+
+-- remaps
+lvim.keys.normal_mode["|"] = ":vsplit<CR>"
+lvim.keys.normal_mode["-"] = ":split<CR>"
