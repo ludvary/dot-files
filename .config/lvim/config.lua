@@ -1,13 +1,15 @@
--- yaaay config file!
+-- yaaay config file!  :)
 
--- define the statusline theme lvim is trash, default is sick
+-- define the statusline theme, lvim is trash, default is sick
 lvim.builtin.lualine.style = "default"
 
 -- donot highlight the line that the cursor is on
 vim.wo.cursorline = false
 
+
 -- to change comment color
 -- vim.cmd([[highlight Comment guifg=#677475]])
+
 
 -- i no longer want or need line numbers, i think without line numbers is cleaner
 vim.cmd("set number!")
@@ -35,10 +37,6 @@ function Make_transp()
 end
 
 
-vim.cmd("colorscheme oxocarbon")
-
-
-
 lvim.plugins = {
   {
     "JuliaEditorSupport/julia-vim", lazy = false
@@ -64,6 +62,11 @@ lvim.plugins = {
   { "rose-pine/neovim", lazy = false },
   { "xiyaowong/transparent.nvim", lazy = false },
 }
+
+
+-- colorscheme at launch
+vim.cmd("colorscheme oxocarbon")
+
 
 -- remaps
 lvim.keys.normal_mode["|"] = ":vsplit<CR>"
