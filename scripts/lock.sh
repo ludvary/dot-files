@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 rm /tmp/*.png
 icon="$HOME/scripts/lock.png"
