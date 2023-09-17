@@ -228,7 +228,7 @@ bindsym Ctrl+Shift+p exec --no-startup-id /bin/bash ~/.config/polybar/polybar_la
 default_border pixel 0
 
 gaps inner 9
-gaps outer 10
+gaps outer 7
 
 # lock the screen
 bindsym Mod1+Ctrl+Return exec ~/scripts/lock.sh
