@@ -131,6 +131,7 @@ alias push_dots="bash ~/scripts/push_dots.sh"
 alias nofetch="nofetch --flex red"
 alias fuzz="cd / && fzf"
 alias clean_coredump="fd 'julia' /var/lib/systemd/coredump/ | xargs sudo rm"
+alias neofetch_win="neofetch --ascii_distro windows"
 
 alias ssh_lab="ssh admin3@192.168.8.22"
 alias ssh_lab_tonmoi="ssh admin3@192.168.8.44"
