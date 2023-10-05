@@ -3,6 +3,7 @@
 .gitignore
 $HOME/.config/Unknown\ Organization/
 dnfdragora.yaml
+balena-etcher
 zoom.conf
 zoomus.conf
 cef_user_data/
