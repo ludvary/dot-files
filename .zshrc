@@ -116,12 +116,12 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 alias minecraft="java -jar ~/Downloads/mine/TLauncher-2.885.jar && exit"
-alias nvim="/home/ludvary-Fomalhaut/.local/bin/lvim"
+alias nvim="/home/$HOME/.local/bin/lvim"
 alias vim=nvim
-alias sig_things="cd /media/HOME/hause/significant\ things/"
-alias Geet="cd /media/HOME/hause/significant\ things/Git\ Projects"
-alias Julia="cd /media/HOME/hause/significant\ things/code/Julia"
-alias Python="cd /media/HOME/hause/significant\ things/code/mostly_py"
+alias sig_things="cd /$HOME/HOME/hause/significant\ things/"
+alias Geet="cd /$HOME/HOME/hause/significant\ things/Git\ Projects"
+alias Julia="cd /$HOME/HOME/hause/significant\ things/code/Julia"
+alias Python="cd /$HOME/HOME/hause/significant\ things/code/mostly_py"
 #alias elitist_choice="sig_things && vim"
 alias elitist_choice="sig_things && /home/ludvary-Fomalhaut/.local/bin/lvim"
 #alias update="sudo apt update && sudo apt upgrade -y && exit"
