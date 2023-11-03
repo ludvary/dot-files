@@ -1,0 +1,26 @@
+   20  11/2/2023 23:36  curl -fsSL https://install.julialang.org | sh
+   24  11/2/2023 23:39  sudo dnf install git pip npm cargo node
+   25  11/2/2023 23:39  sudo dnf install cargo
+   44  11/2/2023 23:43  LV_BRANCH='release-1.3/neovim-0.9' bash <(curl -s https://raw.githubusercontent.com/LunarVim/LunarVim/release-1.3/neovim-0.9/utils/installer/install.sh)
+   46  11/2/2023 23:45  sudo dnf install rofi
+   53  11/2/2023 23:51  sudo dnf install xclip
+   97  11/3/2023 08:37  sudo dnf install sqlite
+  148  11/3/2023 08:52  sudo dnf install liberation-fonts
+  188  11/3/2023 11:02  sudo dnf install python3-pip
+  191  11/3/2023 11:11  sudo dnf install lxappearence
+  195  11/3/2023 11:29  sudo dnf install gpick
+  201  11/3/2023 11:29  pip install matplotlib
+  202  11/3/2023 11:30  pip install Tk
+  362  11/3/2023 12:26  sudo dnf install bottom
+  378  11/3/2023 12:34  sudo dnf install telegram-desktop
+  385  11/3/2023 12:36  sudo dnf install snap
+  387  11/3/2023 12:37  sudo dnf install snapd
+  388  11/3/2023 12:37  sudo snap install telegram
+  389  11/3/2023 12:37  snap install telegram
+  390  11/3/2023 12:37  sudo snap install telegram
+  393  11/3/2023 12:38  sudo snap install telegram-desktop
+  414  11/3/2023 13:25  sudo dnf groupinstall "Development Tools"
+  415  11/3/2023 13:25  sudo dnf install python3-devel\n
+  416  11/3/2023 13:27  sudo dnf install gcc
+  458  11/3/2023 13:36  sudo dnf install zathura
+  596  11/3/2023 17:29  sudo dnf install fish
