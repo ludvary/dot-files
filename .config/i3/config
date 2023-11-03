@@ -226,6 +226,7 @@ bindsym Ctrl+Shift+p exec --no-startup-id /bin/bash ~/.config/polybar/polybar_la
 
 # window border
 default_border pixel 0
+default_floating_border pixel 0
 
 gaps inner 9
 gaps outer 7
@@ -242,6 +243,6 @@ bindsym Mod1+Ctrl+s exec "~/scripts/screenie_and_xclip_clipboard.sh"
 # open thunar
 bindsym Mod1+t exec thunar
 bindsym Mod1+d exec thunar ~/Downloads
-bindsym Mod1+s exec thunar /media/HOME/hause/significant\ things
-bindsym Mod1+b exec thunar /media/HOME/hause/significant\ things/books
+bindsym Mod1+s exec thunar ~/hause/significant\ things
+bindsym Mod1+b exec thunar ~/hause/significant\ things/books
 
