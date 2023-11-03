@@ -19,8 +19,7 @@ ZSH_THEME="robbyrussell"
 # set neovim as the manpager
 # export MANPAGER="nvim -c 'set ft=nam' -"
 
-# set bat as manpager
-# export MANPAGER="sh -c 'col -bx | bat -l man -p'"
+# set bat as manpager export MANPAGER="sh -c 'col -bx | bat -l man -p'"
 
 
 # Set list of themes to pick from when loading at random
@@ -111,17 +110,16 @@ source $ZSH/oh-my-zsh.sh
 # users are encouraged to define aliases within the ZSH_CUSTOM folder.
 # For a full list of active aliases, run `alias`.
 #
-# Example aliases
-# alias zshconfig="mate ~/.zshrc"
+# Example aliases alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 alias minecraft="java -jar ~/Downloads/mine/TLauncher-2.885.jar && exit"
 alias nvim="$HOME/.local/bin/lvim"
 alias vim=nvim
-alias sig_things="cd /media/HOME/hause/significant\ things/"
-alias Geet="cd /media/HOME/hause/significant\ things/Git\ Projects"
-alias Julia="cd /media/HOME/hause/significant\ things/code/Julia"
-alias Python="cd /media/HOME/hause/significant\ things/code/mostly_py"
+alias sig_things="cd $HOME/hause/significant\ things/"
+alias Geet="cd $HOME/hause/significant\ things/Git\ Projects"
+alias Julia="cd $HOME/hause/significant\ things/code/Julia"
+alias Python="cd $HOME/hause/significant\ things/code/mostly_py"
 alias elitist_choice="sig_things && vim"
 #alias elitist_choice="sig_things && $HOME/.local/bin/lvim"
 #alias update="sudo apt update && sudo apt upgrade -y && exit"
@@ -162,16 +160,17 @@ xinput set-prop "$touchpad_id" "libinput Tapping Enabled" 1
 # PATHS
 export PATH="$HOME/scripts:$PATH" # add scripts to the path
 export PATH="$HOME/.cargo/bin:$PATH" # add the cargo binaries to the path
+export PATH="$HOME/.juliaup/bin":$PATH
 
 # for julia to use all 4 threads while multi-threading
-export JULIA_NUM_THREADS=4
+export JULIA_NUM_THREADS=16
 
 
 # >>> juliaup initialize >>>
 
 # !! Contents within this block are managed by juliaup !!
 
-path=('/home/ludvary-Fomalhaut/.juliaup/bin' $path)
+path=('$HOME/.juliaup/bin' $path)
 export PATH
 
 # <<< juliaup initialize <<<
