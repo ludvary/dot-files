@@ -1,6 +1,7 @@
 .git
 .github
 .gitignore
+sealert.conf
 $HOME/.config/Unknown\ Organization/
 dnfdragora.yaml
 balena-etcher
