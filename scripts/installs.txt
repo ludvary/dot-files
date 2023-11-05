@@ -57,3 +57,8 @@
  1159  11/5/2023 10:25  sudo dnf install texlive-collection-fontsrecommended-10:svn54074-65.fc38.noarch
  1166  11/5/2023 10:26  echo > installs.txt
  1167  11/5/2023 10:26  cat installs.txt
+ 1169  11/5/2023 10:26  history | grep install > installs.txt
+ 1170  11/5/2023 10:26  bat installs.txt
+ 1194  11/5/2023 10:57  sudo dnf install texlive-multirow
+ 1201  11/5/2023 10:59  history | grep install > installs.txt
+ 1202  11/5/2023 10:59  echo > installs.txt

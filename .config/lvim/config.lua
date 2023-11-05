@@ -41,7 +41,7 @@ end
 vim.g.gruvbox_material_background = 'hard'
 
 -- set the pdf reader for vim latex
-vim.g.vimtex_view_general_viewer = 'zathura'
+vim.g.vimtex_view_general_viewer = 'okular'
 
 
 
