@@ -217,13 +217,13 @@ exec_always picom
  exec_always ~/scripts/lock.sh
 
 # kill picom
-bindsym $mod+p exec "pkill picom"
+bindsym Mod1+p exec "pkill picom"
 
 #launch polybar
 exec --no-startup-id /bin/bash ~/.config/polybar/polybar_launch.sh
 
 # restart polybar
-bindsym Ctrl+Shift+p exec --no-startup-id /bin/bash ~/.config/polybar/polybar_launch.sh
+bindsym Mod1+Shift+p exec --no-startup-id /bin/bash ~/.config/polybar/polybar_launch.sh
 
 # window border
 default_border pixel 0

@@ -1,0 +1,37 @@
+[General]
+LastUsedVersion=210800
+
+[MainWindow]
+1920x1080 screen: Height=1022
+1920x1080 screen: Width=940
+1920x1080 screen: XPosition=964
+1920x1080 screen: YPosition=42
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAA6wAAAP+AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP=eDP
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/misc/marathon pics/Marathan 2023/DSC_0476.JPG
+File10[$e]=$HOME/Downloads/misc/marathon pics/Marathan 2023/DSC_0485.JPG
+File2[$e]=$HOME/Downloads/misc/marathon pics/Marathan 2023/DSC_0478.JPG
+File3[$e]=$HOME/Downloads/misc/marathon pics/Marathan 2023/DSC_0477.JPG
+File4[$e]=$HOME/Downloads/misc/marathon pics/Marathan 2023/DSC_0480.JPG
+File5[$e]=$HOME/Downloads/misc/marathon pics/Marathan 2023/DSC_0479.JPG
+File6[$e]=$HOME/Downloads/misc/marathon pics/Marathan 2023/DSC_0481.JPG
+File7[$e]=$HOME/Downloads/misc/marathon pics/Marathan 2023/DSC_0482.JPG
+File8[$e]=$HOME/Downloads/misc/marathon pics/Marathan 2023/DSC_0483.JPG
+File9[$e]=$HOME/Downloads/misc/marathon pics/Marathan 2023/DSC_0484.JPG
+Name1[$e]=DSC_0476.JPG
+Name10[$e]=DSC_0485.JPG
+Name2[$e]=DSC_0478.JPG
+Name3[$e]=DSC_0477.JPG
+Name4[$e]=DSC_0480.JPG
+Name5[$e]=DSC_0479.JPG
+Name6[$e]=DSC_0481.JPG
+Name7[$e]=DSC_0482.JPG
+Name8[$e]=DSC_0483.JPG
+Name9[$e]=DSC_0484.JPG
+
+[SideBar]
+InformationSplitterSizes=206,247

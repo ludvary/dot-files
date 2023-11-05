@@ -37,11 +37,17 @@ function Make_transp()
 end
 
 
+-- Set the background variable for gruvbox_material
+vim.g.gruvbox_material_background = 'hard'
+
+-- set the pdf reader for vim latex
+vim.g.vimtex_view_general_viewer = 'zathura'
+
+
+
 lvim.plugins = {
-  {
-    "JuliaEditorSupport/julia-vim", lazy = false
-  },
-  { "ellisonleao/gruvbox.nvim", priority = 1000, palette_overriders = { dark0_hard = "#1d2021" } },
+    {"JuliaEditorSupport/julia-vim", lazy = false},
+    --{ "ellisonleao/gruvbox.nvim", priority = 1000, palette_overriders = { dark0_hard = "#1d2021" } },
   { "rebelot/kanagawa.nvim", lazy = false},
   { "shatur/neovim-ayu", lazy = false },
   { "tanvirtin/monokai.nvim", lazy = false },
@@ -56,16 +62,18 @@ lvim.plugins = {
   { "kadekillary/skull-vim", lazy = false },
   { "chriskempson/base16-vim", lazy = false },
   { "kvrohit/rasmus.nvim", lazy = false },
-  { "morhetz/gruvbox", lazy = false },
   { "NLKNguyen/papercolor-theme", lazy = false },
   { "bignimbus/pop-punk.vim", lazy = false },
   { "rose-pine/neovim", lazy = false },
   { "xiyaowong/transparent.nvim", lazy = false },
+{"sainnhe/gruvbox-material", lazy = false},
+{"eddyekofo94/gruvbox-flat.nvim", lazy = false},
+{"lervag/vimtex", lazy = false},
 }
 
 
 -- colorscheme at launch
-vim.cmd("colorscheme oxocarbon")
+vim.cmd("colorscheme gruvbox-material")
 
 
 -- remaps

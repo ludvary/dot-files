@@ -1,13 +1,23 @@
    20  11/2/2023 23:36  curl -fsSL https://install.julialang.org | sh
    24  11/2/2023 23:39  sudo dnf install git pip npm cargo node
    25  11/2/2023 23:39  sudo dnf install cargo
+   40  11/2/2023 23:43  LV_BRANCH='release-1.3/neovim-0.9' bash <(curl -s https://raw.githubusercontent.com/LunarVim/LunarVim/release-1.3/neovim-0.9/utils/installer/install.sh)
    44  11/2/2023 23:43  LV_BRANCH='release-1.3/neovim-0.9' bash <(curl -s https://raw.githubusercontent.com/LunarVim/LunarVim/release-1.3/neovim-0.9/utils/installer/install.sh)
    46  11/2/2023 23:45  sudo dnf install rofi
    53  11/2/2023 23:51  sudo dnf install xclip
+   55  11/2/2023 23:52  history | grep install
+   58  11/2/2023 23:53  history | grep install
+   61  11/2/2023 23:53  history | grep install
+   75  11/2/2023 23:56  curl -fsSL https://install.julialang.org | sh
    97  11/3/2023 08:37  sudo dnf install sqlite
+  101  11/3/2023 08:41  sudo dnf install i3lock
   148  11/3/2023 08:52  sudo dnf install liberation-fonts
+  170  11/3/2023 10:59  history | grep install
   188  11/3/2023 11:02  sudo dnf install python3-pip
+  189  11/3/2023 11:09  sudo dnf install lx-appearance
+  190  11/3/2023 11:09  sudo dnf install lx-appearence
   191  11/3/2023 11:11  sudo dnf install lxappearence
+  192  11/3/2023 11:11  sudo dnf install lxappearance\n
   195  11/3/2023 11:29  sudo dnf install gpick
   201  11/3/2023 11:29  pip install matplotlib
   202  11/3/2023 11:30  pip install Tk
@@ -24,3 +34,26 @@
   416  11/3/2023 13:27  sudo dnf install gcc
   458  11/3/2023 13:36  sudo dnf install zathura
   596  11/3/2023 17:29  sudo dnf install fish
+  618  11/3/2023 17:46  history | grep install
+  619  11/3/2023 17:47  history | grep install > installs.txt
+  620  11/3/2023 17:47  cat installs.txt
+  621  11/3/2023 17:47  vim installs.txt
+  622  11/3/2023 17:48  mv installs.txt scripts
+  754  11/3/2023 19:12  sudo dnf install java-latest-openjdk.x86_64
+  782  11/3/2023 19:31  ./penguinfox-installer.sh
+  856  11/3/2023 20:37  sudo dnf install bat
+  943  11/4/2023 10:38  sudo dnf reinstall gcc
+ 1071  11/4/2023 18:38  sudo dnf install gwenview\n
+ 1122  11/5/2023 09:33  sudo dnf install texlive-full
+ 1124  11/5/2023 09:34  sudo dnf install texlive-latex
+ 1128  11/5/2023 09:44  sudo dnf install okular
+ 1140  11/5/2023 10:11  sudo dnf install latexmk
+ 1146  11/5/2023 10:13  sudo dnf install cm-super
+ 1147  11/5/2023 10:14  sudo dnf install texlive-fonts-tlwg-10:svn60817-65.fc38.noarch
+ 1154  11/5/2023 10:19  sudo dnf install texlive-fonts-churchslavonic-10:svn56350-65.fc38.noarch
+ 1155  11/5/2023 10:20  sudo dnf install texlive-fonts-*
+ 1156  11/5/2023 10:20  sudo dnf install texlive-fontsetup-10:svn62477-65.fc38.noarch
+ 1158  11/5/2023 10:21  sudo dnf install texlive-fontspec-doc-10:svn63386-65.fc38.noarch
+ 1159  11/5/2023 10:25  sudo dnf install texlive-collection-fontsrecommended-10:svn54074-65.fc38.noarch
+ 1166  11/5/2023 10:26  echo > installs.txt
+ 1167  11/5/2023 10:26  cat installs.txt
