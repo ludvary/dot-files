@@ -1,6 +1,9 @@
 .git
 .github
 .gitignore
+Mousepad
+trashrc
+gwenviewrc
 sealert.conf
 $HOME/.config/Unknown\ Organization/
 dnfdragora.yaml
