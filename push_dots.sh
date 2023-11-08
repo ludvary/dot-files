@@ -27,6 +27,9 @@ cp ~/scripts/push_dots.sh $HOME/hause/significant\ things/dot_files/ && echo pus
 echo ==================================
 echo
 
+# rm -rf Prospect mail
+cd $HOME/hause/significant\ things/dot_files/.config/ && rm -rf Prospect\ Mail
+
 # go to dir
 cd $HOME/hause/significant\ things/dot_files/
 
