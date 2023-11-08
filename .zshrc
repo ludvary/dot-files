@@ -8,9 +8,7 @@ export ZSH="$HOME/.oh-my-zsh"
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
-
-#ZSH_THEME="agnoster"
-# ZSH_THEME="gnzh"
+#ZSH_THEME="agnoster" ZSH_THEME="gnzh"
 # ZSH_THEME="lambda"
 # ZSH_THEME="nicoulaj"
 #ZSH_THEME="norm"  # this is suprisiingly good!
@@ -142,7 +140,11 @@ alias ssh_main_lab="ssh admin3@192.168.8.26"
 set -o vi
 
 # nerdfetch
-nerdfetch
+# nerdfetch
+
+# neofetch
+neofetch
+
 
 # store more commands in history
 export HISTSIZE=100000

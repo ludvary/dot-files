@@ -44,7 +44,6 @@ Windscribe/
 autostart/
 gedit/
 gtk-3.0/
-neofetch/
 okularrc
 pulse/
 user-dirs.dirs
