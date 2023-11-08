@@ -5,7 +5,7 @@ Mousepad
 trashrc
 fontconfig/
 font-manager/
-"Prospect Mail"
+Prospect\ Mail/
 protonmail
 gwenviewrc
 sealert.conf
