@@ -64,3 +64,5 @@
  1202  11/5/2023 10:59  echo > installs.txt
 sudo dnf copr enable jerrycasiano/FontManager
 sudo dnf install font-manager
+sudo dnf install flameshot
+sudo dnf install xkill
