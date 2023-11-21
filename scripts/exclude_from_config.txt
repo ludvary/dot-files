@@ -4,6 +4,7 @@
 Mousepad
 trashrc
 fontconfig/
+flameshot/
 font-manager/
 Prospect\ Mail/
 protonmail
