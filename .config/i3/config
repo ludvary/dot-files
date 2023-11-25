@@ -1,6 +1,7 @@
 set $mod Mod4
 
-font JetBrainsMono Nerd Font 11
+# font JetBrainsMono Nerd Font 11
+font pango:FiraCode Nerd Font 11px
 
 exec --no-startup-id dex --autostart --environment i3
 
