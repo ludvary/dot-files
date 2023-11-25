@@ -91,11 +91,11 @@ default_border pixel 4
 default_floating_border pixel 4
 
 # class                 border  backgr. text    indicator child_border
-client.focused          #899CA1 #70946B #ffffff #70946B #899CA1
-client.focused_inactive #899CA1 #70946B #ffffff #70946B #899CA1
-client.unfocused        #899CA1 #70946B #888888 #70946B #899CA1
-client.urgent           #899CA1 #70946B #ffffff #70946B #899CA1
-client.placeholder      #899CA1 #70946B #ffffff #70946B #899CA1
+client.focused          #70946B #70946B #ffffff #70946B #70946B
+client.focused_inactive #70946B #70946B #ffffff #70946B #70946B
+client.unfocused        #70946B #70946B #888888 #70946B #70946B
+client.urgent           #70946B #70946B #ffffff #70946B #70946B
+client.placeholder      #70946B #70946B #ffffff #70946B #70946B
 
 client.background       #ffffff
 
