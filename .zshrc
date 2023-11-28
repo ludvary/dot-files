@@ -1,10 +1,11 @@
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
 
-#ZSH_THEME="agnoster" ZSH_THEME="gnzh"
+# ZSH_THEME="agnoster" 
+# ZSH_THEME="gnzh"
 # ZSH_THEME="lambda"
 # ZSH_THEME="nicoulaj"
-#ZSH_THEME="norm"  # this is suprisiingly good!
+# ZSH_THEME="norm"  # this is suprisiingly good!
 ZSH_THEME="robbyrussell"
 
 # set neovim as the manpager
