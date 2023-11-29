@@ -66,3 +66,7 @@ sudo dnf copr enable jerrycasiano/FontManager
 sudo dnf install font-manager
 sudo dnf install flameshot
 sudo dnf install xkill
+sudo dnf install qbittorrent
+sudo dnf install wine
+sudo dnf install gparted
+sudo dnf instal gnome-boxes
