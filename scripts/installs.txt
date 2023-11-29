@@ -71,3 +71,4 @@ sudo dnf install wine
 sudo dnf install gparted
 sudo dnf instal gnome-boxes
 sudo dnf install neovim
+sudo dnf install scrot
