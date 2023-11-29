@@ -34,4 +34,4 @@ cd $HOME/hause/significant\ things/dot_files/.config/ && rm -rf Prospect\ Mail
 cd $HOME/hause/significant\ things/dot_files/
 
 # do git stuff
-git add . && git commit -m"added stuff" && git push
+git add . && git commit -m"add stuff" && git push
