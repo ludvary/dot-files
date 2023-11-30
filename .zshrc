@@ -46,6 +46,7 @@ alias neofetch_win="neofetch --ascii_distro windows"
 alias hollow_knight="wine ~/.wine/drive_c/Program\ Files\ \(x86\)/DODI-Repacks/Hollow\ Knight/hollow_knight.exe && exit"
 alias minecraft="java -jar ~/Downloads/mine/TLauncher-2.885.jar && exit"
 alias fuzz="cd / && fzf"
+alias spotify="$HOME/scripts/spotify.sh"
 # alias tor="~/Downloads/tars/tor-browser/Browser/start-tor-browser --detach"
 
 # dirs
