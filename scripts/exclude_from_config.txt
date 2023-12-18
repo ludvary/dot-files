@@ -1,7 +1,8 @@
 .git
 .github
 .gitignore
-Mousepad
+Mousepad/
+GIMP/
 goa-1.0
 trashrc
 fontconfig/
