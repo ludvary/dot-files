@@ -75,4 +75,4 @@ sudo dnf install scrot
 sudo dnf install fzf
 sudo dnf install texlive-makecell
 sudo dnf install texlive-minted
-
+sudo dnf install exa
