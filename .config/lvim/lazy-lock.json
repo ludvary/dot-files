@@ -30,6 +30,7 @@
   "neodev.nvim": { "branch": "main", "commit": "0043cf91c18aeac8db5765eb86c6078e17ac9325" },
   "neovim": { "branch": "main", "commit": "92762f4fa2144c05db760ea254f4c399a56a7ef5" },
   "neovim-ayu": { "branch": "master", "commit": "76dbf939b38e03ac5f9bd711ab3e434999f715c8" },
+  "night-owl.nvim": { "branch": "main", "commit": "5106bb2d420bb4c6867cd577f9413de039052275" },
   "nlsp-settings.nvim": { "branch": "main", "commit": "32aa12da328258f2dccb15d327c26a8d21d9f4bd" },
   "noirblaze-vim": { "branch": "master", "commit": "cd1ed81abe0d6fbfd7b41e58e3c8028fca1de14c" },
   "null-ls.nvim": { "branch": "main", "commit": "33b853a3933eed3137cd055aac4e539e69832ad0" },

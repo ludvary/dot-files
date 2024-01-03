@@ -69,6 +69,7 @@ lvim.plugins = {
 {"sainnhe/gruvbox-material", lazy = false},
 {"eddyekofo94/gruvbox-flat.nvim", lazy = false},
 {"lervag/vimtex", lazy = false},
+{"oxfist/night-owl.nvim", lazy = false},
 }
 
 

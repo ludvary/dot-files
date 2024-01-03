@@ -9,3 +9,4 @@ ProgressMeter
 PyCall
 PyPlot
 SpecialFunctions
+Distributed

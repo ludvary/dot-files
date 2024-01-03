@@ -1,0 +1,685 @@
+{
+	"file_history":
+	[
+		"/home/Fornax/hause/significant things/code/Julia/random_walk/prob_vs_distance_1d.jl",
+		"/home/Fornax/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+		"/home/Fornax/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+		"/home/Fornax/.config/sublime-text/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/Fornax/.config/sublime-text/Packages/User/Default (Linux).sublime-keymap",
+		"/home/Fornax/.config/sublime-text/Packages/User/JSON.sublime-settings",
+		"/home/Fornax/.config/sublime-text/Packages/Default/Distraction Free.sublime-settings",
+		"/home/Fornax/.config/sublime-text/Packages/User/Distraction Free.sublime-settings"
+	],
+	"folder_history":
+	[
+	],
+	"last_version": 4169,
+	"last_window_id": 5,
+	"log_indexing": false,
+	"next_update_check": 1704349236,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 1014.0,
+		"new_window_maximized": false,
+		"new_window_position":
+		[
+			20.0,
+			46.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 178.0,
+				"history":
+				[
+					"clear",
+					"exit()",
+					"exit",
+					"clear"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/Fornax/hause/significant things/code/lab/sem2_complab/practice/adaptive_integration_method.py",
+				"/home/Fornax/hause/significant things/code/Julia/random_walk/prob_vs_distance_1d.jl",
+				"/home/Fornax/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+				"/home/Fornax/.config/sublime-text/Packages/Default/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 174.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1880.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/Fornax/hause/significant things/code/lab/sem2_complab/practice/adaptive_integration_method.py",
+					"settings":
+					{
+						"buffer_size": 1071,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							5,
+							2,
+							"toggle_comment",
+							{
+								"block": false
+							},
+							"AgAAABwEAAAAAAAAHAQAAAAAAAACAAAAIyAcBAAAAAAAAB4EAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAvBAAAAAAAAC8EAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							6,
+							1,
+							"insert",
+							{
+								"characters": "k"
+							},
+							"AQAAAC8EAAAAAAAAMAQAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAvBAAAAAAAAC8EAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							7,
+							1,
+							"left_delete",
+							null,
+							"AQAAAC8EAAAAAAAALwQAAAAAAAABAAAAaw",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAwBAAAAAAAADAEAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							9,
+							1,
+							"toggle_comment",
+							{
+								"block": false
+							},
+							"AQAAAAQEAAAAAAAABAQAAAAAAAACAAAAIyA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAXBAAAAAAAABcEAAAAAAAAAAAAAACgb0A"
+						],
+						[
+							10,
+							1,
+							"toggle_comment",
+							{
+								"block": false
+							},
+							"AQAAAAQEAAAAAAAABgQAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAVBAAAAAAAABUEAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							11,
+							1,
+							"toggle_comment",
+							{
+								"block": true
+							},
+							"AQAAAAQEAAAAAAAABAQAAAAAAAACAAAAIyA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAXBAAAAAAAABcEAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							1,
+							1,
+							"swap_line_up",
+							null,
+							"AgAAAAAEAAAAAAAAAAQAAAAAAAAWAAAAICAgIHByaW50KGludGVncmFsXzEpCu8DAAAAAAAABQQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAFQQAAAAAAAAVBAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							2,
+							1,
+							"swap_line_down",
+							null,
+							"AgAAABYEAAAAAAAALAQAAAAAAAAAAAAA7wMAAAAAAADvAwAAAAAAABYAAAAgICAgcHJpbnQoaW50ZWdyYWxfMSkK",
+							"AQAAAAAAAAABAAAABAQAAAAAAAAEBAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							10,
+							1,
+							"swap_line_up",
+							null,
+							"AgAAAAAEAAAAAAAAAAQAAAAAAAAWAAAAICAgIHByaW50KGludGVncmFsXzEpCu8DAAAAAAAABQQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAFQQAAAAAAAAVBAAAAAAAAAAAAAAA4GxA"
+						],
+						[
+							11,
+							1,
+							"swap_line_down",
+							null,
+							"AgAAABYEAAAAAAAALAQAAAAAAAAAAAAA7wMAAAAAAADvAwAAAAAAABYAAAAgICAgcHJpbnQoaW50ZWdyYWxfMSkK",
+							"AQAAAAAAAAABAAAABAQAAAAAAAAEBAAAAAAAAAAAAAAA4GxA"
+						],
+						[
+							12,
+							1,
+							"toggle_comment",
+							{
+								"block": false
+							},
+							"AQAAAAQEAAAAAAAABgQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAFQQAAAAAAAAVBAAAAAAAAAAAAAAA4GxA"
+						],
+						[
+							17,
+							1,
+							"insert",
+							{
+								"characters": "teri"
+							},
+							"BAAAAJ4DAAAAAAAAnwMAAAAAAAAAAAAAnwMAAAAAAACgAwAAAAAAAAAAAACgAwAAAAAAAKEDAAAAAAAAAAAAAKEDAAAAAAAAogMAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAngMAAAAAAACeAwAAAAAAAAAAAAAAoG9A"
+						],
+						[
+							18,
+							4,
+							"left_delete",
+							null,
+							"BAAAAKEDAAAAAAAAoQMAAAAAAAABAAAAaaADAAAAAAAAoAMAAAAAAAABAAAAcp8DAAAAAAAAnwMAAAAAAAABAAAAZZ4DAAAAAAAAngMAAAAAAAABAAAAdA",
+							"AQAAAAAAAAABAAAAogMAAAAAAACiAwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							19,
+							1,
+							"insert",
+							{
+								"characters": "teri"
+							},
+							"BAAAAJ4DAAAAAAAAnwMAAAAAAAAAAAAAnwMAAAAAAACgAwAAAAAAAAAAAACgAwAAAAAAAKEDAAAAAAAAAAAAAKEDAAAAAAAAogMAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAngMAAAAAAACeAwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							20,
+							1,
+							"delete_word",
+							{
+								"forward": false
+							},
+							"AQAAAJ4DAAAAAAAAngMAAAAAAAAEAAAAdGVyaQ",
+							"AQAAAAAAAAABAAAAogMAAAAAAACiAwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							21,
+							1,
+							"reindent",
+							null,
+							"AQAAAJ4DAAAAAAAAogMAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAngMAAAAAAACeAwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							22,
+							1,
+							"insert",
+							{
+								"characters": "teri"
+							},
+							"BAAAAKIDAAAAAAAAowMAAAAAAAAAAAAAowMAAAAAAACkAwAAAAAAAAAAAACkAwAAAAAAAKUDAAAAAAAAAAAAAKUDAAAAAAAApgMAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAogMAAAAAAACiAwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							23,
+							1,
+							"insert_completion",
+							{
+								"completion": "trapezoidal",
+								"format": "text",
+								"keep_prefix": false,
+								"must_insert": false,
+								"trigger": "trapezoidal"
+							},
+							"AgAAAKIDAAAAAAAAogMAAAAAAAAEAAAAdGVyaaIDAAAAAAAArQMAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAApgMAAAAAAACmAwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							24,
+							1,
+							"delete_word",
+							{
+								"forward": false
+							},
+							"AQAAAKIDAAAAAAAAogMAAAAAAAALAAAAdHJhcGV6b2lkYWw",
+							"AQAAAAAAAAABAAAArQMAAAAAAACtAwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							27,
+							1,
+							"toggle_comment",
+							{
+								"block": false
+							},
+							"AQAAAPcDAAAAAAAA9wMAAAAAAAACAAAAIyA",
+							"AQAAAAAAAAABAAAAAwQAAAAAAAADBAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							29,
+							1,
+							"toggle_comment",
+							{
+								"block": false
+							},
+							"AQAAAAYEAAAAAAAABgQAAAAAAAACAAAAIyA",
+							"AQAAAAAAAAABAAAAEAQAAAAAAAAQBAAAAAAAAAAAAAAAQGNA"
+						],
+						[
+							30,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AgAAAA4EAAAAAAAADwQAAAAAAAAAAAAAngMAAAAAAACeAwAAAAAAAAQAAAAgICAg",
+							"AQAAAAAAAAABAAAADgQAAAAAAAAOBAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							31,
+							1,
+							"left_delete",
+							null,
+							"AQAAAAoEAAAAAAAACgQAAAAAAAABAAAAIA",
+							"AQAAAAAAAAABAAAACwQAAAAAAAALBAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							32,
+							1,
+							"toggle_comment",
+							{
+								"block": false
+							},
+							"AQAAAAIEAAAAAAAABAQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAACgQAAAAAAAAKBAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							34,
+							1,
+							"toggle_comment",
+							{
+								"block": false
+							},
+							"AQAAAPMDAAAAAAAA9QMAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA/QMAAAAAAAD9AwAAAAAAAAAAAAAAQGNA"
+						],
+						[
+							35,
+							1,
+							"toggle_comment",
+							{
+								"block": false
+							},
+							"AQAAAPMDAAAAAAAA8wMAAAAAAAACAAAAIyA",
+							"AQAAAAAAAAABAAAA/wMAAAAAAAD/AwAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				}
+			],
+			"build_system": "Packages/Python/Python.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 178.0,
+				"history":
+				[
+					"clear",
+					"exit()",
+					"exit",
+					"clear"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/Fornax/hause/significant things/code/Julia/random_walk/prob_vs_distance_1d.jl",
+				"/home/Fornax/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+				"/home/Fornax/.config/sublime-text/Packages/Default/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/Fornax/hause/significant things/code/lab/sem2_complab/practice/adaptive_integration_method.py",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1071,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1021,
+										1021
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 174.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,16,42,1896,1056,1920,1080,3",
+			"project": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 2,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
