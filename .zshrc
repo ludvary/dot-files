@@ -103,12 +103,5 @@ export PATH="$HOME/.local/bin":$PATH
 # for julia to use all threads while multi-threading
 export JULIA_NUM_THREADS=16
 
-# >>> juliaup initialize >>>
 
-# !! Contents within this block are managed by juliaup !!
-
-path=('$HOME/.juliaup/bin' $path)  # idk but writing this doesnt work hence i exported the path manaually above.
-export PATH
-
-# <<< juliaup initialize <<<
 
