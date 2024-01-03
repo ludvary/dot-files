@@ -2,6 +2,7 @@
 .github
 .gitignore
 Mousepad/
+sublime-text/
 fish/
 GIMP/
 goa-1.0
