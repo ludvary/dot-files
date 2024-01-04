@@ -62,6 +62,7 @@ alias update="sudo dnf update && sudo dnf upgrade -y && exit"
 alias push_dots="bash ~/scripts/push_dots.sh"
 alias clean_coredump="fd 'julia' /var/lib/systemd/coredump/ | xargs sudo rm"
 alias sus="$HOME/scripts/lock.sh && systemctl suspend"
+alias rxfetch="$HOME/scripts/rxfetch/rxfetch"
 
 # ssh
 alias ssh_lab="ssh admin3@192.168.8.31"
