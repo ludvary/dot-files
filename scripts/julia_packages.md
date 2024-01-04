@@ -10,3 +10,7 @@ PyCall
 PyPlot
 SpecialFunctions
 Distributed
+# these are for sublime text{
+    ZMQ
+    IJulia
+}
