@@ -1,6 +1,10 @@
 .git
 .github
 .gitignore
+Min/
+okular.kmessagebox
+xdg-terminals.list
+VirtualBox/
 Mousepad/
 sublime-text/
 fish/

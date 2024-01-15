@@ -1,5 +1,0 @@
-2024/01/14-12:11:51.276 c3dbc Creating DB /home/Fornax/.config/Min/Partitions/webcontent/Local Storage/leveldb since it was missing.
-2024/01/14-12:11:51.280 c3dbc Reusing MANIFEST /home/Fornax/.config/Min/Partitions/webcontent/Local Storage/leveldb/MANIFEST-000001
-2024/01/14-12:15:20.375 c3dbd Level-0 table #5: started
-2024/01/14-12:15:20.384 c3dbd Level-0 table #5: 40373 bytes OK
-2024/01/14-12:15:20.386 c3dbd Delete type=0 #3
