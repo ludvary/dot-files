@@ -1,7 +1,7 @@
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
 
-# ZSH_THEME="agnoster" 
+# ZSH_THEME="agnoster"
 # ZSH_THEME="gnzh"
 # ZSH_THEME="lambda"
 # ZSH_THEME="nicoulaj"
@@ -10,7 +10,7 @@ ZSH_THEME="robbyrussell"
 
 # set neovim as the manpager
 # export MANPAGER="nvim -c 'set ft=nam' -"
-# set bat as manpager 
+# set bat as manpager
 # export MANPAGER="sh -c 'col -bx | bat -l man -p'"
 
 
@@ -62,6 +62,7 @@ alias update="sudo dnf update && sudo dnf upgrade -y && exit"
 alias push_dots="bash ~/scripts/push_dots.sh"
 alias clean_coredump="fd 'julia' /var/lib/systemd/coredump/ | xargs sudo rm"
 alias sus="$HOME/scripts/lock.sh && systemctl suspend"
+alias hib="$HOME/scripts/lock.sh && systemctl hibernate"
 alias rxfetch="$HOME/scripts/rxfetch/rxfetch"
 
 # ssh
@@ -99,10 +100,25 @@ xinput set-prop "$touchpad_id" "libinput Tapping Enabled" 1
 export PATH="$HOME/scripts:$PATH"       # add scripts to the path
 export PATH="$HOME/.cargo/bin:$PATH"    # add the cargo binaries to the path
 export PATH="$HOME/.juliaup/bin":$PATH  # had to do this manaually idk
-export PATH="$HOME/.local/bin":$PATH    
+export PATH="$HOME/.local/bin":$PATH
+export PATH="$HOME/Downloads/misc/fullprof":$PATH
 
 # for julia to use all threads while multi-threading
 export JULIA_NUM_THREADS=16
 
 
 
+# ### FullProf Suite ###
+# FULLPROF=/home/Fornax/Downloads/misc/fullprof
+# PATH=$FULLPROF:$PATH
+# export PATH FULLPROF
+# ######################
+# ### FullProf Suite ###
+# FULLPROF=/home/Fornax/Downloads/misc/fullprof
+# PATH=$FULLPROF:$PATH
+# export PATH FULLPROF
+# ######################
+# ### FullProf Suite ###
+FULLPROF=/home/Fornax/Downloads/misc/fullprof
+PATH=$FULLPROF:$PATH
+export PATH FULLPROF

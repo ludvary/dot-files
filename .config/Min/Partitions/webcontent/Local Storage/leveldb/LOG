@@ -1,0 +1,6 @@
+2024/01/15-20:42:48.491 c5f63 Reusing MANIFEST /home/Fornax/.config/Min/Partitions/webcontent/Local Storage/leveldb/MANIFEST-000001
+2024/01/15-20:42:48.491 c5f63 Recovering log #4
+2024/01/15-20:42:48.492 c5f63 Reusing old log /home/Fornax/.config/Min/Partitions/webcontent/Local Storage/leveldb/000004.log 
+2024/01/15-20:44:54.247 c5f63 Level-0 table #8: started
+2024/01/15-20:44:54.251 c5f63 Level-0 table #8: 17423 bytes OK
+2024/01/15-20:44:54.253 c5f63 Delete type=0 #4
