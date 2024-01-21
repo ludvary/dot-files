@@ -75,6 +75,10 @@ alias ssh_main_lab="ssh admin3@192.168.8.26"
 # to enable some vim goodness in terminal
 set -o vi
 
+# start wal and bring back previous colorscheme
+(cat ~/.cache/wal/sequences &)
+source ~/.cache/wal/colors-tty.sh
+
 # nerdfetch
 # nerdfetch
 
