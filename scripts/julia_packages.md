@@ -10,6 +10,7 @@ PyCall
 PyPlot
 SpecialFunctions
 Distributed
+DifferentialEquations
 # these are for sublime text{
     ZMQ
     IJulia
