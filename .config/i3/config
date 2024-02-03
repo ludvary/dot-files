@@ -164,7 +164,7 @@ bindsym $mod+r mode "resize"
 # launch nitrogen and restore previous wallpaper
 exec_always nitrogen --restore
 
-# launch the power-manager at startup
+# launch the xfce4-power-manager at startup
 exec --no-startup-id xfce4-power-manager
 
 # launch picom
