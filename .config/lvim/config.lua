@@ -74,8 +74,9 @@ lvim.plugins = {
 
 
 -- colorscheme at launch
-vim.cmd("color gruvbox-material")
-vim.cmd("color paper")
+-- vim.cmd("color gruvbox-material")
+-- vim.cmd("color paper")
+lvim.colorscheme = "gruvbox-material"
 
 
 -- remaps
