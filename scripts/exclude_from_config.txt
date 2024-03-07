@@ -4,6 +4,9 @@
 Min/
 okular.kmessagebox
 xdg-terminals.list
+kdeconnect/
+smassh/
+BraveSoftware/
 VirtualBox/
 Mousepad/
 sublime-text/
