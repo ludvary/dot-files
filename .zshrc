@@ -57,6 +57,7 @@ alias sig_things="cd $HOME/hause/significant\ things/"
 alias Geet="cd $HOME/hause/significant\ things/Git\ Projects"
 alias Julia="cd $HOME/hause/significant\ things/code/Julia"
 alias Python="cd $HOME/hause/significant\ things/code/mostly_py"
+alias summer="cd $HOME/hause/significant\ things/code/summer_proj_2024"
 
 # qol
 alias update="sudo dnf update && sudo dnf upgrade -y && exit"
@@ -67,9 +68,9 @@ alias hib="$HOME/scripts/lock.sh && systemctl hibernate"
 alias rxfetch="$HOME/scripts/rxfetch/rxfetch"
 
 # ssh
-alias ssh_lab="ssh admin3@192.168.8.31"
-alias ssh_lab_tonmoi="ssh admin3@192.168.8.44"
+alias ssh_lab="ssh admin3@192.168.8.31" # pass ccms@admin
 alias ssh_main_lab="ssh admin3@192.168.8.26"
+# alias temp_station = 
 
 
 # to enable some vim goodness in terminal
