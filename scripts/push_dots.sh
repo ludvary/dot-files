@@ -16,7 +16,9 @@ echo ==================================
 echo
 
 # copy zsh custom robbyrussel theme
-cp ~/.oh-my-zsh/themes/robbyrussell.zsh-theme $HOME/hause/significant\ things/dot_files && echo zsh theme copied successfully!!
+cp ~/.oh-my-zsh/themes/robbyrussell.zsh-theme $HOME/hause/significant\ things/dot_files && echo robbyrussell zsh theme copied successfully!!
+
+cp ~/.oh-my-zsh/themes/dieter.zsh-theme $HOME/hause/significant\ things/dot_files && echo dieter zsh theme copied successfully!!
 
 echo ==================================
 echo

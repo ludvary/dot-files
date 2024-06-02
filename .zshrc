@@ -1,12 +1,28 @@
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
 
+#ZSH_THEME=random
+
 # ZSH_THEME="agnoster"
 # ZSH_THEME="gnzh"
 # ZSH_THEME="lambda"
 # ZSH_THEME="nicoulaj"
 # ZSH_THEME="norm"  # this is suprisiingly good!
-ZSH_THEME="robbyrussell"
+#ZSH_THEME="robbyrussell"
+# ZSH_THEME="sunrise"
+#ZSH_THEME="af-magic" # nice af
+#ZSH_THEME="minimal"
+#ZSH_THEME="arrow" # nice af but messes up ls
+
+
+# all of these show times
+#ZSH_THEME="tjkirch"
+#ZSH_THEME="tonotdo"
+# ZSH_THEME="bureau" # nice
+#ZSH_THEME="clean" # nice
+ZSH_THEME="dieter"
+# ZSH_THEME="crunch" # nice
+
 
 # set neovim as the manpager
 # export MANPAGER="nvim -c 'set ft=nam' -"
@@ -38,8 +54,8 @@ source $ZSH/oh-my-zsh.sh
 # ALIASES
 
 # apps
-alias nvim="$HOME/.local/bin/lvim"
-alias vim=nvim
+alias vi="$HOME/.local/bin/lvim"
+alias nvim=vi
 alias elitist_choice="sig_things && vim"
 alias nofetch="nofetch --flex red"
 alias neofetch_win="neofetch --ascii_distro windows"
