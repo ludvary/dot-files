@@ -45,7 +45,8 @@ HIST_STAMPS="mm/dd/yyyy"
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(git
     zsh-syntax-highlighting
-zsh-autosuggestions)
+zsh-autosuggestions
+web-search)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -54,14 +55,15 @@ source $ZSH/oh-my-zsh.sh
 # ALIASES
 
 # apps
-alias vi="$HOME/.local/bin/lvim"
-alias nvim=vi
-alias elitist_choice="sig_things && vim"
+# alias vi="$HOME/.local/bin/lvim"
+alias nvim="$HOME/.local/bin/lvim"
+# alias nvim=vi
+alias elitist_choice="sig_things && nvim"
 alias nofetch="nofetch --flex red"
 alias neofetch_win="neofetch --ascii_distro windows"
 alias hollow_knight="wine ~/.wine/drive_c/Program\ Files\ \(x86\)/DODI-Repacks/Hollow\ Knight/hollow_knight.exe && exit"
 # alias minecraft="java -jar ~/Downloads/mine/TLauncher-2.885.jar && exit"
-alias minecraft="java -jar ~/Downloads/mine/SKlauncher-3.2.2.jar && exit"
+alias minecraft="java -jar ~/SKlauncher-3.2.8.jar && exit"
 alias fuzz="cd / && fzf"
 alias ls="eza --icons"
 alias ll="eza --long --no-filesize --no-user --time-style=long-iso --icons"
@@ -86,15 +88,15 @@ alias rxfetch="$HOME/scripts/rxfetch/rxfetch"
 # ssh
 alias ssh_lab="ssh admin3@192.168.8.31" # pass ccms@admin
 alias ssh_main_lab="ssh admin3@192.168.8.26"
-# alias temp_station = 
+alias temp_station_lab="ssh -X SMSM@192.168.33.125" # pass : caliber123
 
 
 # to enable some vim goodness in terminal
 set -o vi
 
 # # start wal and bring back previous colorscheme
-# (cat ~/.cache/wal/sequences &)
-# source ~/.cache/wal/colors-tty.sh
+(cat ~/.cache/wal/sequences &)
+source ~/.cache/wal/colors-tty.sh
 
 # nerdfetch
 # nerdfetch

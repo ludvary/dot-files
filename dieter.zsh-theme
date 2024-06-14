@@ -12,7 +12,7 @@ typeset -g -A host_repr
 host_repr=('dieter-ws-a7n8x-arch' "%{$fg_bold[green]%}ws" 'dieter-p4sci-arch' "%{$fg_bold[blue]%}p4")
 
 # local time, color coded by last return code
-time_enabled="%(?.%{$fg[white]%}.%{$fg[red]%})%*%{$reset_color%}"
+time_enabled="%(?.%{$fg[green]%}.%{$fg[red]%})%T%{$reset_color%}"
 time_disabled="%{$fg[white]%}%*%{$reset_color%}"
 time=$time_enabled
 
@@ -24,11 +24,13 @@ local user="%(!.%{$fg[yellow]%}.%{$fg[yellow]%})%n%{$reset_color%}"
 # local host="@${host_repr[$HOST]:-$HOST}%{$reset_color%}"
 
 # Compacted $PWD
-local pwd="%{$fg[yellow]%}%c%{$reset_color%}"
+local pwd="%{$fg[yellow]%}%2c%{$reset_color%}"
+# local pwd="%{$fg[yellow]%}%2c"
 
 # PROMPT='${time} ${user}${host} ${pwd} $(git_prompt_info)'
 # PROMPT='${user} in ${pwd} at ${time} '
-PROMPT=' ${pwd} at ${time} '
+# PROMPT=' ${pwd} at ${time} '
+PROMPT=' ${pwd} '
 
 # i would prefer 1 icon that shows the "most drastic" deviation from HEAD,
 # but lets see how this works out
@@ -42,7 +44,7 @@ return_code_enabled="%(?..%{$fg[red]%}%? ↵%{$reset_color%})"
 return_code_disabled=
 return_code=$return_code_enabled
 
-RPS1='${return_code}'
+RPS1='${return_code}  ${time}'
 
 function accept-line-or-clear-warning () {
 	if [[ -z $BUFFER ]]; then

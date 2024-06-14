@@ -1,0 +1,2 @@
+opt flags to use in bug-free f90 code
+gfortran -fPIC -O3 -march=native -ffast-math -funroll-loops -o exec_name file_name.f90
