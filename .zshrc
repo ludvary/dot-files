@@ -84,11 +84,18 @@ alias clean_coredump="fd 'julia' /var/lib/systemd/coredump/ | xargs sudo rm"
 alias sus="$HOME/scripts/lock.sh && systemctl suspend"
 alias hib="$HOME/scripts/lock.sh && systemctl hibernate"
 alias rxfetch="$HOME/scripts/rxfetch/rxfetch"
+alias auto_click="$HOME/scripts/auto_click.sh"
 
 # ssh
 alias ssh_lab="ssh admin3@192.168.8.31" # pass ccms@admin
 alias ssh_main_lab="ssh admin3@192.168.8.26"
 alias temp_station_lab="ssh -X SMSM@192.168.33.125" # pass : caliber123
+alias cluster_beta="ssh -X krishna@192.168.35.162" # pass : appasionata
+# alias cluster_beta="ssh -X beta@192.168.35.162"
+
+# help
+alias print_cluster_beta_ip="echo 192.168.35.162"
+alias print_tmp_station_ip="echo 192.168.33.125"
 
 
 # to enable some vim goodness in terminal
@@ -101,8 +108,7 @@ source ~/.cache/wal/colors-tty.sh
 # nerdfetch
 # nerdfetch
 
-# neofetch
-neofetch
+neofetch --ascii .config/neofetch/ghost.ascii
 
 
 # store more commands in history
