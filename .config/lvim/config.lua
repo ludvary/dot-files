@@ -39,16 +39,8 @@ end
 
 -- Set the background variable for gruvbox_material
 vim.g.gruvbox_material_background = 'hard'
+-- vim.g.gruvbox_material_foreground = 'original'
 
--- Set gruvbox-flat contrast and options
-vim.g.gruvbox_bold = '1'
-vim.g.gruvbox_underline = '1'
-vim.g.gruvbox_undercurl = '1'
-vim.g.gruvbox_termcolor = '256'
-vim.g.gruvbox_contrast_dark = 'hard'
-vim.g.gruvbox_italicize_comments = '1'
-vim.g.gruvbox_italicize_strings = '1'
-vim.g.gruvbox_invert_indent_guides = '1'
 
 -- set the pdf reader for vim latex
 vim.g.vimtex_view_general_viewer = 'okular'
