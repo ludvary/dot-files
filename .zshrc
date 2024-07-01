@@ -69,6 +69,8 @@ alias ls="eza --icons"
 alias ll="eza --long --no-filesize --no-user --time-style=long-iso --icons"
 # alias spotify="$HOME/scripts/spotify.sh"
 # alias tor="~/Downloads/tars/tor-browser/Browser/start-tor-browser --detach"
+alias rip="rip --graveyard $HOME/graveyard"
+alias purge_graveyard="rm -rf $HOME/graveyard/*"
 
 # dirs
 alias sig_things="cd $HOME/hause/significant\ things/"
@@ -91,6 +93,7 @@ alias ssh_lab="ssh admin3@192.168.8.31" # pass ccms@admin
 alias ssh_main_lab="ssh admin3@192.168.8.26"
 alias temp_station_lab="ssh -X SMSM@192.168.33.125" # pass : caliber123
 alias cluster_beta="ssh -X krishna@192.168.35.162" # pass : appasionata
+alias my_pc="ssh -X krishna@192.168.33.35"         # pass : appasionata
 # alias cluster_beta="ssh -X beta@192.168.35.162"
 
 # help
