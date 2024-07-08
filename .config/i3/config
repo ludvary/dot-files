@@ -172,6 +172,7 @@ exec_always picom
 
 # lock the screen whenever i3 loads
 exec_always ~/scripts/lock.sh
+exec_always systemctl restart sshd
 
 # kill picom
 bindsym Mod1+p exec "pkill picom"

@@ -30,6 +30,10 @@ vim.o.tabstop = 4
 -- shiftwidth
 vim.o.shiftwidth = 4
 
+-- get rid of ugly indentlines
+-- vim.cmd("IndentBlanklineDisable")
+lvim.builtin.indentlines.active=false
+
 -- to make bg transparent
 function Make_transp()
   vim.api.nvim_set_hl(0, "Normal", { bg = "none" })
@@ -48,8 +52,7 @@ vim.g.vimtex_view_general_viewer = 'okular'
 
 
 lvim.plugins = {
-    {"JuliaEditorSupport/julia-vim", lazy = false},
-    --{ "ellisonleao/gruvbox.nvim", priority = 1000, palette_overriders = { dark0_hard = "#1d2021" } },
+  {"JuliaEditorSupport/julia-vim", lazy = false},
   { "rebelot/kanagawa.nvim", lazy = false},
   { "shatur/neovim-ayu", lazy = false },
   { "tanvirtin/monokai.nvim", lazy = false },
@@ -68,12 +71,16 @@ lvim.plugins = {
   { "bignimbus/pop-punk.vim", lazy = false },
   { "rose-pine/neovim", lazy = false },
   { "xiyaowong/transparent.nvim", lazy = false },
--- {"sainnhe/gruvbox-material", lazy = false},
--- {"eddyekofo94/gruvbox-flat.nvim", lazy = false},
-{"lervag/vimtex", lazy = false},
-{"oxfist/night-owl.nvim", lazy = false},
--- {"morhetz/gruvbox", lazy=false},
-{"ludvary/sainnhe_gruvbox_brighter", lazy=false},
+  {"lervag/vimtex", lazy = false},
+  {"oxfist/night-owl.nvim", lazy = false},
+  {"cranberry-clockworks/coal.nvim", lazy = false},
+  {"nikolvs/vim-sunbather", lazy = false},
+  {"widatama/vim-phoenix", lazy = false},
+  {"ntk148v/komau.vim", lazy = false},
+  {"ludvary/photon.vim", lazy = false},
+  {"ludvary/sainnhe_gruvbox_brighter", lazy=false},
+  -- {"axvr/photon.vim", lazy = false},
+  -- {"morhetz/gruvbox", lazy=false},
 }
 
 

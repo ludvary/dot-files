@@ -14,7 +14,6 @@ export ZSH="$HOME/.oh-my-zsh"
 #ZSH_THEME="minimal"
 #ZSH_THEME="arrow" # nice af but messes up ls
 
-
 # all of these show times
 #ZSH_THEME="tjkirch"
 #ZSH_THEME="tonotdo"
@@ -87,19 +86,13 @@ alias sus="$HOME/scripts/lock.sh && systemctl suspend"
 alias hib="$HOME/scripts/lock.sh && systemctl hibernate"
 alias rxfetch="$HOME/scripts/rxfetch/rxfetch"
 alias auto_click="$HOME/scripts/auto_click.sh"
+alias clean_graveyard="rm -rf $HOME/graveyard/*"
 
 # ssh
 alias ssh_lab="ssh admin3@192.168.8.31" # pass ccms@admin
 alias ssh_main_lab="ssh admin3@192.168.8.26"
-alias temp_station_lab="ssh -X SMSM@192.168.33.125" # pass : caliber123
-alias cluster_beta="ssh -X krishna@192.168.35.162" # pass : appasionata
-alias my_pc="ssh -X krishna@192.168.33.35"         # pass : appasionata
-# alias cluster_beta="ssh -X beta@192.168.35.162"
-
-# help
-alias print_cluster_beta_ip="echo 192.168.35.162"
-alias print_tmp_station_ip="echo 192.168.33.125"
-
+alias cluster_beta="ssh -X krishna@192.168.35.162" # pass : 23rd
+alias my_pc="ssh -X krishna@192.168.33.35"         # pass : 23rd
 
 # to enable some vim goodness in terminal
 set -o vi
@@ -107,11 +100,14 @@ set -o vi
 # # start wal and bring back previous colorscheme
 (cat ~/.cache/wal/sequences &)
 source ~/.cache/wal/colors-tty.sh
+source /opt/intel/oneapi/setvars.sh > /dev/null 2>&1
+# source /opt/intel/opeapi/mpi/latest/env/vars.sh 
 
 # nerdfetch
 # nerdfetch
 
 neofetch --ascii .config/neofetch/ghost.ascii
+# systemctl restart sshd
 
 
 # store more commands in history
@@ -135,6 +131,11 @@ export PATH="$HOME/.cargo/bin:$PATH"    # add the cargo binaries to the path
 export PATH="$HOME/.juliaup/bin":$PATH  # had to do this manaually idk
 export PATH="$HOME/.local/bin":$PATH
 export PATH="$HOME/Downloads/misc/fullprof":$PATH
+
+
+export PATH=/usr/lib64/openmpi/bin:$PATH
+export LD_LIBRARY_PATH=/usr/lib64/openmpi/lib:$LD_LIBRARY_PATH
+export MANPATH=/usr/share/openmpi/man:$MANPATH
 
 # for julia to use all threads while multi-threading
 export JULIA_NUM_THREADS=16
