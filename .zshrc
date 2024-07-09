@@ -100,14 +100,14 @@ set -o vi
 # # start wal and bring back previous colorscheme
 (cat ~/.cache/wal/sequences &)
 source ~/.cache/wal/colors-tty.sh
-source /opt/intel/oneapi/setvars.sh > /dev/null 2>&1
-# source /opt/intel/opeapi/mpi/latest/env/vars.sh 
+# source /opt/intel/oneapi/setvars.sh > /dev/null 2>&1
+source $HOME/intel/oneapi/setvars.sh > /dev/null 2>&1
 
 # nerdfetch
 # nerdfetch
 
 neofetch --ascii .config/neofetch/ghost.ascii
-# systemctl restart sshd
+sudo systemctl restart sshd
 
 
 # store more commands in history
