@@ -1,13 +1,16 @@
 #!/bin/bash
 
-sudo dnf install --allowerasing zsh git pip npm cargo rofi xclip sqlite i3lock liberation-fonts python3-pip lxappearance gpick bottom telegram-desktop snapd python3-devel gcc zathura fish java-latest-openjdk.x86_64 bat gwenview neovim texlive-latex okular latexmk texlive-fonts-tlwg-10:svn60817-65.fc38.noarch texlive-fonts-churchslavonic-10:svn56350-65.fc38.noarch texlive-fontsetup-10:svn62477-65.fc38.noarch texlive-fontspec-doc-10:svn63386-65.fc38.noarch texlive-collection-fontsrecommended-10:svn54074-65.fc38.noarch texlive-multirow font-manager flameshot xkill wine gparted scrot fzf texlive-makecell texlive-minted zoxide eza go simplescreenrecorder texlive-wrapfig gvfs-mtp xdotool lapack lapack-devel gcc-gfortran kernel-tools && cargo install toipe rm-improved && go install -v github.com/alpkeskin/mosint/v3/cmd/mosint@latest && pip install pywal && pip install --user colorz
-
-mkdir $HOME/graveyard
-
-git clone git@github.com:ludvary/dot-files.git
-
-sudo dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$\(rpm -E %fedora).noarch.rpm
+sudo timedatectl set-timezone Asia/Kolkata
 
 sudo dnf copr enable atim/bottom -y
 sudo dnf copr enable jerrycasiano/FontManager
+
+sudo dnf install --allowerasing ranger nitrogen xinput zsh git pip npm cargo rofi xclip sqlite i3lock liberation-fonts python3-pip lxappearance xinput gpick snapd python3-devel gcc zathura fish java-latest-openjdk.x86_64 bat gwenview neovim texlive-latex okular latexmk texlive-multirow flameshot xkill wine gparted scrot fzf texlive-makecell texlive-minted zoxide eza go texlive-wrapfig gvfs-mtp xdotool lapack lapack-devel gcc-gfortran kernel-tools && cargo install toipe rm-improved && go install -v github.com/alpkeskin/mosint/v3/cmd/mosint@latest && pip install pywal && pip install --user colorz
+
+mkdir $HOME/graveyard
+
+#git clone git@github.com:ludvary/dot-files.git
+
+sudo dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$\(rpm -E %fedora).noarch.rpm
+
 sudo dnf copr enable trixieua/jp2a

@@ -169,7 +169,7 @@ local greetHeading = {
 
 local quote = "First, solve the problem. Then, write the code."
 
-local quoteAuthor = "John Johnson"
+local quoteAuthor = "Mahamta Gandhi (probably, maybe)"
 local fullQuote = quote .. "\n \n                  - " .. quoteAuthor
 
 local fortune = {

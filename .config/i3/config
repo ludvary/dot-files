@@ -170,6 +170,9 @@ exec --no-startup-id xfce4-power-manager
 # launch picom
 exec_always picom
 
+# # launch network manager
+# exec_always nm-applet
+
 # lock the screen whenever i3 loads
 exec_always ~/scripts/lock.sh
 exec_always systemctl restart sshd
@@ -189,6 +192,7 @@ bindsym Mod1+Shift+p exec --no-startup-id /bin/bash ~/.config/polybar/polybar_la
 # gaps
 gaps inner 6
 gaps outer 3
+gaps top 35
 
 # lock the screen
 bindsym Mod1+Ctrl+Return exec ~/scripts/lock.sh

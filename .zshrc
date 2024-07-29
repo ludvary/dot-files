@@ -44,8 +44,7 @@ HIST_STAMPS="mm/dd/yyyy"
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(git
     zsh-syntax-highlighting
-zsh-autosuggestions
-web-search)
+    zsh-autosuggestions)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -98,8 +97,9 @@ alias my_pc="ssh -X krishna@192.168.33.35"         # pass : 23rd
 set -o vi
 
 # # start wal and bring back previous colorscheme
-(cat ~/.cache/wal/sequences &)
-source ~/.cache/wal/colors-tty.sh
+# (cat ~/.cache/wal/sequences &)
+# source ~/.cache/wal/colors-tty.sh
+
 # source /opt/intel/oneapi/setvars.sh > /dev/null 2>&1
 source $HOME/intel/oneapi/setvars.sh > /dev/null 2>&1
 
@@ -156,3 +156,4 @@ export JULIA_NUM_THREADS=16
 FULLPROF=/home/Fornax/Downloads/misc/fullprof
 PATH=$FULLPROF:$PATH
 export PATH FULLPROF
+# source /home/Fornax/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
