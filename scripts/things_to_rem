@@ -1,3 +1,2 @@
-opt flags to use in bug-free f90 code
 gfortran -fPIC -O3 -march=native -ffast-math -funroll-loops -o exec_name file_name.f90
-go to intel one api hpc toolkit and do instructions to get ifort 
+g++ -fsanitize=address,undefined,null -D_GLIBCXX_DEBUG -g your_code.cpp

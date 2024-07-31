@@ -108,6 +108,7 @@ source $HOME/intel/oneapi/setvars.sh > /dev/null 2>&1
 
 neofetch --ascii .config/neofetch/ghost.ascii
 sudo systemctl restart sshd
+sudo cpupower frequency-set -g performance > /dev/null
 
 
 # store more commands in history
