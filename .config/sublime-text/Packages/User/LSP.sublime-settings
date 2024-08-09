@@ -1,0 +1,14 @@
+// Settings in here override those in "LSP/LSP.sublime-settings"
+
+{
+    "clients": {
+        "fortls": {
+            "enabled": true,
+            "command": ["fortls"],
+            "scopes": ["source.fortran"],
+            "syntaxes": ["Packages/Fortran/Fortran.sublime-syntax"],
+            "languageId": "fortran"
+        }
+    }
+}
+

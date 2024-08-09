@@ -1,2 +1,3 @@
 gfortran -fPIC -O3 -march=native -ffast-math -funroll-loops -o exec_name file_name.f90
 g++ -fsanitize=address,undefined,null -D_GLIBCXX_DEBUG -g your_code.cpp
+

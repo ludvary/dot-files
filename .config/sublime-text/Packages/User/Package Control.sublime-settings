@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"gruvbox",
+		"Guna",
+		"Julia",
+		"LSP",
+		"LSP-julia",
+		"ModernFortran",
+		"NeoVintageous",
+		"Package Control",
+		"Theme - Afterglow",
+	],
+}

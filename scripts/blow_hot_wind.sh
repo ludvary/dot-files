@@ -25,6 +25,12 @@
     # also add the line to sudoers file 
     # Fornax ALL=(ALL) NOPASSWD: /usr/bin/tee /sys/devices/platform/asus-nb-wmi/hwmon/hwmon6/pwm1_enable
 #
+#
+# then to stop selinux from messing up the service do this
+# sudo setenforce 0
+# sudo ausearch -m avc -ts recent | sudo audit2allow -M my_fan_control
+# sudo semodule -i my_fan_control.pp
+# sudo semodule -i my_fan_control.pp
 ## ======================================================================= ##
 
 
@@ -53,7 +59,7 @@ while true; do
   temp=$(get_temp)
   echo "Current temperature: $temp°C"
 
-  if (( $(echo "$temp > 55" | bc -l) )); then
+  if (( $(echo "$temp > 70" | bc -l) )); then
     if [[ $current_mode -ne 0 ]]; then
       echo "Temperature exceeds 55°C, setting fan to max speed"
       set_fan_mode 0
@@ -67,5 +73,5 @@ while true; do
     fi
   fi
 
-  sleep 5
+  sleep 2
 done

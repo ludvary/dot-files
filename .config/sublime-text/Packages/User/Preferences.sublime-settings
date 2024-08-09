@@ -1,0 +1,49 @@
+{
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"color_scheme": "gruvbox (Dark) (Hard).sublime-color-scheme",
+	"font_face": "JetBrainsMono NerdFont",
+	"line_numbers": false,
+	"draw_indent_guides": false,
+	"index_files": true,
+	"theme": "Guna.sublime-theme",
+	"gn_hide_tab_dropdown": true,
+	"gn_overlay_scroll_bars": true,
+	"gn_sidebar_box": true,
+	"gn_title_bar": true,
+	/*"gnc_h13": true,*/
+	/*"gnc_m05": true,*/
+	/*"gnc_w3m11": true,*/
+	"gnwidg1": true,
+	"gnwidgo": true,
+	/*"gnc_001": true,*/
+	/*"gnc_002": false,*/
+	"font_size": 11,
+	/*"gnc_m07": true,*/
+	/*"gnc_h14": true,*/
+	/*"gnc_m05": true,*/
+	/*"gnc_w3m13": true,*/
+	/*"gnc_m06": true,*/
+	/*"gnc_001": true,*/
+	/*"gnc_h14": true,*/
+	/*"gnc_m07": true,*/
+	/*"gnc_w3m13": true,*/
+	/*"gnc_001": false,*/
+	/*"gnc_h14": true,*/
+	/*"gnc_m09": true,*/
+	/*"gnc_w3m13": true,*/
+	/*"gnc_m00": true,*/
+	/*"gnc_w3m14": true,*/
+	/*"gnc_m01": true,*/
+	/*"gnc_m02": true,*/
+	/*"gnc_m05": true,*/
+	/*"gnc_001": false,*/
+	/*"gnc_h14": true,*/
+	/*"gnc_m08": true,*/
+	/*"gnc_w3m14": true,*/
+	/*"gnc_h18": true,*/
+	/*"gnc_m07": true,*/
+	/*"gnc_w3m11": true,*/
+}

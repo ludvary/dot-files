@@ -1,0 +1,103 @@
+<html>
+<body id="guna-readme">
+    <style>
+        .title {
+            margin-left: 120px;
+            margin-bottom: 20px;
+        }
+        .texts {
+            font-size: 10pt;
+            margin-left: 20px;
+        }
+        .head3 {
+            color: #99E58A;
+            font-size: 15px;
+            font-weight: bold;
+        }
+        .code {
+            background-color: #202A33;
+            padding-left: 10px;
+        }
+    </style>
+<div class="title"><img src=res://Packages/Guna/.guna/guna-title.png width="490" height="110"></div>
+
+<div class="texts">
+
+<p>
+Guna is most innovative theme for sublime text. It supports various functions : conspicuous widgets (clock, weather) on sidebar, manually or adaptively tweakable theme colors, controlling status bar label by its own api.
+</p>
+
+<div class='head3'>Theme Activation</div>
+<p>Simply, run <strong><i>Guna</i></strong> in <strong><i>command palette</i></strong> (<i>cmd/ctrl+shift+p</i>). You don't need to edit <strong><i>theme</i></strong> and <strong><i>color_scheme</i></strong> directly in settings. I recommend that you select <strong><i>View &gt; Side Bar &gt; Hide Open Files</i></strong> for better view. When Guna removed, it automatically restores theme and color scheme as the last before activating Guna.</p>
+
+<div class='head3'>Fonts</div>
+<p>Guna uses <a href="https://dejavu-fonts.github.io/" title="Dejavu Sans"><strong>Dejavu Sans</strong></a> as default font for UI and <a href="https://fonts.google.com/specimen/Roboto" title="Roboto Family">Roboto Condensed</a> is used only for status bar. But you can change them in the theme-tweak settings as you want.
+</p>
+
+<div class='head3'>Widgets</div>
+<p>
+<strong>Clock / Date</strong> : The color of clock expresses the status of active view.<br><br>
+<img src=res://Packages/Guna/.guna/guna-status-normal.png width="0" height="0"><br>
+<img src=res://Packages/Guna/.guna/guna-status-normal.png width="96" height="26"> : Normal state<br>
+<img src=res://Packages/Guna/.guna/guna-status-dirty.png width="96" height="26"> : Dirty or scrach state<br>
+<img src=res://Packages/Guna/.guna/guna-status-reado.png width="96" height="26"> : Read only state<br>
+<img src=res://Packages/Guna/.guna/guna-status-alert.png width="96" height="26"> : Alert state (only controlled by API)<br></p>
+
+<p>
+<strong>Weather</strong> : The weather widget has been added (from v1.4.0). The widget uses <a href="https://openweathermap.org">https://openweathermap.org</a> for weather information and you can access after getting your own <a href="http://openweathermap.org/appid"><strong>AppID</strong></a>. After getting it, fill out weather settings in <strong><i>Guna.sublime-settings</i></strong>. The 1st icon means current weather, the 2nd icon means forecast in 3 hours, the 3rd icon means forecast in 6 hours. Normally, it will be updated every half an hour.
+<br><br>
+<img src=res://Packages/Guna/.guna/guna-weather.png width="399" height="148"><br>
+</p>
+
+<div class='head3'>Adaptive Theme</div>
+<p>
+Guna automatically tweaks theme colors to match selected other color-scheme. Basically, by matching background color, Guna can be combined with other color-schemes, like Monokai, Mariana, Ayu, ... In order to override colors and font faces, use <strong><i>Preferences > Package Settings > Guna > Dark (Light) theme settings.</i></strong>
+</p>
+
+
+<div class='head3'>UI Scaling</div>
+<br>
+Guna supports HiDPI with ui scaling.
+<br><br>
+<div class="code">
+{<br>
+&nbsp; &nbsp; "scale": 1.5, // control sizes of buttons, file icons, tab ... <br>
+&nbsp; &nbsp; &nbsp;"widget_scale": 1.33, // control sizes of clock, weather widget ... <br>
+&nbsp; &nbsp; &nbsp;"switch_icon_scale": 1, // ccontrol the size of switch panel icon ... <br>
+}
+</div>
+<br>
+
+<div class='head3'>API</div>
+<p>You can control Guna's screen through Guna's APIs. Currently, there are two functions for displaying alert situation. If you want to see the example, simply type <strong><i>raise</i></strong> in Sublime console.
+</p>
+<p><small>(example - status bar label)</small><br>
+<img src=res://Packages/Guna/.guna/guna-alert-0.png width="629" height="34"><br><br>
+<p><small>(example - status bar background)</small><br>
+<img src=res://Packages/Guna/.guna/guna-alert-1.png width="629" height="34"><br><br>
+
+<div class="code">
+<br># API import<br><br>from Guna.core.api import GunaApi<br><br># API functions<br><br>GunaApi.alert(flag=0, onoff=False):<br> &nbsp; """<br> &nbsp; Makes the clock, status bar red for alarming<br> &nbsp; flag = GunaApi.ALERT_CLOCK | GunaApi.ALRT_STATUS_LABEL | GunaApi.ALERT_STATUS_BG<br> &nbsp; """<br><br>GunaApi.alert_message(flag=0, message='', tomeout=4, action=0):<br> &nbsp; """<br> &nbsp; Makes red with a status message in a timeout(seconds).<br> &nbsp; Within a timeout, a new message request will be ignored. (will be replaced as a queue)<br> &nbsp; action = GunaApi.FLICKER<br> &nbsp; """<br>
+</div>
+<br>
+
+<div class='head3'>File Type Icons</div>
+<p>Guna doesn't have it's own file type icons except for Verilog/Systemverilog.
+In screenshots above, <a href="https://packagecontrol.io/packages/A%20File%20Icon" title="A File Icon">A File Icon</a> is used, and recommended.</p>
+
+<div class='head3'>Donate</div>
+<p><a href="https://www.paypal.me/poucotm/2.5" title="PayPal"><img src=res://Packages/Guna/.guna/donate-paypal.png width="150" height="32"></a><br><br>
+Thank you for donating. It is helpful to continue to improve the plug-in.</p>
+
+<div class='head3'>Credits</div>
+<ul>
+<li>Icons designed by <a href="http://www.freepik.com/">Freepik</a>, <a href="https://www.flaticon.com/authors/dave-gandy">Dave Gandy</a>, <a href="https://www.flaticon.com/authors/madebyoliver">Madebyoliver</a>, <a href="https://www.flaticon.com/authors/gregor-cresnar">Gregor Cresnar</a>, <a href="https://www.flaticon.com/authors/smartline">Smartline</a>, <a href="https://www.flaticon.com/kr/authors/monkik">Monkik</a>, <a href="https://www.flaticon.com/authors/Linector">Linector</a> from <a href="https://www.flaticon.com/">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/">CC 3.0 BY</a></li>
+</ul>
+
+<div class='head3'>License</div>
+<p>Guna is licensed under a <a href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a></p>
+
+</div>
+
+</body>
+</html>

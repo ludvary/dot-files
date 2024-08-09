@@ -1,0 +1,70 @@
+{
+	/*  UI Configuration  _________________________________________
+	*/
+
+	// Select the sidebar widget [], ["clock"], ["date"], ["weather"], ["clock", "weather", "date"], ...
+	// Widget switching is possible with 'shift+esc'
+	"sidebar_widget": ["clock"],
+	"sidebar_widget_clock_mode": "24h",
+	"sidebar_widget_on_other_theme": true,
+
+	// Hide tab close button
+	"hide_tab_close": false,
+
+	// Hide tab dropdown button
+	"hide_tab_dropdown": true,
+
+	// Automatically show/hide scroll bars (Windows/Linux)
+	"overlay_scroll_bars": true,
+
+	// Scroll-bars Type
+	"scroll_bars_convex": false,
+
+	// Use selected box in sidebar
+	"sidebar_selected_box": true,
+
+	// Show/Hide sidebar heading
+	"sidebar_head": false,
+
+	// Match Title Bar Color (OSX) - set false to use native tabs
+	"title_bar_color": true,
+
+	/*  Weather : openweathermap.org  _____________________________
+	   - You have to get an APPID to get weather information
+	   - fill one of city name
+	*/
+
+	"weather": {
+		"appid": "",      // - get from http://openweathermap.org/appid
+		"city_name": "",  // - city name, country code e.g) seoul,KR
+		"geographic": {}, // - geographic coordinate (alternative) e.g) {"lat":35, "lon":139}
+		"proxy": "",      // - http proxy e.g) 10.75.97.11:8080 - if needed
+	},
+
+	/*  Guna Color Scheme _________________________________________
+	*/
+
+	// coloring
+	"guna_fgcolor": "#E5E0D3",
+	"guna_bgcolor": "#161C23", // use "#131B1F" when too bluish
+	"guna_color_saturation" : 75, // relative percentage
+	"guna_color_brightness" : 95,
+	// indent guide
+	"guna_guide": "#20272E",
+	"guna_active_guide": "#AAFF9954", // for "indent_guide_options" : "draw_active"
+	// highlight bracket (),{},[]
+	"guna_brackets_options": "foreground", // "foreground", "underline", "stippled_underline", "squiggly_underline"
+	"guna_brackets_color": "#FF0000",
+	// highlight tag <..></..>
+	"guna_tags_options": "foreground", // "foreground", "underline", "stippled_underline", "squiggly_underline"
+	"guna_tags_color": "#FF5242",
+
+	/*  etc.  _____________________________________________________
+	*/
+
+	// Switch font settings (with 'alt+pageup/down') - e.g) "font_switch": [ ["Meslo LG S DZ", 11], ["JetBrains Mono", 11], ["Cascadia Code", 12], ["Source Code Pro", 16] ]
+	"font_switch": [],
+
+	// automatically check and set 'gpu_window_buffer' as false for OSX to prevent screen flickering
+	"gpu_window_buffer_false": true
+}

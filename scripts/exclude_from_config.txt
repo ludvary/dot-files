@@ -10,7 +10,6 @@ smassh/
 BraveSoftware/
 VirtualBox/
 Mousepad/
-sublime-text/
 fish/
 GIMP/
 goa-1.0

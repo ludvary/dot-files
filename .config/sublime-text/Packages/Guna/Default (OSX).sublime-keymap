@@ -1,0 +1,8 @@
+[
+	{ "keys": ["alt+f5"], "command": "refresh_folder_list" },
+	{ "keys": ["shift+escape"], "command": "guna_switch_widget" },
+	{ "keys": ["alt+pageup"], "command": "guna_switch_font", "args": {"cmd" : "up"} },
+	{ "keys": ["alt+pagedown"], "command": "guna_switch_font", "args": {"cmd" : "down"} },
+	{ "keys": ["ctrl+alt+]"], "command": "guna_aux_cmds", "args": {"cmd" : "show_sidebar"} },
+	{ "keys": ["ctrl+alt+["], "command": "guna_aux_cmds", "args": {"cmd" : "hide_sidebar"} }
+]
