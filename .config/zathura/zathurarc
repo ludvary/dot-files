@@ -4,7 +4,7 @@ map <C-n> zoom out
 map <C-m> zoom in
 
 #clipboard
-#set selection-clipboard clipboard
+set selection-clipboard clipboard
 
 set incremental-search "true"
 set font "JetBrainsMono NF"
@@ -61,5 +61,5 @@ set render-loading-fg		      "#c9c7cd"
 set highlight-color		        "#313134"
 set highlight-fg              "#e29eca"
 set highlight-active-color	  "#e29eca"
-map i recolor
+map <C-i> recolor
 map <C-Space> toggle_statusbar

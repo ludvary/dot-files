@@ -1,0 +1,11 @@
+#!/bin/bash
+
+if [ "$#" -ne 1 ]; then
+    echo "Usage: $0 throttle_level (0 -> full power) (3 -> least power)"
+    exit 1
+fi
+
+
+throttle_level="$1"
+
+echo $throttle_level | sudo tee /sys/class/thermal/cooling_device*/cur_state

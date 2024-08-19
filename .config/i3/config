@@ -203,6 +203,9 @@ bindsym Mod1+Ctrl+f exec "~/scripts/screenie_and_xclip.sh"
 # select region and take screenshot
 bindsym Mod1+Ctrl+s exec "~/scripts/screenie_and_xclip_clipboard.sh"
 
+# launch elisa
+bindsym Mod1+m exec dbus-launch --exit-with-session elisa
+
 # open thunar
 bindsym Mod1+t exec thunar
 bindsym Mod1+d exec thunar ~/Downloads

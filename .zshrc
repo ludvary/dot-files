@@ -75,7 +75,8 @@ alias sig_things="cd $HOME/hause/significant\ things/"
 alias Geet="cd $HOME/hause/significant\ things/Git\ Projects"
 alias Julia="cd $HOME/hause/significant\ things/code/Julia"
 alias Python="cd $HOME/hause/significant\ things/code/mostly_py"
-alias summer="cd $HOME/hause/significant\ things/code/summer_proj_2024"
+# alias summer="cd $HOME/hause/significant\ things/code/summer_proj_2024"
+alias Code="cd $HOME/hause/significant\ things/code"
 
 # qol
 alias update="sudo dnf update && sudo dnf upgrade -y && exit"
@@ -140,6 +141,9 @@ export MANPATH=/usr/share/openmpi/man:$MANPATH
 
 # for julia to use all threads while multi-threading
 export JULIA_NUM_THREADS=16
+
+# for mpd, i have no idea what this does
+export MPD_HOST=$HOME/.config/mpd/socket
 
 
 

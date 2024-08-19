@@ -1,0 +1,6 @@
+Aug 15 17:49 : exception: Failed to open '/home/Fornax/.config/mpd/state': No such file or directory
+Aug 15 17:49 : update: added Opeth/Heir Apparent Base Cover.mp3
+Aug 15 17:49 : exception: Failed to open '/home/Fornax/.config/mpd/state': No such file or directory
+Aug 15 17:52 : exception: Failed to open '/home/Fornax/.config/mpd/state': No such file or directory
+Aug 15 17:53 : exception: Failed to commit /home/Fornax/.config/mpd/state: File exists
+Aug 15 17:53 : exception: Failed to commit /home/Fornax/.config/mpd/state: File exists
