@@ -92,7 +92,7 @@ alias clean_graveyard="rm -rf $HOME/graveyard/*"
 alias ssh_lab="ssh admin3@192.168.8.31" # pass ccms@admin
 alias ssh_main_lab="ssh admin3@192.168.8.26"
 alias cluster_beta="ssh -X krishna@192.168.35.162" # pass : 23rd
-alias my_pc="ssh -X krishna@192.168.33.35"         # pass : 23rd
+alias my_pc="ssh -X krishna@192.168.33.150"         # pass : 23rd
 
 # to enable some vim goodness in terminal
 set -o vi
