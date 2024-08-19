@@ -3,6 +3,11 @@
 .gitignore
 Google/
 Min/
+mpd/
+kde.org/
+gtk-4.0/
+elisarc
+ncmpcpp
 okular.kmessagebox
 xdg-terminals.list
 kdeconnect/
