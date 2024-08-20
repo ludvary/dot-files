@@ -139,8 +139,10 @@ export PATH=/usr/lib64/openmpi/bin:$PATH
 export LD_LIBRARY_PATH=/usr/lib64/openmpi/lib:$LD_LIBRARY_PATH
 export MANPATH=/usr/share/openmpi/man:$MANPATH
 
-# for julia to use all threads while multi-threading
-export JULIA_NUM_THREADS=16
+# use >= threads than CPUs 
+export JULIA_NUM_THREADS=8
+export OMP_NUM_THREADS=8
+
 
 # for mpd, i have no idea what this does
 export MPD_HOST=$HOME/.config/mpd/socket
