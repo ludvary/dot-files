@@ -87,6 +87,7 @@ alias hib="$HOME/scripts/lock.sh && systemctl hibernate"
 alias rxfetch="$HOME/scripts/rxfetch/rxfetch"
 alias auto_click="$HOME/scripts/auto_click.sh"
 alias clean_graveyard="rm -rf $HOME/graveyard/*"
+alias ran=". ranger"  # cd into the path that you exit ranger
 
 # ssh
 alias ssh_lab="ssh admin3@192.168.8.31" # pass ccms@admin
