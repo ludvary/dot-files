@@ -1,0 +1,16 @@
+wcmatch-9.0.dist-info/INSTALLER,sha256=Hg_Q6w_I4zpFfb6C24LQdd4oTAMHJZDk9gtuV2yOgkw,16
+wcmatch-9.0.dist-info/METADATA,sha256=0mYXyizHZyfJOPmJVLqJIGfb8RNfwNztagz-Hdc3Gd0,4899
+wcmatch-9.0.dist-info/RECORD,,
+wcmatch-9.0.dist-info/WHEEL,sha256=1yFddiXMmvYK7QYTqtRNtX66WJ0Mz8PYEiEUoOUUxRY,87
+wcmatch-9.0.dist-info/licenses/LICENSE.md,sha256=wbW3XwSDcL660LGrBa12gwC44d7BZbAW7fq17mjPPEE,1074
+wcmatch/__init__.py,sha256=lHbGaKjH4PFd5dx_oL7T63QinuXb3PHZmAzbF6HyENU,141
+wcmatch/__meta__.py,sha256=a-9Hoezr7YJs4IkqWuakYPPDw3fJHwJehwxbvkOloFk,6766
+wcmatch/_wcmatch.py,sha256=mqR4HSc1lBJlZXpzeoZVAVNKOSlyYoE3p5VttT4sXJc,10959
+wcmatch/_wcparse.py,sha256=s6ketSgGS2_y2z2xYzhxaCuX1zdu353Fq0st3xnb-3M,56097
+wcmatch/fnmatch.py,sha256=npLhti49GuQLkOfsGY11ZT0SQdHZaiz5EcRtuiv3D8U,2997
+wcmatch/glob.py,sha256=XQXI0ZLNUFlKYVGarvgRHntEakHFKnfBBokfLbn8TBI,34721
+wcmatch/pathlib.py,sha256=e_HCnwWe3m_bLA_C0qkf_4s5myy8Fh04hRVVzFoKsOs,7551
+wcmatch/posix.py,sha256=plttF-R-Geil9nov5rc4YxKDJcUuGhY3TbxwbfHZ_0M,2792
+wcmatch/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+wcmatch/util.py,sha256=zlb_Iu0ee_5wbJEevKnGAvxpe4HD149FEeiFfT730hA,6716
+wcmatch/wcmatch.py,sha256=BQXqKzwvATDqop9HbCE1UbWDwJZJaVePGA1CUzWFeqA,10077

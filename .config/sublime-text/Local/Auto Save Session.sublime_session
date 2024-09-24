@@ -1,0 +1,737 @@
+{
+	"file_history":
+	[
+		"/home/Fornax/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+		"/home/Fornax/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+		"/home/Fornax/hause/significant things/code/Julia/faster_xy/even_faster.jl",
+		"/home/Fornax/hause/significant things/code/C++/ising_anim/ising_anim.cpp",
+		"/home/Fornax/.config/sublime-text/Packages/Default/Distraction Free.sublime-settings",
+		"/home/Fornax/.config/sublime-text/Packages/User/Distraction Free.sublime-settings",
+		"/home/Fornax/temp/untitled.f90",
+		"/home/Fornax/.config/sublime-text/Packages/LSP/LSP.sublime-settings",
+		"/home/Fornax/.config/sublime-text/Packages/User/LSP.sublime-settings",
+		"/home/Fornax/.config/sublime-text/Packages/VimModelines/VimModelines.sublime-settings",
+		"/home/Fornax/.config/sublime-text/Packages/User/VimModelines.sublime-settings",
+		"/home/Fornax/.config/sublime-text/Packages/Theme - Default/Default Dark.sublime-theme",
+		"/home/Fornax/.config/sublime-text/Packages/User/Default Dark.sublime-theme",
+		"/home/Fornax/.config/sublime-text/Packages/Package Control/Package Control.sublime-settings",
+		"/home/Fornax/.config/sublime-text/Packages/User/Package Control.sublime-settings"
+	],
+	"folder_history":
+	[
+		"/home/Fornax/hause/significant things"
+	],
+	"last_version": 4180,
+	"last_window_id": 13,
+	"log_indexing": false,
+	"next_update_check": 1726070377,
+	"settings":
+	{
+		"new_window_full_screen": true,
+		"new_window_height": 1022.0,
+		"new_window_maximized": false,
+		"new_window_position":
+		[
+			0.0,
+			0.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"settings",
+						"Preferences: Settings"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"Enable lang",
+						"LSP: Enable Language Server in Project"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"install pac",
+						"Package Control: Install Package"
+					],
+					[
+						"remoe pck",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"color scheme",
+						"UI: Select Color Scheme"
+					],
+					[
+						"color sc",
+						"UI: Select Color Scheme"
+					],
+					[
+						"install pack",
+						"Package Control: Install Package"
+					],
+					[
+						"package control ins",
+						"Package Control: Install Package"
+					],
+					[
+						"package control insta",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"package control install",
+						"Package Control: Install Package"
+					],
+					[
+						"prefe",
+						"Preferences: Settings"
+					],
+					[
+						"install pacl",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/Fornax/hause/significant things/code/LRIM/find_corr_NN/corr_2D_NN_ising.f90",
+				"/home/Fornax/hause/significant things/code/Julia/faster_xy/even_faster.jl",
+				"/home/Fornax/hause/significant things/code/C++/ising_anim/ising_anim.cpp",
+				"/home/Fornax/temp/untitled.f90"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 51.0
+			},
+			"menu_visible": false,
+			"output.Command-line":
+			{
+				"height": 145.0
+			},
+			"output.LSP Log Panel":
+			{
+				"height": 0.0
+			},
+			"output.diagnostics":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"corr_2",
+						"code/LRIM/find_corr_NN/corr_2D_NN_ising.f90"
+					],
+					[
+						"even_fater.jl",
+						"code/Julia/faster_xy/even_faster.jl"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 298.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1894.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "LRIM/find_corr_NN/corr_2D_NN_ising.f90",
+					"settings":
+					{
+						"buffer_size": 8550,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							14,
+							1,
+							"insert",
+							{
+								"characters": "plex64"
+							},
+							"BgAAAMUCAAAAAAAAxgIAAAAAAAAAAAAAxgIAAAAAAADHAgAAAAAAAAAAAADHAgAAAAAAAMgCAAAAAAAAAAAAAMgCAAAAAAAAyQIAAAAAAAAAAAAAyQIAAAAAAADKAgAAAAAAAAAAAADKAgAAAAAAAMsCAAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAMUCAAAAAAAAxQIAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							26,
+							1,
+							"sequence",
+							{
+								"commands":
+								[
+									[
+										"nv_vi_big_a",
+										{
+											"count": 1,
+											"mode": "mode_internal_normal",
+											"register": "\""
+										}
+									],
+									[
+										"insert",
+										{
+											"characters": ","
+										}
+									],
+									[
+										"insert",
+										{
+											"characters": " para"
+										}
+									],
+									[
+										"insert_completion",
+										{
+											"completion": "parameter",
+											"format": "text",
+											"keep_prefix": false,
+											"must_insert": false,
+											"trigger": "parameter"
+										}
+									],
+									[
+										"insert",
+										{
+											"characters": " ::"
+										}
+									],
+									[
+										"insert",
+										{
+											"characters": " "
+										}
+									],
+									[
+										"insert_snippet",
+										{
+											"contents": "($0)"
+										}
+									],
+									[
+										"run_macro_file",
+										{
+											"file": "res://Packages/Default/Delete Left Right.sublime-macro"
+										}
+									],
+									[
+										"insert_snippet",
+										{
+											"contents": "($0)"
+										}
+									],
+									[
+										"insert",
+										{
+											"characters": "0,"
+										}
+									],
+									[
+										"insert",
+										{
+											"characters": " 1"
+										}
+									]
+								]
+							},
+							"FAAAAMwCAAAAAAAAzQIAAAAAAAAAAAAAzQIAAAAAAADOAgAAAAAAAAAAAADOAgAAAAAAAM8CAAAAAAAAAAAAAM8CAAAAAAAA0AIAAAAAAAAAAAAA0AIAAAAAAADRAgAAAAAAAAAAAADRAgAAAAAAANICAAAAAAAAAAAAAM4CAAAAAAAAzgIAAAAAAAAEAAAAcGFyYc4CAAAAAAAA1wIAAAAAAAAAAAAA1wIAAAAAAADYAgAAAAAAAAAAAADYAgAAAAAAANkCAAAAAAAAAAAAANkCAAAAAAAA2gIAAAAAAAAAAAAA2gIAAAAAAADbAgAAAAAAAAAAAADbAgAAAAAAAN0CAAAAAAAAAAAAANsCAAAAAAAA2wIAAAAAAAABAAAAKNsCAAAAAAAA2wIAAAAAAAABAAAAKdsCAAAAAAAA3QIAAAAAAAAAAAAA3AIAAAAAAADdAgAAAAAAAAAAAADdAgAAAAAAAN4CAAAAAAAAAAAAAN4CAAAAAAAA3wIAAAAAAAAAAAAA3wIAAAAAAADgAgAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAMoCAAAAAAAAygIAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							34,
+							1,
+							"sequence",
+							{
+								"commands":
+								[
+									[
+										"nv_vi_o",
+										{
+											"count": 1,
+											"mode": "mode_internal_normal",
+											"register": "\""
+										}
+									],
+									[
+										"insert",
+										{
+											"characters": ".)"
+										}
+									],
+									[
+										"left_delete",
+										null
+									],
+									[
+										"left_delete",
+										null
+									],
+									[
+										"insert",
+										{
+											"characters": "->"
+										}
+									],
+									[
+										"left_delete",
+										null
+									],
+									[
+										"left_delete",
+										null
+									]
+								]
+							},
+							"CgAAAMEEAAAAAAAAwgQAAAAAAAAAAAAAwgQAAAAAAADGBAAAAAAAAAAAAADGBAAAAAAAAMcEAAAAAAAAAAAAAMcEAAAAAAAAyAQAAAAAAAAAAAAAxwQAAAAAAADHBAAAAAAAAAEAAAApxgQAAAAAAADGBAAAAAAAAAEAAAAuxgQAAAAAAADHBAAAAAAAAAAAAADHBAAAAAAAAMgEAAAAAAAAAAAAAMcEAAAAAAAAxwQAAAAAAAABAAAAPsYEAAAAAAAAxgQAAAAAAAABAAAALQ",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAMAEAAAAAAAAwAQAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							36,
+							1,
+							"nv_vi_dd",
+							{
+								"count": 1,
+								"mode": "mode_internal_normal",
+								"register": "\""
+							},
+							"AQAAAMIEAAAAAAAAwgQAAAAAAAAFAAAAICAgIAo",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAMUEAAAAAAAAxQQAAAAAAAAAAAAAAADwvw"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"settings",
+						"Preferences: Settings"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"Enable lang",
+						"LSP: Enable Language Server in Project"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"install pac",
+						"Package Control: Install Package"
+					],
+					[
+						"remoe pck",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"color scheme",
+						"UI: Select Color Scheme"
+					],
+					[
+						"color sc",
+						"UI: Select Color Scheme"
+					],
+					[
+						"install pack",
+						"Package Control: Install Package"
+					],
+					[
+						"package control ins",
+						"Package Control: Install Package"
+					],
+					[
+						"package control insta",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"package control install",
+						"Package Control: Install Package"
+					],
+					[
+						"prefe",
+						"Preferences: Settings"
+					],
+					[
+						"install pacl",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/Fornax/hause/significant things",
+				"/home/Fornax/hause/significant things/code",
+				"/home/Fornax/hause/significant things/code/Julia",
+				"/home/Fornax/hause/significant things/code/Julia/faster_xy"
+			],
+			"file_history":
+			[
+				"/home/Fornax/hause/significant things/code/Julia/faster_xy/even_faster.jl",
+				"/home/Fornax/hause/significant things/code/C++/ising_anim/ising_anim.cpp",
+				"/home/Fornax/temp/untitled.f90"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "LRIM/find_corr_NN/corr_2D_NN_ising.f90",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8550,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"lsp_uri": "file:///home/Fornax/hause/significant%20things/code/LRIM/find_corr_NN/corr_2D_NN_ising.f90",
+									"syntax": "Packages/ModernFortran/modern-fortran.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 226.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 51.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.Command-line":
+			{
+				"height": 145.0
+			},
+			"output.LSP Log Panel":
+			{
+				"height": 0.0
+			},
+			"output.diagnostics":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,0,0,1282,41,1903,1063,1920,1080,2",
+			"project": "code.sublime-project",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"corr_2",
+						"code/LRIM/find_corr_NN/corr_2D_NN_ising.f90"
+					],
+					[
+						"even_fater.jl",
+						"code/Julia/faster_xy/even_faster.jl"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+				"_vintageous_reset_during_init": true
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 298.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": "/home/Fornax/hause/significant things/code/code.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/Fornax/hause/significant things/code/code.sublime-workspace"
+		]
+	}
+}
