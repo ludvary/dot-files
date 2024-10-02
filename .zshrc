@@ -94,11 +94,14 @@ alias auto_click="$HOME/scripts/auto_click.sh"
 alias clean_graveyard="rm -rf $HOME/graveyard/*"
 alias ran=". ranger"  # cd into the path that you exit ranger
 
+alias double_audio="pactl load-module module-combine-sink > /tmp/pactl.txt"
+
 # ssh
 alias ssh_lab="ssh admin3@192.168.8.31" # pass ccms@admin
 alias ssh_main_lab="ssh admin3@192.168.8.26"
 alias cluster_beta="ssh -X krishna@192.168.35.162" # pass : 23rd
-alias my_pc="ssh -X krishna@192.168.33.150"         # pass : 23rd
+# alias my_pc="ssh -X krishna@192.168.33.150"         # pass : 23rd
+alias my_pc="ssh -X krishna@ 192.168.35.121"       # pass : 23rd
 
 # to enable some vim goodness in terminal
 set -o vi
@@ -127,7 +130,7 @@ touchpad_id=$(xinput list | grep -i "Touchpad" | grep -o "id=[0-9]\+" | grep -o 
 xinput set-prop "$touchpad_id" "libinput Tapping Enabled" 1
 
 # enable simultaneous audio via pavucontrol
-pactl load-module module-combine-sink > /tmp/pactl.txt
+# pactl load-module module-combine-sink > /tmp/pactl.txt
 
 #to add a newline after each propmt
 # precmd() {

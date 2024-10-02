@@ -20,7 +20,7 @@
 	"gnwidgo": true,
 	/*"gnc_001": true,*/
 	/*"gnc_002": false,*/
-	"font_size": 11,
+	"font_size": 12,
 	/*"gnc_m07": true,*/
 	/*"gnc_h14": true,*/
 	/*"gnc_m05": true,*/
@@ -52,4 +52,8 @@
 	/*"gnc_w1m12": true,*/
 	/*"gnc_m00": true,*/
 	/*"gnc_w1m13": true,*/
+	/*"gnc_001": false,*/
+	/*"gnc_h01": true,*/
+	/*"gnc_m03": true,*/
+	/*"gnc_w5m11": true,*/
 }
