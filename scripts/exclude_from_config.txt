@@ -7,14 +7,14 @@ nnn/
 Proton/
 sublime-text/
 JetBrains/
-Kingsoft;
+Kingsoft/
 emacs/
 Google/
 Min/
 mpd/
 kde.org/
 gtk-4.0/
-elisarc/
+elisarc
 ncmpcpp/
 okular.kmessagebox
 xdg-terminals.list
