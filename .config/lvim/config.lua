@@ -50,9 +50,14 @@ vim.g.gruvbox_material_background = 'hard'
 -- vim.g.vimtex_view_general_viewer = 'okular'
 vim.g.vimtex_view_general_viewer = 'zathura'
 
+--- #### vimtex stuff
+--" This is necessary for VimTeX to load properly. The "indent" is optional.
+-- " Note: Most plugin managers will do this automatically!
+--filetype plugin indent on
+
 -- toggle diagnostics
--- vim.diagnostic.enable()
-vim.diagnostic.disable()
+vim.diagnostic.enable()
+-- vim.diagnostic.disable()
 
 
 

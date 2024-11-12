@@ -61,6 +61,7 @@ source $ZSH/oh-my-zsh.sh
 # alias vi="$HOME/.local/bin/lvim"
 alias nvim="$HOME/.local/bin/lvim"
 # alias nvim=vi
+# alias eemec="cd $HOME/hause/significant\ things/ && emacs &"
 alias elitist_choice="sig_things && nvim"
 alias nofetch="nofetch --flex red"
 alias neofetch_win="neofetch --ascii_distro windows"
@@ -94,7 +95,7 @@ alias auto_click="$HOME/scripts/auto_click.sh"
 alias clean_graveyard="rm -rf $HOME/graveyard/*"
 alias ran=". ranger"  # cd into the path that you exit ranger
 
-alias double_audio="pactl load-module module-combine-sink > /tmp/pactl.txt"
+# alias double_audio="pactl load-module module-combine-sink > /tmp/pactl.txt"
 
 # ssh
 alias ssh_lab="ssh admin3@192.168.8.31" # pass ccms@admin
@@ -140,6 +141,7 @@ xinput set-prop "$touchpad_id" "libinput Tapping Enabled" 1
 # }
 
 # PATHS
+export PATH="$HOME/.config/emacs/bin/:$PATH"
 export PATH="$HOME/scripts:$PATH"       # add scripts to the path
 export PATH="$HOME/.cargo/bin:$PATH"    # add the cargo binaries to the path
 export PATH="$HOME/.juliaup/bin":$PATH  # had to do this manaually idk

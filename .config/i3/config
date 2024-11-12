@@ -186,6 +186,9 @@ exec --no-startup-id /bin/bash ~/.config/polybar/polybar_launch.sh
 # launch xkill
 bindsym --release Mod1+Ctrl+x exec xkill
 
+# launch the operating system without text editor
+bindsym Mod1+e exec "cd ~/hause/significant\ things/ && emacs"
+
 # restart polybar
 bindsym Mod1+Shift+p exec --no-startup-id /bin/bash ~/.config/polybar/polybar_launch.sh
 
