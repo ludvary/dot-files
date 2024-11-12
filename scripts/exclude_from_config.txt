@@ -1,11 +1,13 @@
 .git
 .github
 .gitignore
-sublime-text-safe-mode/
+"sublime-text-safe-mode"
+pavucontrol.ini
 btop/
 nnn/
-Proton/
-sublime-text/
+"Proton"
+btop
+"sublime-text"
 JetBrains/
 Kingsoft/
 emacs/
