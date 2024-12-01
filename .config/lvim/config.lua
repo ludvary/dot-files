@@ -104,7 +104,8 @@ lvim.plugins = {
 -- vim.cmd("color gruvbox-material")
 -- vim.cmd("color paper")
 -- lvim.colorscheme = "gruvbox-material"
-lvim.colorscheme = "sobrio"
+-- lvim.colorscheme = "sobrio"
+lvim.colorscheme = "retrobox"
 
 
 -- remaps

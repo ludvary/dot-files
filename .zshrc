@@ -62,13 +62,13 @@ source $ZSH/oh-my-zsh.sh
 alias nvim="$HOME/.local/bin/lvim"
 # alias nvim=vi
 # alias eemec="cd $HOME/hause/significant\ things/ && emacs &"
-alias elitist_choice="sig_things && nvim"
+alias elitist_choice="(sig_things && nvim)"  # use a subshell so that when you exit you return to the dir that you started on 
 alias nofetch="nofetch --flex red"
 alias neofetch_win="neofetch --ascii_distro windows"
 alias hollow_knight="wine ~/.wine/drive_c/Program\ Files\ \(x86\)/DODI-Repacks/Hollow\ Knight/hollow_knight.exe && exit"
 # alias minecraft="java -jar ~/Downloads/mine/TLauncher-2.885.jar && exit"
 alias minecraft="java -jar ~/SKlauncher-3.2.9.jar && exit"
-alias fuzz="cd / && fzf"
+alias fuzz="(cd / && fzf)"
 alias ls="eza --icons"
 alias ll="eza --long --no-filesize --no-user --time-style=long-iso --icons"
 # alias spotify="$HOME/scripts/spotify.sh"
@@ -147,6 +147,7 @@ export PATH="$HOME/.cargo/bin:$PATH"    # add the cargo binaries to the path
 export PATH="$HOME/.juliaup/bin":$PATH  # had to do this manaually idk
 export PATH="$HOME/.local/bin":$PATH
 export PATH="$HOME/Downloads/misc/fullprof":$PATH
+export PATH="$HOME/networkmanager-dmenu":$PATH
 
 
 export PATH=/usr/lib64/openmpi/bin:$PATH
