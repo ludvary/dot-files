@@ -117,7 +117,8 @@ source $HOME/intel/oneapi/setvars.sh > /dev/null 2>&1
 # nerdfetch
 # nerdfetch
 
-neofetch --ascii .config/neofetch/ghost.ascii
+# neofetch --ascii .config/neofetch/ghost.ascii
+fastfetch
 sudo systemctl restart sshd
 sudo cpupower frequency-set -g performance > /dev/null
 
