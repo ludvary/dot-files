@@ -1,0 +1,223 @@
+[2024-12-12 12:06:59.517] [info]  Started chunker-electron
+[2024-12-12 12:08:09.016] [info]  Info from process: Picked up _JAVA_OPTIONS: -Xmx7720M
+[2024-12-12 12:08:37.326] [error] Error from process: Missing block mapping for {Name:"minecraft:frame",Properties:{facing_direction:5,item_frame_map_bit:0b}}
+[2024-12-12 12:08:47.156] [error] Error from process: Missing block mapping for {Name:"minecraft:frame",Properties:{facing_direction:2,item_frame_map_bit:0b}}
+[2024-12-12 12:09:09.638] [error] Error from process: Missing block mapping for {Name:"minecraft:frame",Properties:{facing_direction:4,item_frame_map_bit:0b}}
+[2024-12-12 12:09:50.880] [error] Error from process: Missing block mapping for {Name:"minecraft:frame",Properties:{facing_direction:3,item_frame_map_bit:0b}}
+[2024-12-12 12:10:15.871] [info]  Deleting session data:  45bc435a-61e5-4ae5-830b-22082cc03808
+[2024-12-12 12:11:25.954] [info]  Info from process: Picked up _JAVA_OPTIONS: -Xmx5864M
+[2024-12-12 12:11:47.942] [error] Error from process: Missing block mapping for {Name:"minecraft:frame",Properties:{facing_direction:2,item_frame_map_bit:0b}}
+[2024-12-12 12:12:29.029] [error] Error from process: Missing block mapping for {Name:"minecraft:frame",Properties:{facing_direction:3,item_frame_map_bit:0b}}
+[2024-12-12 12:12:55.496] [error] Error from process: Missing block mapping for {Name:"minecraft:frame",Properties:{facing_direction:5,item_frame_map_bit:0b}}
+[2024-12-12 12:13:12.255] [error] Error from process: Missing block mapping for {Name:"minecraft:frame",Properties:{facing_direction:4,item_frame_map_bit:0b}}
+[2024-12-12 12:14:40.430] [error] Error from process: Missing block mapping for {Name:"minecraft:frame",Properties:{facing_direction:2,item_frame_map_bit:0b}}
+[2024-12-12 12:14:40.481] [error] Error from process: java.lang.Exception: Failed to process Entity {id:"minecraft:item_frame",ItemRotation:0b,Item:{Count:1b,id:"minecraft:elytra",Damage:0s},TileX:4232,TileY:115,TileZ:4618,Facing:2b,Pos:[4232.0,115.0,4618.0],Motion:[0.0,0.0,0.0],Rotation:[180.0f,0.0f]}
+[2024-12-12 12:14:40.483] [error] Error from process: at com.hivemc.chunker.conversion.encoding.java.base.reader.JavaColumnReader.readEntities(JavaColumnReader.java:181)
+	at com.hivemc.chunker.scheduling.function.ThrowableConsumer.invoke(ThrowableConsumer.java:20)
+	at com.hivemc.chunker.scheduling.function.ThrowableConsumer.invoke(ThrowableConsumer.java:8)
+	at com.hivemc.chunker.scheduling.task.WrappedTask.apply(WrappedTask.java:84)
+[2024-12-12 12:14:40.483] [error] Error from process: at com.hivemc.chunker.scheduling.task.WrappedTask$WrappedTaskConstant.apply(WrappedTask.java:129)
+	at com.hivemc.chunker.scheduling.task.WrappedTask.get(WrappedTask.java:77)
+	at com.hivemc.chunker.scheduling.task.executor.TaskExecutorSupplier.run(TaskExecutorSupplier.java:42)
+	at com.hivemc.chunker.scheduling.task.executor.TaskExecutor.threadLoop(TaskExecutor.java:178)
+	at java.base/java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.ClassCastException: Cannot cast com.hivemc.chunker.nbt.tags.primitive.ShortTag to com.hivemc.chunker.nbt.tags.primitive.IntTag
+	at java.base/java.lang.Class.cast(Unknown Source)
+	at com.hivemc.chunker.nbt.tags.collection.CompoundTag.get(CompoundTag.java:318)
+	at com.hivemc.chunker.nbt.tags.collection.CompoundTag.getInt(CompoundTag.java:479)
+	at com.hivemc.chunker.conversion.encoding.java.base.resolver.itemstack.JavaComponentItemStackResolver.createPropertyHolder(JavaComponentItemStackResolver.java:900)
+	at com.hivemc.chunker.conversion.encoding.java.base.resolver.itemstack.JavaComponentItemStackResolver.createPropertyHolder(JavaComponentItemStackResolver.java:51)
+	at com.hivemc.chunker.resolver.property.PropertyBasedResolver.to(PropertyBasedResolver.java:36)
+	at com.hivemc.chunker.conversion.encoding.java.base.resolver.JavaResolversBuilder$1.readItem(JavaResolversBuilder.java:136)
+	at com.hivemc.chunker.conversion.encoding.java.base.resolver.entity.handlers.JavaItemFrameEntityHandler.read(JavaItemFrameEntityHandler.java:24)
+	at com.hivemc.chunker.conversion.encoding.java.base.resolver.entity.handlers.JavaItemFrameEntityHandler.read(JavaItemFrameEntityHandler.java:14)
+	at com.hivemc.chunker.resolver.hierarchy.KeyedHierarchyBasedResolver.to(KeyedHierarchyBasedResolver.java:173)
+	at com.hivemc.chunker.conversion.encoding.base.resolver.entity.EntityResolver.to(EntityResolver.java:332)
+	at com.hivemc.chunker.conversion.encoding.java.base.reader.JavaColumnReader.readEntity(JavaColumnReader.java:194)
+	at com.hivemc.chunker.conversion.encoding.java.base.reader.JavaColumnReader.readEntities(JavaColumnReader.java:179)
+[2024-12-12 12:14:40.484] [error] Error from process: ... 8 more
+[2024-12-12 12:14:40.638] [error] Error from process: java.lang.Exception: Failed to process BlockEntity {id:"minecraft:chest",Items:[{Count:1b,id:"minecraft:gold_ingot",Damage:0s,Slot:2b},{Count:1b,id:"minecraft:gold_ingot",Damage:0s,Slot:7b},{Count:1b,id:"minecraft:iron_ingot",Damage:0s,Slot:8b},{Count:1b,id:"minecraft:gold_ingot",Damage:0s,Slot:9b},{Count:1b,id:"minecraft:gold_ingot",Damage:0s,Slot:12b},{Count:1b,id:"minecraft:iron_ingot",Damage:0s,Slot:13b},{Count:2b,id:"minecraft:gold_ingot",Damage:0s,Slot:16b},{Count:3b,id:"minecraft:iron_ingot",Damage:0s,Slot:19b},{Count:1b,id:"minecraft:gold_ingot",Damage:0s,Slot:20b},{Count:1b,id:"minecraft:gold_ingot",Damage:0s,Slot:26b}],x:4221,y:98,z:4934}
+	at com.hivemc.chunker.conversion.encoding.java.v1_18.reader.ColumnReader.readBlockEntities(ColumnReader.java:96)
+	at com.hivemc.chunker.scheduling.function.ThrowableConsumer.invoke(ThrowableConsumer.java:20)
+	at com.hivemc.chunker.scheduling.function.ThrowableConsumer.invoke(ThrowableConsumer.java:8)
+	at com.hivemc.chunker.scheduling.task.WrappedTask.apply(WrappedTask.java:84)
+	at com.hivemc.chunker.scheduling.task.WrappedTask$WrappedTaskConstant.apply(WrappedTask.java:129)
+	at com.hivemc.chunker.scheduling.task.WrappedTask.get(WrappedTask.java:77)
+	at com.hivemc.chunker.scheduling.task.executor.TaskExecutorSupplier.run(TaskExecutorSupplier.java:42)
+	at com.hivemc.chunker.scheduling.task.executor.TaskExecutor.threadLoop(TaskExecutor.java:178)
+	at java.base/java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.ClassCastException: Cannot cast com.hivemc.chunker.nbt.tags.primitive.ShortTag to com.hivemc.chunker.nbt.tags.primitive.IntTag
+	at java.base/java.lang.Class.cast(Unknown Source)
+	at com.hivemc.chunker.nbt.tags.collection.CompoundTag.get(CompoundTag.java:318)
+	at com.hivemc.chunker.nbt.tags.collection.CompoundTag.getInt(CompoundTag.java:479)
+[2024-12-12 12:14:40.639] [error] Error from process: at com.hivemc.chunker.conversion.encoding.java.base.resolver.itemstack.JavaComponentItemStackResolver.createPropertyHolder(JavaComponentItemStackResolver.java:900)
+	at com.hivemc.chunker.conversion.encoding.java.base.resolver.itemstack.JavaComponentItemStackResolver.createPropertyHolder(JavaComponentItemStackResolver.java:51)
+	at com.hivemc.chunker.resolver.property.PropertyBasedResolver.to(PropertyBasedResolver.java:36)
+	at com.hivemc.chunker.conversion.encoding.java.base.resolver.JavaResolversBuilder$1.readItem(JavaResolversBuilder.java:136)
+	at com.hivemc.chunker.conversion.encoding.java.base.resolver.blockentity.handlers.JavaContainerBlockEntityHandler.read(JavaContainerBlockEntityHandler.java:39)
+	at com.hivemc.chunker.conversion.encoding.java.base.resolver.blockentity.handlers.JavaContainerBlockEntityHandler.read(JavaContainerBlockEntityHandler.java:23)
+	at com.hivemc.chunker.resolver.hierarchy.KeyedHierarchyBasedResolver.to(KeyedHierarchyBasedResolver.java:173)
+	at com.hivemc.chunker.conversion.encoding.base.resolver.blockentity.BlockEntityResolver.to(BlockEntityResolver.java:464)
+	at com.hivemc.chunker.conversion.encoding.java.base.reader.JavaColumnReader.readBlockEntity(JavaColumnReader.java:229)
+	at com.hivemc.chunker.conversion.encoding.java.v1_18.reader.ColumnReader.readBlockEntities(ColumnReader.java:94)
+	... 8 more
+[2024-12-12 12:14:40.643] [error] Error from process: Missing block mapping for {Name:"minecraft:frame",Properties:{facing_direction:5,item_frame_map_bit:0b}}
+java.lang.Exception: Failed to process BlockEntity {id:"minecraft:chest",Items:[{Count:1b,tag:{Enchantments:[{id:"minecraft:unbreaking",lvl:3s},{id:"minecraft:efficiency",lvl:3s}]},id:"minecraft:iron_pickaxe",Damage:0s,Slot:7b}],x:4146,y:88,z:4894}
+	at com.hivemc.chunker.conversion.encoding.java.v1_18.reader.ColumnReader.readBlockEntities(ColumnReader.java:96)
+	at com.hivemc.chunker.scheduling.function.ThrowableConsumer.invoke(ThrowableConsumer.java:20)
+	at com.hivemc.chunker.scheduling.function.ThrowableConsumer.invoke(ThrowableConsumer.java:8)
+	at com.hivemc.chunker.scheduling.task.WrappedTask.apply(WrappedTask.java:84)
+	at com.hivemc.chunker.scheduling.task.WrappedTask$WrappedTaskConstant.apply(WrappedTask.java:129)
+	at com.hivemc.chunker.scheduling.task.WrappedTask.get(WrappedTask.java:77)
+	at com.hivemc.chunker.scheduling.task.executor.TaskExecutorSupplier.run(TaskExecutorSupplier.java:42)
+	at com.hivemc.chunker.scheduling.task.executor.TaskExecutor.threadLoop(TaskExecutor.java:178)
+[2024-12-12 12:14:40.645] [error] Error from process: at java.base/java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.ClassCastException: Cannot cast com.hivemc.chunker.nbt.tags.primitive.ShortTag to com.hivemc.chunker.nbt.tags.primitive.IntTag
+	at java.base/java.lang.Class.cast(Unknown Source)
+	at com.hivemc.chunker.nbt.tags.collection.CompoundTag.get(CompoundTag.java:318)
+	at com.hivemc.chunker.nbt.tags.collection.CompoundTag.getInt(CompoundTag.java:479)
+	at com.hivemc.chunker.conversion.encoding.java.base.resolver.itemstack.JavaComponentItemStackResolver.createPropertyHolder(JavaComponentItemStackResolver.java:900)
+	at com.hivemc.chunker.conversion.encoding.java.base.resolver.itemstack.JavaComponentItemStackResolver.createPropertyHolder(JavaComponentItemStackResolver.java:51)
+	at com.hivemc.chunker.resolver.property.PropertyBasedResolver.to(PropertyBasedResolver.java:36)
+	at com.hivemc.chunker.conversion.encoding.java.base.resolver.JavaResolversBuilder$1.readItem(JavaResolversBuilder.java:136)
+	at com.hivemc.chunker.conversion.encoding.java.base.resolver.blockentity.handlers.JavaContainerBlockEntityHandler.read(JavaContainerBlockEntityHandler.java:39)
+	at com.hivemc.chunker.conversion.encoding.java.base.resolver.blockentity.handlers.JavaContainerBlockEntityHandler.read(JavaContainerBlockEntityHandler.java:23)
+	at com.hivemc.chunker.resolver.hierarchy.KeyedHierarchyBasedResolver.to(KeyedHierarchyBasedResolver.java:173)
+	at com.hivemc.chunker.conversion.encoding.base.resolver.blockentity.BlockEntityResolver.to(BlockEntityResolver.java:464)
+	at com.hivemc.chunker.conversion.encoding.java.base.reader.JavaColumnReader.readBlockEntity(JavaColumnReader.java:229)
+	at com.hivemc.chunker.conversion.encoding.java.v1_18.reader.ColumnReader.readBlockEntities(ColumnReader.java:94)
+	... 8 more
+[2024-12-12 12:14:41.543] [error] Error from process: java.lang.Exception: Failed to process BlockEntity {id:"minecraft:chest",Items:[{Count:1b,id:"minecraft:iron_ingot",Damage:0s,Slot:4b},{Count:1b,id:"minecraft:iron_ingot",Damage:0s,Slot:7b},{Count:1b,id:"minecraft:iron_ingot",Damage:0s,Slot:10b},{Count:3b,id:"minecraft:gold_ingot",Damage:0s,Slot:11b},{Count:1b,id:"minecraft:gold_ingot",Damage:0s,Slot:20b},{Count:1b,id:"minecraft:iron_ingot",Damage:0s,Slot:23b},{Count:1b,id:"minecraft:iron_ingot",Damage:0s,Slot:25b}],x:4224,y:134,z:4925}
+	at com.hivemc.chunker.conversion.encoding.java.v1_18.reader.ColumnReader.readBlockEntities(ColumnReader.java:96)
+	at com.hivemc.chunker.scheduling.function.ThrowableConsumer.invoke(ThrowableConsumer.java:20)
+	at com.hivemc.chunker.scheduling.function.ThrowableConsumer.invoke(ThrowableConsumer.java:8)
+	at com.hivemc.chunker.scheduling.task.WrappedTask.apply(WrappedTask.java:84)
+	at com.hivemc.chunker.scheduling.task.WrappedTask$WrappedTaskConstant.apply(WrappedTask.java:129)
+	at com.hivemc.chunker.scheduling.task.WrappedTask.get(WrappedTask.java:77)
+	at com.hivemc.chunker.scheduling.task.executor.TaskExecutorSupplier.run(TaskExecutorSupplier.java:42)
+	at com.hivemc.chunker.scheduling.task.executor.TaskExecutor.threadLoop(TaskExecutor.java:178)
+	at java.base/java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.ClassCastException: Cannot cast com.hivemc.chunker.nbt.tags.primitive.ShortTag to com.hivemc.chunker.nbt.tags.primitive.IntTag
+	at java.base/java.lang.Class.cast(Unknown Source)
+	at com.hivemc.chunker.nbt.tags.collection.CompoundTag.get(CompoundTag.java:318)
+	at com.hivemc.chunker.nbt.tags.collection.CompoundTag.getInt(CompoundTag.java:479)
+	at com.hivemc.chunker.conversion.encoding.java.base.resolver.itemstack.JavaComponentItemStackResolver.createPropertyHolder(JavaComponentItemStackResolver.java:900)
+	at com.hivemc.chunker.conversion.encoding.java.base.resolver.itemstack.JavaComponentItemStackResolver.createPropertyHolder(JavaComponentItemStackResolver.java:51)
+	at com.hivemc.chunker.resolver.property.PropertyBasedResolver.to(PropertyBasedResolver.java:36)
+	at com.hivemc.chunker.conversion.encoding.java.base.resolver.JavaResolversBuilder$1.readItem(JavaResolversBuilder.java:136)
+	at com.hivemc.chunker.conversion.encoding.java.base.resolver.blockentity.handlers.JavaContainerBlockEntityHandler.read(JavaContainerBlockEntityHandler.java:39)
+	at com.hivemc.chunker.conversion.encoding.java.base.resolver.blockentity.handlers.JavaContainerBlockEntityHandler.read(JavaContainerBlockEntityHandler.java:23)
+	at com.hivemc.chunker.resolver.hierarchy.KeyedHierarchyBasedResolver.to(KeyedHierarchyBasedResolver.java:173)
+	at com.hivemc.chunker.conversion.encoding.base.resolver.blockentity.BlockEntityResolver.to(BlockEntityResolver.java:464)
+	at com.hivemc.chunker.conversion.encoding.java.base.reader.JavaColumnReader.readBlockEntity(JavaColumnReader.java:229)
+	at com.hivemc.chunker.conversion.encoding.java.v1_18.reader.ColumnReader.readBlockEntities(ColumnReader.java:94)
+	... 8 more
+[2024-12-12 12:14:41.545] [error] Error from process: java.lang.Exception: Failed to process BlockEntity {id:"minecraft:chest",Items:[{Count:1b,id:"minecraft:beetroot_seeds",Damage:0s,Slot:1b},{Count:1b,id:"minecraft:gold_ingot",Damage:0s,Slot:2b},{Count:8b,id:"minecraft:beetroot_seeds",Damage:0s,Slot:8b},{Count:1b,id:"minecraft:beetroot_seeds",Damage:0s,Slot:9b},{Count:1b,id:"minecraft:gold_ingot",Damage:0s,Slot:13b},{Count:1b,id:"minecraft:gold_ingot",Damage:0s,Slot:14b},{Count:1b,id:"minecraft:gold_ingot",Damage:0s,Slot:18b},{Count:1b,tag:{Enchantments:[{id:"minecraft:projectile_protection",lvl:4s}]},id:"minecraft:iron_boots",Damage:0s,Slot:25b}],x:4226,y:134,z:4927}
+	at com.hivemc.chunker.conversion.encoding.java.v1_18.reader.ColumnReader.readBlockEntities(ColumnReader.java:96)
+	at com.hivemc.chunker.scheduling.function.ThrowableConsumer.invoke(ThrowableConsumer.java:20)
+	at com.hivemc.chunker.scheduling.function.ThrowableConsumer.invoke(ThrowableConsumer.java:8)
+	at com.hivemc.chunker.scheduling.task.WrappedTask.apply(WrappedTask.java:84)
+	at com.hivemc.chunker.scheduling.task.WrappedTask$WrappedTaskConstant.apply(WrappedTask.java:129)
+	at com.hivemc.chunker.scheduling.task.WrappedTask.get(WrappedTask.java:77)
+	at com.hivemc.chunker.scheduling.task.executor.TaskExecutorSupplier.run(TaskExecutorSupplier.java:42)
+	at com.hivemc.chunker.scheduling.task.executor.TaskExecutor.threadLoop(TaskExecutor.java:178)
+	at java.base/java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.ClassCastException: Cannot cast com.hivemc.chunker.nbt.tags.primitive.ShortTag to com.hivemc.chunker.nbt.tags.primitive.IntTag
+	at java.base/java.lang.Class.cast(Unknown Source)
+	at com.hivemc.chunker.nbt.tags.collection.CompoundTag.get(CompoundTag.java:318)
+	at com.hivemc.chunker.nbt.tags.collection.CompoundTag.getInt(CompoundTag.java:479)
+	at com.hivemc.chunker.conversion.encoding.java.base.resolver.itemstack.JavaComponentItemStackResolver.createPropertyHolder(JavaComponentItemStackResolver.java:900)
+	at com.hivemc.chunker.conversion.encoding.java.base.resolver.itemstack.JavaComponentItemStackResolver.createPropertyHolder(JavaComponentItemStackResolver.java:51)
+	at com.hivemc.chunker.resolver.property.PropertyBasedResolver.to(PropertyBasedResolver.java:36)
+	at com.hivemc.chunker.conversion.encoding.java.base.resolver.JavaResolversBuilder$1.readItem(JavaResolversBuilder.java:136)
+	at com.hivemc.chunker.conversion.encoding.java.base.resolver.blockentity.handlers.JavaContainerBlockEntityHandler.read(JavaContainerBlockEntityHandler.java:39)
+	at com.hivemc.chunker.conversion.encoding.java.base.resolver.blockentity.handlers.JavaContainerBlockEntityHandler.read(JavaContainerBlockEntityHandler.java:23)
+	at com.hivemc.chunker.resolver.hierarchy.KeyedHierarchyBasedResolver.to(KeyedHierarchyBasedResolver.java:173)
+	at com.hivemc.chunker.conversion.encoding.base.resolver.blockentity.BlockEntityResolver.to(BlockEntityResolver.java:464)
+	at com.hivemc.chunker.conversion.encoding.java.base.reader.JavaColumnReader.readBlockEntity(JavaColumnReader.java:229)
+	at com.hivemc.chunker.conversion.encoding.java.v1_18.reader.ColumnReader.readBlockEntities(ColumnReader.java:94)
+	... 8 more
+[2024-12-12 12:14:41.681] [error] Error from process: java.lang.Exception: Failed to process BlockEntity {id:"minecraft:chest",Items:[{Count:1b,id:"minecraft:gold_ingot",Damage:0s,Slot:0b},{Count:1b,id:"minecraft:emerald",Damage:0s,Slot:3b},{Count:1b,id:"minecraft:gold_ingot",Damage:0s,Slot:5b},{Count:1b,id:"minecraft:gold_ingot",Damage:0s,Slot:7b},{Count:1b,tag:{Enchantments:[{id:"minecraft:vanishing_curse",lvl:1s},{id:"minecraft:mending",lvl:1s}]},id:"minecraft:iron_pickaxe",Damage:0s,Slot:8b},{Count:1b,id:"minecraft:gold_ingot",Damage:0s,Slot:11b},{Count:2b,id:"minecraft:gold_ingot",Damage:0s,Slot:15b},{Count:1b,id:"minecraft:emerald",Damage:0s,Slot:18b},{Count:1b,id:"minecraft:gold_ingot",Damage:0s,Slot:19b},{Count:1b,id:"minecraft:gold_ingot",Damage:0s,Slot:20b},{Count:1b,tag:{Enchantments:[{id:"minecraft:blast_protection",lvl:4s},{id:"minecraft:binding_curse",lvl:1s}]},id:"minecraft:iron_leggings",Damage:0s,Slot:21b},{Count:4b,id:"minecraft:emerald",Damage:0s,Slot:23b},{Count:2b,id:"minecraft:gold_ingot",Damage:0s,Slot:25b}],x:4146,y:88,z:4896}
+[2024-12-12 12:14:41.681] [error] Error from process: at com.hivemc.chunker.conversion.encoding.java.v1_18.reader.ColumnReader.readBlockEntities(ColumnReader.java:96)
+	at com.hivemc.chunker.scheduling.function.ThrowableConsumer.invoke(ThrowableConsumer.java:20)
+	at com.hivemc.chunker.scheduling.function.ThrowableConsumer.invoke(ThrowableConsumer.java:8)
+	at com.hivemc.chunker.scheduling.task.WrappedTask.apply(WrappedTask.java:84)
+	at com.hivemc.chunker.scheduling.task.WrappedTask$WrappedTaskConstant.apply(WrappedTask.java:129)
+	at com.hivemc.chunker.scheduling.task.WrappedTask.get(WrappedTask.java:77)
+	at com.hivemc.chunker.scheduling.task.executor.TaskExecutorSupplier.run(TaskExecutorSupplier.java:42)
+	at com.hivemc.chunker.scheduling.task.executor.TaskExecutor.threadLoop(TaskExecutor.java:178)
+	at java.base/java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.ClassCastException: Cannot cast com.hivemc.chunker.nbt.tags.primitive.ShortTag to com.hivemc.chunker.nbt.tags.primitive.IntTag
+	at java.base/java.lang.Class.cast(Unknown Source)
+	at com.hivemc.chunker.nbt.tags.collection.CompoundTag.get(CompoundTag.java:318)
+	at com.hivemc.chunker.nbt.tags.collection.CompoundTag.getInt(CompoundTag.java:479)
+	at com.hivemc.chunker.conversion.encoding.java.base.resolver.itemstack.JavaComponentItemStackResolver.createPropertyHolder(JavaComponentItemStackResolver.java:900)
+	at com.hivemc.chunker.conversion.encoding.java.base.resolver.itemstack.JavaComponentItemStackResolver.createPropertyHolder(JavaComponentItemStackResolver.java:51)
+	at com.hivemc.chunker.resolver.property.PropertyBasedResolver.to(PropertyBasedResolver.java:36)
+	at com.hivemc.chunker.conversion.encoding.java.base.resolver.JavaResolversBuilder$1.readItem(JavaResolversBuilder.java:136)
+	at com.hivemc.chunker.conversion.encoding.java.base.resolver.blockentity.handlers.JavaContainerBlockEntityHandler.read(JavaContainerBlockEntityHandler.java:39)
+	at com.hivemc.chunker.conversion.encoding.java.base.resolver.blockentity.handlers.JavaContainerBlockEntityHandler.read(JavaContainerBlockEntityHandler.java:23)
+	at com.hivemc.chunker.resolver.hierarchy.KeyedHierarchyBasedResolver.to(KeyedHierarchyBasedResolver.java:173)
+	at com.hivemc.chunker.conversion.encoding.base.resolver.blockentity.BlockEntityResolver.to(BlockEntityResolver.java:464)
+	at com.hivemc.chunker.conversion.encoding.java.base.reader.JavaColumnReader.readBlockEntity(JavaColumnReader.java:229)
+	at com.hivemc.chunker.conversion.encoding.java.v1_18.reader.ColumnReader.readBlockEntities(ColumnReader.java:94)
+	... 8 more
+[2024-12-12 12:14:43.454] [error] Error from process: java.lang.Exception: Failed to process BlockEntity {id:"minecraft:chest",Items:[{Count:1b,tag:{Enchantments:[{id:"minecraft:blast_protection",lvl:4s},{id:"minecraft:unbreaking",lvl:3s}],Damage:0},id:"minecraft:iron_helmet",Damage:0s,Slot:20b}],x:3585,y:133,z:3584}
+	at com.hivemc.chunker.conversion.encoding.java.v1_18.reader.ColumnReader.readBlockEntities(ColumnReader.java:96)
+	at com.hivemc.chunker.scheduling.function.ThrowableConsumer.invoke(ThrowableConsumer.java:20)
+	at com.hivemc.chunker.scheduling.function.ThrowableConsumer.invoke(ThrowableConsumer.java:8)
+	at com.hivemc.chunker.scheduling.task.WrappedTask.apply(WrappedTask.java:84)
+	at com.hivemc.chunker.scheduling.task.WrappedTask$WrappedTaskConstant.apply(WrappedTask.java:129)
+	at com.hivemc.chunker.scheduling.task.WrappedTask.get(WrappedTask.java:77)
+	at com.hivemc.chunker.scheduling.task.executor.TaskExecutorSupplier.run(TaskExecutorSupplier.java:42)
+	at com.hivemc.chunker.scheduling.task.executor.TaskExecutor.threadLoop(TaskExecutor.java:178)
+	at java.base/java.lang.Thread.run(Unknown Source)
+[2024-12-12 12:14:43.455] [error] Error from process: Caused by: java.lang.ClassCastException: Cannot cast com.hivemc.chunker.nbt.tags.primitive.ShortTag to com.hivemc.chunker.nbt.tags.primitive.IntTag
+	at java.base/java.lang.Class.cast(Unknown Source)
+	at com.hivemc.chunker.nbt.tags.collection.CompoundTag.get(CompoundTag.java:318)
+	at com.hivemc.chunker.nbt.tags.collection.CompoundTag.getInt(CompoundTag.java:479)
+	at com.hivemc.chunker.conversion.encoding.java.base.resolver.itemstack.JavaComponentItemStackResolver.createPropertyHolder(JavaComponentItemStackResolver.java:900)
+	at com.hivemc.chunker.conversion.encoding.java.base.resolver.itemstack.JavaComponentItemStackResolver.createPropertyHolder(JavaComponentItemStackResolver.java:51)
+	at com.hivemc.chunker.resolver.property.PropertyBasedResolver.to(PropertyBasedResolver.java:36)
+	at com.hivemc.chunker.conversion.encoding.java.base.resolver.JavaResolversBuilder$1.readItem(JavaResolversBuilder.java:136)
+	at com.hivemc.chunker.conversion.encoding.java.base.resolver.blockentity.handlers.JavaContainerBlockEntityHandler.read(JavaContainerBlockEntityHandler.java:39)
+	at com.hivemc.chunker.conversion.encoding.java.base.resolver.blockentity.handlers.JavaContainerBlockEntityHandler.read(JavaContainerBlockEntityHandler.java:23)
+	at com.hivemc.chunker.resolver.hierarchy.KeyedHierarchyBasedResolver.to(KeyedHierarchyBasedResolver.java:173)
+	at com.hivemc.chunker.conversion.encoding.base.resolver.blockentity.BlockEntityResolver.to(BlockEntityResolver.java:464)
+	at com.hivemc.chunker.conversion.encoding.java.base.reader.JavaColumnReader.readBlockEntity(JavaColumnReader.java:229)
+	at com.hivemc.chunker.conversion.encoding.java.v1_18.reader.ColumnReader.readBlockEntities(ColumnReader.java:94)
+	... 8 more
+java.lang.Exception: Failed to process BlockEntity {id:"minecraft:chest",Items:[{Count:1b,id:"minecraft:gold_ingot",Damage:0s,Slot:1b},{Count:1b,id:"minecraft:gold_ingot",Damage:0s,Slot:5b},{Count:1b,id:"minecraft:gold_ingot",Damage:0s,Slot:10b},{Count:1b,id:"minecraft:gold_ingot",Damage:0s,Slot:12b},{Count:1b,tag:{Enchantments:[{id:"minecraft:silk_touch",lvl:1s},{id:"minecraft:vanishing_curse",lvl:1s}],Damage:0},id:"minecraft:iron_pickaxe",Damage:0s,Slot:21b}],x:3594,y:97,z:3587}
+	at com.hivemc.chunker.conversion.encoding.java.v1_18.reader.ColumnReader.readBlockEntities(ColumnReader.java:96)
+	at com.hivemc.chunker.scheduling.function.ThrowableConsumer.invoke(ThrowableConsumer.java:20)
+	at com.hivemc.chunker.scheduling.function.ThrowableConsumer.invoke(ThrowableConsumer.java:8)
+	at com.hivemc.chunker.scheduling.task.WrappedTask.apply(WrappedTask.java:84)
+	at com.hivemc.chunker.scheduling.task.WrappedTask$WrappedTaskConstant.apply(WrappedTask.java:129)
+	at com.hivemc.chunker.scheduling.task.WrappedTask.get(WrappedTask.java:77)
+	at com.hivemc.chunker.scheduling.task.executor.TaskExecutorSupplier.run(TaskExecutorSupplier.java:42)
+	at com.hivemc.chunker.scheduling.task.executor.TaskExecutor.threadLoop(TaskExecutor.java:178)
+	at java.base/java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.ClassCastException: Cannot cast com.hivemc.chunker.nbt.tags.primitive.ShortTag to com.hivemc.chunker.nbt.tags.primitive.IntTag
+	at java.base/java.lang.Class.cast(Unknown Source)
+	at com.hivemc.chunker.nbt.tags.collection.CompoundTag.get(CompoundTag.java:318)
+	at com.hivemc.chunker.nbt.tags.collection.CompoundTag.getInt(CompoundTag.java:479)
+	at com.hivemc.chunker.conversion.encoding.java.base.resolver.itemstack.JavaComponentItemStackResolver.createPropertyHolder(JavaComponentItemStackResolver.java:900)
+	at com.hivemc.chunker.conversion.encoding.java.base.resolver.itemstack.JavaComponentItemStackResolver.createPropertyHolder(JavaComponentItemStackResolver.java:51)
+	at com.hivemc.chunker.resolver.property.PropertyBasedResolver.to(PropertyBasedResolver.java:36)
+	at com.hivemc.chunker.conversion.encoding.java.base.resolver.JavaResolversBuilder$1.readItem(JavaResolversBuilder.java:136)
+	at com.hivemc.chunker.conversion.encoding.java.base.resolver.blockentity.handlers.JavaContainerBlockEntityHandler.read(JavaContainerBlockEntityHandler.java:39)
+	at com.hivemc.chunker.conversion.encoding.java.base.resolver.blockentity.handlers.JavaContainerBlockEntityHandler.read(JavaContainerBlockEntityHandler.java:23)
+	at com.hivemc.chunker.resolver.hierarchy.KeyedHierarchyBasedResolver.to(KeyedHierarchyBasedResolver.java:173)
+	at com.hivemc.chunker.conversion.encoding.base.resolver.blockentity.BlockEntityResolver.to(BlockEntityResolver.java:464)
+	at com.hivemc.chunker.conversion.encoding.java.base.reader.JavaColumnReader.readBlockEntity(JavaColumnReader.java:229)
+	at com.hivemc.chunker.conversion.encoding.java.v1_18.reader.ColumnReader.readBlockEntities(ColumnReader.java:94)
+	... 8 more
+[2024-12-12 12:14:44.719] [info]  Deleting session data:  a7f84a27-1513-47c3-9461-030ddea9fd50
+[2024-12-12 12:14:55.146] [info]  Info from process: Picked up _JAVA_OPTIONS: -Xmx6407M
+[2024-12-12 12:15:30.870] [info]  Deleting session data:  b18b3591-6b13-43a3-a808-5275fbd737fd
+[2024-12-12 12:15:50.277] [info]  Info from process: Picked up _JAVA_OPTIONS: -Xmx6892M
+[2024-12-12 12:16:03.166] [error] Error from process: Missing block mapping for {Name:"minecraft:frame",Properties:{facing_direction:5,item_frame_map_bit:0b}}
+[2024-12-12 12:16:03.175] [error] Error from process: Missing block mapping for {Name:"minecraft:frame",Properties:{facing_direction:2,item_frame_map_bit:0b}}
+[2024-12-12 12:17:31.713] [error] Error from process: Missing block mapping for {Name:"minecraft:frame",Properties:{facing_direction:3,item_frame_map_bit:0b}}
+[2024-12-12 12:18:10.323] [error] Error from process: Missing block mapping for {Name:"minecraft:frame",Properties:{facing_direction:4,item_frame_map_bit:0b}}
+[2024-12-12 12:20:50.294] [info]  Deleting session data:  2a06fca5-65ab-462f-8aca-c422e99e6c47
