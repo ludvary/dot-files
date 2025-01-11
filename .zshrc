@@ -66,6 +66,7 @@ alias elitist_choice="(sig_things && nvim)"  # use a subshell so that when you e
 alias nofetch="nofetch --flex red"
 alias neofetch_win="neofetch --ascii_distro windows"
 alias hollow_knight="wine ~/.wine/drive_c/Program\ Files\ \(x86\)/DODI-Repacks/Hollow\ Knight/hollow_knight.exe && exit"
+alias gta_sa="wine ~/.wine/drive_c/Program\ Files\ \(x86\)/DODI-Repacks/Grand\ Theft\ Auto\ San\ Andreas/gta_sa.exe"
 # alias minecraft="java -jar ~/Downloads/mine/TLauncher-2.885.jar && exit"
 alias minecraft="java -jar ~/SKlauncher-3.2.9.jar && exit"
 alias fuzz="(cd / && fzf)"
@@ -102,7 +103,8 @@ alias ssh_lab="ssh admin3@192.168.8.31" # pass ccms@admin
 alias ssh_main_lab="ssh admin3@192.168.8.26"
 alias cluster_beta="ssh -X krishna@192.168.35.162" # pass : 23rd
 # alias my_pc="ssh -X krishna@192.168.33.150"         # pass : 23rd
-alias my_pc="ssh -X krishna@ 192.168.35.121"       # pass : 23rd
+alias my_pc="ssh -X krishna@192.168.33.200"       # pass : 23rd
+alias one_nine_two="ssh -x krishna@172.16.23.192"
 
 # to enable some vim goodness in terminal
 set -o vi
