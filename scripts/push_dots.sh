@@ -32,6 +32,10 @@ echo
 # rm -rf Prospect mail
 cd $HOME/hause/significant\ things/dot_files/.config/ && rm -rf Prospect\ Mail
 
+# rm -rf sublime-text shit
+cd $HOME/hause/significant\ things/dot_files/.config/ && rm -rf sublime-text-safe-mode/Local
+cd $HOME/hause/significant\ things/dot_files/.config/ && rm -rf sublime-text-safe-mode
+
 # go to dir
 cd $HOME/hause/significant\ things/dot_files/
 

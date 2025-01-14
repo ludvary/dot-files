@@ -88,4 +88,4 @@ nitrogen/
 opera/
 QtProject.conf
 user-dirs.locale
-
+chunker-electron/

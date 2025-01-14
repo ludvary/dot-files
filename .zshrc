@@ -121,6 +121,8 @@ source $HOME/intel/oneapi/setvars.sh > /dev/null 2>&1
 
 # neofetch --ascii .config/neofetch/ghost.ascii
 fastfetch
+
+## i know very well there are much better ways to do this, dont be a jerk in my reddit dms. what if i want to restart ALL services in this world EVERY time i open a terminal huh? then what??? yeah thats what i thought
 sudo systemctl restart sshd
 sudo cpupower frequency-set -g performance > /dev/null
 
@@ -156,6 +158,7 @@ export PATH="$HOME/networkmanager-dmenu":$PATH
 export PATH=/usr/lib64/openmpi/bin:$PATH
 export LD_LIBRARY_PATH=/usr/lib64/openmpi/lib:$LD_LIBRARY_PATH
 export MANPATH=/usr/share/openmpi/man:$MANPATH
+export LD_LIBRARY_PATH=/opt/intel/oneapi/mkl/latest/lib:$LD_LIBRARY_PATH
 
 # use >= threads than CPUs 
 export JULIA_NUM_THREADS=8
