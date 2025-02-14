@@ -194,7 +194,8 @@ bindsym Mod1+e exec "cd ~/hause/significant\ things/ && emacs"
 bindsym Mod1+Shift+p exec --no-startup-id /bin/bash ~/.config/polybar/launch.sh --forest
 
 # launch rofi wifi manager
-bindsym Mod1+Shift+w exec "~/scripts/rofi-wifi-menu.sh"
+# bindsym Mod1+Shift+w exec "~/scripts/rofi-wifi-menu.sh" # this for some reason is slow as hell idk bruh
+bindsym Mod1+Shift+w exec "~/networkmanager-dmenu/networkmanager_dmenu"
 
 # gaps
 gaps inner 6

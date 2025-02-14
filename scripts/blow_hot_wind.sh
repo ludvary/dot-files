@@ -59,9 +59,9 @@ while true; do
   temp=$(get_temp)
   echo "Current temperature: $temp°C"
 
-  if (( $(echo "$temp > 80" | bc -l) )); then
+  if (( $(echo "$temp > 75" | bc -l) )); then
     if [[ $current_mode -ne 0 ]]; then
-      echo "Temperature exceeds 55°C, setting fan to max speed"
+      echo "Temperature exceeds 75°C, setting fan to max speed"
       set_fan_mode 0
       current_mode=0
     fi
