@@ -103,7 +103,7 @@ alias ssh_lab="ssh admin3@192.168.8.31" # pass ccms@admin
 alias ssh_main_lab="ssh admin3@192.168.8.26"
 alias cluster_beta="ssh -X krishna@192.168.35.162" # pass : 23rd
 # alias my_pc="ssh -X krishna@192.168.33.150"         # pass : 23rd
-alias my_pc="ssh -X krishna@192.168.33.200"       # pass : 23rd
+alias my_pc="ssh -X fornax@192.168.33.174"       # pass : 23rd
 alias one_nine_two="ssh -X krishna@172.16.23.192"
 
 # to enable some vim goodness in terminal
