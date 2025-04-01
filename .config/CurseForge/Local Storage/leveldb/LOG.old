@@ -1,0 +1,14 @@
+2025/03/24-19:39:53.309 5f7d1 Creating DB /home/Fornax/.config/CurseForge/Local Storage/leveldb since it was missing.
+2025/03/24-19:39:53.339 5f7d1 Reusing MANIFEST /home/Fornax/.config/CurseForge/Local Storage/leveldb/MANIFEST-000001
+2025/03/24-19:50:55.877 5f7d2 Level-0 table #5: started
+2025/03/24-19:50:55.881 5f7d2 Level-0 table #5: 20542 bytes OK
+2025/03/24-19:50:55.882 5f7d2 Delete type=0 #3
+2025/03/24-20:00:30.607 5f7d2 Level-0 table #7: started
+2025/03/24-20:00:30.611 5f7d2 Level-0 table #7: 15775 bytes OK
+2025/03/24-20:00:30.612 5f7d2 Delete type=0 #4
+2025/03/24-20:10:30.606 5f7d2 Level-0 table #9: started
+2025/03/24-20:10:30.610 5f7d2 Level-0 table #9: 16472 bytes OK
+2025/03/24-20:10:30.611 5f7d2 Delete type=0 #6
+2025/03/24-20:19:30.606 5f7d2 Level-0 table #11: started
+2025/03/24-20:19:30.610 5f7d2 Level-0 table #11: 14367 bytes OK
+2025/03/24-20:19:30.611 5f7d2 Delete type=0 #8

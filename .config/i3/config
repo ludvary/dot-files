@@ -32,7 +32,7 @@ bindsym $mod+q kill
 # rofi
 bindsym $mod+Shift+d exec rofi -show run 
 bindsym $mod+d exec rofi -show drun 
-bindsym $mod+space exec --no-startup-id $HOME/scripts/command_exec_rofi.sh
+# bindsym $mod+space exec --no-startup-id $HOME/scripts/command_exec_rofi.sh
 
 # change focus
 bindsym $mod+h focus left
@@ -76,7 +76,7 @@ bindsym $mod+e layout toggle split
 bindsym $mod+Shift+space floating toggle
 
 # change focus between tiling / floating windows
-#bindsym $mod+space focus mode_toggle
+bindsym $mod+space focus mode_toggle
 
 # focus the parent container
 # bindsym $mod+a focus parent
@@ -176,6 +176,9 @@ exec_always picom
 # lock the screen whenever i3 loads
 exec_always ~/scripts/lock.sh
 exec_always systemctl restart sshd
+
+# switch b/w winodws even in fullscreen
+bindsym $mod+Tab fullscreen disable, focus left, fullscreen enable
 
 # kill picom
 bindsym Mod1+p exec "pkill picom"

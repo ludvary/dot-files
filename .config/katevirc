@@ -1,0 +1,20 @@
+[Kate Vi Input Mode Settings]
+Command Mode Mapping Keys=
+Command Mode Mappings=
+Command Mode Mappings Recursion=
+Insert Mode Mapping Keys=
+Insert Mode Mappings=
+Insert Mode Mappings Recursion=
+Macro Completions=
+Macro Contents=
+Macro Registers=
+Map Leader=\\
+Normal Mode Mapping Keys=
+Normal Mode Mappings=
+Normal Mode Mappings Recursion=
+ViRegisterContents=_,_,    double jmat_sum = 0;\n    for (int i=0; i<L; i++) {\n        for (int j-0; j<L; j++) {\n            j_mat_sum += J_mat[i][j];\n        }\n    }\n    std::cout << jmat_sum << std::endl;\n,
+ViRegisterFlags=0,0,1,0
+ViRegisterNames=",-,0,^
+Visual Mode Mapping Keys=
+Visual Mode Mappings=
+Visual Mode Mappings Recursion=

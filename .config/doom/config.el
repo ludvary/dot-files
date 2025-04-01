@@ -44,6 +44,8 @@
   (add-to-list 'company-backends 'company-files))
 
 
+(setenv "PATH" (concat "/usr/bin:" (getenv "PATH")))
+(add-to-list 'exec-path "/usr/bin")
 
 ;; See 'C-h v doom-font' for documentation and more examples of what they
 ;; accept. For example:
@@ -80,7 +82,6 @@
 (setq ring-bell-function 'ignore)
 
 (setq confirm-kill-emacs nil)
-
 
 ;; Whenever you reconfigure a package, make sure to wrap your config in an
 ;; `after!' block, otherwise Doom's defaults may override your settings. E.g.
@@ -200,3 +201,148 @@
 ;;   (define-key c-mode-map (kbd "M-RET") 'srefactor-refactor-at-point)
 ;;   (define-key c++-mode-map (kbd "M-RET") 'srefactor-refactor-at-point)
 ;;   )
+
+(setq TeX-command-default "LatexMk")
+(setq TeX-engine 'default)
+(setq TeX-save-query nil)
+(setq TeX-show-compilation t)
+
+;;pdflatex 
+;; (after! tex
+;;   (add-to-list 'TeX-command-list
+;;                '("LatexMk" "latexmk -pdf -synctex=1 -interaction=nonstopmode %s"
+;;                  TeX-run-TeX nil t :help "Run LatexMk"))
+;;   (setq TeX-view-program-selection '((output-pdf "Zathura")))
+;;   (setq TeX-source-correlate-mode t)
+;;   (setq TeX-source-correlate-start-server t))
+
+
+;; xelatex
+(after! tex
+  (setq TeX-engine 'xetex)
+  (add-to-list 'TeX-command-list
+               '("XeLaTeX" "latexmk -xelatex -synctex=1 -interaction=nonstopmode %s"
+                 TeX-run-TeX nil t :help "Run XeLaTeX with latexmk")))
+(setq TeX-command-default "XeLaTeX")
+
+
+
+;; compile on save
+;; (defun my/latex-auto-compile-on-save ()
+;;   (add-hook 'after-save-hook
+;;             (lambda ()
+;;               (TeX-command "LatexMk" 'TeX-master-file))
+;;             nil t))
+
+;; (add-hook! LaTeX-mode #'my/latex-auto-compile-on-save)
+
+
+;; compile automatically
+;; (after! tex
+;;   (add-to-list 'TeX-command-list
+;;                '("LatexMkPvc"
+;;                  "latexmk -pdf -pvc -synctex=1 -interaction=nonstopmode %s"
+;;                  TeX-run-TeX nil t :help "Run latexmk continuously"))
+;;   (setq TeX-command-default "LatexMkPvc"))
+
+
+;; (after! tex
+;;   (setq TeX-command-extra-options "-shell-escape")
+;;   (add-to-list 'TeX-command-list
+;;                '("LatexMkShellEscape"
+;;                  "latexmk -pdf -shell-escape -synctex=1 -interaction=nonstopmode %s"
+;;                  TeX-run-TeX nil t :help "Run latexmk with shell-escape"))
+;;   (setq TeX-command-default "LatexMkShellEscape"))
+
+;; be less picky about errors
+;; (setq TeX-error-overview-open-after-TeX-run t)
+
+
+
+;; (after! tex
+;;   ;; Use xelatex and enable shell-escape
+;;   (setq TeX-engine 'xetex
+;;         TeX-command-extra-options "-shell-escape"
+;;         TeX-save-query nil
+;;         TeX-show-compilation t)
+
+;;   ;; latexmk with shell escape
+;;   (add-to-list 'TeX-command-list
+;;                '("LatexMkXeLaTeX"
+;;                  "latexmk -xelatex -shell-escape -synctex=1 -interaction=nonstopmode %s"
+;;                  TeX-run-TeX nil t :help "Run latexmk with xelatex and shell-escape"))
+
+;;   (setq TeX-command-default "LatexMkXeLaTeX")
+
+;;   ;; Optional: auto-refresh viewer (Zathura, PDF Tools, etc.)
+;;   (setq TeX-source-correlate-mode t
+;;         TeX-source-correlate-start-server t)
+
+;;   ;; Revert PDF after compilation
+;;   (add-hook 'TeX-after-compilation-finished-functions
+;;             #'TeX-revert-document-buffer))
+
+
+;; (after! tex
+;;   ;; Always clean before compile to avoid latexmk getting stuck
+;;   (setq TeX-clean-confirm nil
+;;         TeX-save-query nil
+;;         TeX-show-compilation t)
+
+;;   ;; Force shell-escape + xelatex always
+;;   (setq TeX-engine 'xetex
+;;         TeX-command-extra-options "-shell-escape")
+
+;;   ;; Clean default command list
+;;   (setq TeX-command-list nil)
+
+;;   ;; Add latexmk with xelatex + shell-escape
+;;   (add-to-list 'TeX-command-list
+;;                '("LatexMkXeLaTeX"
+;;                  "latexmk -xelatex -shell-escape -synctex=1 -interaction=nonstopmode %s"
+;;                  TeX-run-TeX nil t :help "Run latexmk with xelatex and shell-escape"))
+
+;;   ;; Set it as default
+;;   (setq TeX-command-default "LatexMkXeLaTeX")
+
+;;   ;; Auto-recompile on save using save-hook
+;;   (add-hook 'TeX-after-compilation-finished-functions
+;;             #'TeX-revert-document-buffer)
+
+;;   ;; Optional: compile on save without -pvc
+;;   (add-hook 'LaTeX-mode-hook
+;;             (lambda ()
+;;               (add-hook 'after-save-hook
+;;                         (lambda ()
+;;                           (TeX-command "LatexMkXeLaTeX" 'TeX-master-file))
+;;                         nil t))))
+
+
+(after! tex
+  ;; Remove any previous weird default
+  (setq TeX-command-default "XeLaTeX")
+
+  ;; Set engine and shell-escape globally
+  (setq TeX-engine 'xetex
+        TeX-command-extra-options "-shell-escape")
+
+  ;; Clean slate: define only one good command
+  (setq TeX-command-list
+        '(("XeLaTeX"
+           "latexmk -xelatex -shell-escape -synctex=1 -interaction=nonstopmode %s"
+           TeX-run-TeX nil t :help "Run latexmk with xelatex")))
+
+  ;; Set default viewer to pdf-tools or zathura (your choice)
+  (setq TeX-view-program-selection '((output-pdf "Zathura")))
+
+  ;; Revert PDF buffer after compile
+  (add-hook 'TeX-after-compilation-finished-functions
+            #'TeX-revert-document-buffer)
+
+  ;; Auto compile on save
+  (add-hook 'LaTeX-mode-hook
+            (lambda ()
+              (add-hook 'after-save-hook
+                        (lambda ()
+                          (TeX-command "XeLaTeX" 'TeX-master-file))
+                        nil t))))
