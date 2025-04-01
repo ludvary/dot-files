@@ -1,6 +1,10 @@
 .git
 .github
 .gitignore
+CurseForge/
+kate/
+ow-electron/
+audacity/
 "sublime-text-safe-mode/Local"
 "Proton/VPN"
 pavucontrol.ini
