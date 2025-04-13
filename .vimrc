@@ -37,10 +37,10 @@ nmap ++ <plug>NERDCommenterToggle
 nnoremap gb :ls<CR>:b<Space>
 nnoremap ge yiw:%s/<C-r>0//g<Left><Left>
 nnoremap = <C-w>>
-noremap y "+y
-noremap p "+p
-vmap y "+y
-vmap p "+p
+noremap <leader>y "+y
+noremap <leader>p "+p
+vmap <leader>y "+y
+vmap <leader>p "+p
 nnoremap <leader>r @:
 
 
@@ -295,6 +295,12 @@ nnoremap <space>bb :b#<CR>
 nnoremap <Esc>1 :buffer 1<CR>
 nnoremap <Esc>2 :buffer 2<CR>
 nnoremap <Esc>3 :buffer 3<CR>
+nnoremap <Esc>4 :buffer 4<CR>
+nnoremap <Esc>5 :buffer 5<CR>
+nnoremap <Esc>6 :buffer 6<CR>
+nnoremap <Esc>7 :buffer 7<CR>
+nnoremap <Esc>8 :buffer 8<CR>
+nnoremap <Esc>9 :buffer 9<CR>
 
 set tabstop=4       " Number of visual spaces per TAB
 set shiftwidth=4    " Number of spaces used for autoindent
@@ -305,4 +311,5 @@ set expandtab       " Use spaces instead of actual TAB characters
 nnoremap <Space>/ :call nerdcommenter#Comment(0, "toggle")<CR>
 vnoremap <Space>/ :call nerdcommenter#Comment(0, "toggle")<CR>
 
+set clipboard=unnamedplus
 
