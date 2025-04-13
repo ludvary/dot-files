@@ -61,6 +61,7 @@ source $ZSH/oh-my-zsh.sh
 # alias vi="$HOME/.local/bin/lvim"
 alias nvim="$HOME/.local/bin/lvim"
 # alias nvim=vi
+alias vim=vimx
 # alias eemec="cd $HOME/hause/significant\ things/ && emacs &"
 alias elitist_choice="(sig_things && nvim)"  # use a subshell so that when you exit you return to the dir that you started on 
 alias nofetch="nofetch --flex red"

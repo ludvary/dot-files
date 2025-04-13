@@ -179,6 +179,7 @@ exec_always systemctl restart sshd
 
 # switch b/w winodws even in fullscreen
 bindsym $mod+Tab fullscreen disable, focus left, fullscreen enable
+bindsym $mod+Shift+Tab fullscreen disable, focus right, fullscreen enable
 
 # kill picom
 bindsym Mod1+p exec "pkill picom"
