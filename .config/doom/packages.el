@@ -59,3 +59,4 @@
 ;; (package! flycheck-pos-tip)
 ;; (package! ccls)
 ;; (package! srefactor)
+(package! auctex-latexmk)

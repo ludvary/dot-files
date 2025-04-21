@@ -186,3 +186,4 @@ FULLPROF=/home/Fornax/Downloads/misc/fullprof
 PATH=$FULLPROF:$PATH
 export PATH FULLPROF
 # source /home/Fornax/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+export PATH=$HOME/android-tools/platform-tools:$PATH
