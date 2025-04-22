@@ -26,6 +26,11 @@ echo
 # copy vim vimrc
 cp ~/.vimrc $HOME/hause/significant\ things/dot_files && echo vimrc copied successfully
 
+# copy emacs
+cp ~/.config/doom/config.el $HOME/hause/significant\ things/dot_files && echo config.el copied successfully
+cp ~/.config/doom/init.el $HOME/hause/significant\ things/dot_files && echo init.el copied successfully
+cp ~/.config/doom/packages.el $HOME/hause/significant\ things/dot_files && echo packages.el copied successfully
+
 # copy yourself
 cp ~/scripts/push_dots.sh $HOME/hause/significant\ things/dot_files/ && echo push_dots.sh was copied successfully!
 
