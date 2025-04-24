@@ -58,6 +58,7 @@ source $ZSH/oh-my-zsh.sh
 # ALIASES
 
 # apps
+alias zathura="zathura_tracked.sh"
 # alias vi="$HOME/.local/bin/lvim"
 alias nvim="$HOME/.local/bin/lvim"
 # alias nvim=vi

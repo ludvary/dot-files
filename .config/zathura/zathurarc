@@ -63,3 +63,7 @@ set highlight-fg              "#e29eca"
 set highlight-active-color	  "#e29eca"
 map <C-i> recolor
 map <C-Space> toggle_statusbar
+
+# ~/.config/zathura/zathurarc
+set database "sqlite"
+#set data-dir "~/.local/share/zathura"
