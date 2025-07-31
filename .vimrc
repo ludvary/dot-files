@@ -15,7 +15,12 @@ Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'HerringtonDarkholme/yats.vim' " TS Syntax
 Plug 'ryanoasis/vim-devicons'
+Plug 'everviolet/nvim', { 'as': 'evergarden' }
 Plug 'maxmellon/vim-jsx-pretty'
+Plug 'jpo/vim-railscasts-theme'
+Plug 'endel/vim-github-colorscheme'
+Plug 'nightsense/carbonized'
+Plug 'flazz/vim-colorschemes'
 Plug 'projekt0n/github-nvim-theme', { 'tag': 'v0.0.7' }
 " Initialize plugin system
 call plug#end()
@@ -66,12 +71,14 @@ nnoremap <Leader>t :tabs<CR>
 
 let g:NERDTreeGitStatusWithFlags = 1
 let g:airline_theme='gruvbox'
-colorscheme gruvbox
 "let g:dracula_italic = 0
 "packadd! dracula
 "syntax enable
 "colorscheme dracula
 "colorscheme github_dark 
+colorscheme retrobox 
+"SetColors all
+"colorscheme Benokai
 highlight Normal ctermbg=None
 let g:airline#extensions#tabline#enabled = 1
 let g:airline#extensions#tabline#formatter = 'default'

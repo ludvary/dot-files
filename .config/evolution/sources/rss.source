@@ -1,0 +1,33 @@
+[Data Source]
+DisplayName=News and Blogs
+Enabled=true
+Parent=
+
+[Mail Account]
+BackendName=rss
+IdentityUid=self
+ArchiveFolder=
+NeedsInitialSetup=false
+MarkSeen=inconsistent
+MarkSeenTimeout=1500
+Builtin=true
+
+[Offline]
+StaySynchronized=false
+
+[Refresh]
+Enabled=true
+EnabledOnMeteredNetwork=true
+IntervalMinutes=60
+
+[Rss Backend]
+FilterInbox=true
+StoreChangesInterval=3
+LimitByAge=false
+LimitUnit=years
+LimitValue=1
+FilterAll=false
+CompleteArticles=false
+FeedEnclosures=false
+LimitFeedEnclosureSize=false
+MaxFeedEnclosureSize=0

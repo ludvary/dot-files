@@ -67,3 +67,10 @@ map <C-Space> toggle_statusbar
 # ~/.config/zathura/zathurarc
 set database "sqlite"
 #set data-dir "~/.local/share/zathura"
+
+# Follow hyperlinks (including citations)
+map f follow
+map <Return> follow
+
+# Go back to previous position after following a link
+map b navigate previous

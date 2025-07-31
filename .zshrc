@@ -1,3 +1,10 @@
+# Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
+# Initialization code that may require console input (password prompts, [y/n]
+# confirmations, etc.) must go above this block; everything else may go below.
+# if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]; then
+#   source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
+# fi
+
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
 
@@ -18,10 +25,11 @@ export ZSH="$HOME/.oh-my-zsh"
 #ZSH_THEME="tjkirch"
 #ZSH_THEME="tonotdo"
 # ZSH_THEME="bureau" # nice
-#ZSH_THEME="clean" # nice
+# ZSH_THEME="clean" # nice
 ZSH_THEME="dieter"
 # ZSH_THEME="crunch" # nice
 
+# ZSH_THEME="powerlevel10k/powerlevel10k"
 
 # set neovim as the manpager
 # export MANPAGER="nvim -c 'set ft=nam' -"
@@ -48,8 +56,9 @@ plugins=(git
 
 # EDITOR=vim ranger
 
-export EDITOR=vim
-export VISUAL=vim
+export EDITOR=nano
+#export EDITOR=vim
+#export VISUAL=vim
 
 source $ZSH/oh-my-zsh.sh
 
@@ -106,7 +115,18 @@ alias ssh_lab="ssh admin3@192.168.8.31" # pass ccms@admin
 alias ssh_main_lab="ssh admin3@192.168.8.26"
 alias cluster_beta="ssh -X krishna@192.168.35.162" # pass : 23rd
 alias my_pc="ssh -X krishna@192.168.33.174"         # pass : 23rd
+
+alias one_nine_three="ssh -X krishna@172.16.23.193"
 alias one_nine_two="ssh -X krishna@172.16.23.192"
+alias one_nine_one="ssh -X krishna@172.16.23.191"
+alias one_nine_zero="ssh -X krishna@172.16.23.190"
+
+alias one_eight_six="ssh -X krishna@172.16.23.186"
+alias one_eight_seven="ssh -X krishna@172.16.23.187"
+alias one_eight_eight="ssh -X krishna@172.16.23.188"
+alias one_eight_nine="ssh -X krishna@172.16.23.189"
+
+alias storage_server="ssh -X krishna@172.16.23.180"
 
 # to enable some vim goodness in terminal
 set -o vi
@@ -171,7 +191,6 @@ export OMP_NUM_THREADS=8
 export MPD_HOST=$HOME/.config/mpd/socket
 
 
-
 # ### FullProf Suite ###
 # FULLPROF=/home/Fornax/Downloads/misc/fullprof
 # PATH=$FULLPROF:$PATH
@@ -188,3 +207,6 @@ PATH=$FULLPROF:$PATH
 export PATH FULLPROF
 # source /home/Fornax/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 export PATH=$HOME/android-tools/platform-tools:$PATH
+
+# To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
+[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh

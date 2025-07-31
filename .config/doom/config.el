@@ -207,11 +207,24 @@
   :config
   (auctex-latexmk-setup))
 
+;; (after! tex
+;;   (setq TeX-view-program-selection '((output-pdf "Zathura"))
+;;         TeX-source-correlate-start-server t
+;;         TeX-save-query nil
+;;         TeX-show-compilation t)
+
 (after! tex
-  (setq TeX-view-program-selection '((output-pdf "Zathura"))
+  (setq TeX-source-correlate-method 'synctex
+        TeX-view-program-selection '((output-pdf "Zathura"))
         TeX-source-correlate-start-server t
         TeX-save-query nil
         TeX-show-compilation t)
+
+  ;; Start Emacs server if not already started
+  (server-start)
+
+
+
 
   (add-hook 'LaTeX-mode-hook #'TeX-auto-compile-mode)
   (add-hook 'LaTeX-mode-hook #'TeX-source-correlate-mode))

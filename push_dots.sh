@@ -26,6 +26,9 @@ echo
 # copy vim vimrc
 cp ~/.vimrc $HOME/hause/significant\ things/dot_files && echo vimrc copied successfully
 
+# copy .vim folder
+cp -r ~/.vim $HOME/hause/significant\ things/dot_files && echo .vim dir copied successfully
+
 # copy emacs
 cp ~/.config/doom/config.el $HOME/hause/significant\ things/dot_files && echo config.el copied successfully
 cp ~/.config/doom/init.el $HOME/hause/significant\ things/dot_files && echo init.el copied successfully

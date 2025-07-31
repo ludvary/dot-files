@@ -89,6 +89,8 @@ lvim.plugins = {
   {"ntk148v/komau.vim", lazy = false},
   {"ludvary/photon.vim", lazy = false},
   {"ludvary/sainnhe_gruvbox_brighter", lazy=false},
+    {"everviolet/nvim", lazy=false},
+    {"ange-yaghi/onedark.vim", lazy=false},
   -- {"axvr/photon.vim", lazy = false},
   -- {"morhetz/gruvbox", lazy=false},
     {
@@ -105,12 +107,30 @@ lvim.plugins = {
 -- vim.cmd("color paper")
 -- lvim.colorscheme = "gruvbox-material"
 -- lvim.colorscheme = "sobrio"
-lvim.colorscheme = "retrobox"
+-- lvim.colorscheme = "retrobox"
+lvim.colorscheme = "evergarden-winter"
 
 
 -- remaps
 lvim.keys.normal_mode["|"] = ":vsplit<CR>"
 lvim.keys.normal_mode["-"] = ":split<CR>"
+
+-- Use Telescope buffers for <leader>,
+vim.keymap.set("n", "<leader>,", function()
+  require("telescope.builtin").buffers({
+    initial_mode = "insert",
+    sort_lastused = true,
+    ignore_current_buffer = true
+  })
+end, { desc = "Switch to Previous Buffer or Select Another" })
+
+-- Use Telescope find_files for <leader>.
+vim.keymap.set("n", "<leader>.", function()
+  require("telescope.builtin").find_files({
+    previewer = false,
+    hidden = true
+  })
+end, { desc = "Find File" })
 
 local present, alpha = pcall(require, "alpha")
 if not present then

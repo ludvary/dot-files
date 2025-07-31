@@ -138,6 +138,8 @@ bindsym $mod+Shift+8 move container to workspace $ws8
 bindsym $mod+Shift+9 move container to workspace $ws9
 bindsym $mod+Shift+0 move container to workspace $ws10
 
+bindsym Mod1+Tab workspace back_and_forth
+
 # reload the configuration file
 bindsym $mod+Shift+c reload
 # restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
@@ -166,6 +168,8 @@ exec_always nitrogen --restore
 
 # launch the xfce4-power-manager at startup
 exec --no-startup-id xfce4-power-manager
+
+exec --no-startup-id /usr/bin/gnome-keyring-daemon --start --components=secrets,pkcs11,ssh
 
 # launch picom
 exec_always picom
@@ -197,14 +201,19 @@ bindsym Mod1+e exec "cd ~/hause/significant\ things/ && emacs"
 # bindsym Mod1+Shift+p exec --no-startup-id /bin/bash ~/.config/polybar/material/scripts/pywal.sh ~/hause/significant things/wallpapers/ && /bin/bash ~/.config/polybar/launch.sh --material
 bindsym Mod1+Shift+p exec --no-startup-id /bin/bash ~/.config/polybar/launch.sh --forest
 
+# launch gnuplot plots as floating windows
+# for_window [class="gnuplot_qt"] floating enable
+for_window [class="gnuplot_qt"] floating enable, focus
+# for_window [class="gnuplot_qt"] move to scratchpad, scratchpad show, floating enable, move position center
+
 # launch rofi wifi manager
-# bindsym Mod1+Shift+w exec "~/scripts/rofi-wifi-menu.sh" # this for some reason is slow as hell idk bruh
-bindsym Mod1+Shift+w exec "~/networkmanager-dmenu/networkmanager_dmenu"
+bindsym Mod1+Shift+w exec "/home/Fornax/scripts/rofi-wifi-menu.sh"
+# bindsym Mod1+Shift+w exec "~/networkmanager-dmenu/networkmanager_dmenu"
 
 # gaps
 gaps inner 6
 gaps outer 3
-gaps top 6
+gaps top 3
 
 # lock the screen
 bindsym Mod1+Ctrl+Return exec ~/scripts/lock.sh
