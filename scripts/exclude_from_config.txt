@@ -4,6 +4,8 @@
 CurseForge/
 kate/
 coc/
+calcure/
+evolution/
 ow-electron/
 audacity/
 "sublime-text-safe-mode/Local"
